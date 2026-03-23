@@ -42,7 +42,7 @@ function Nav() {
         gap: 32,
         justifyContent: "space-between",
       }}>
-        <span style={{ fontSize: 16, fontWeight: 900, color: "var(--green)", letterSpacing: "-0.5px" }}>Seven.</span>
+        <span style={{ fontSize: 16, fontWeight: 900, color: "var(--green)", letterSpacing: "-0.5px" }}>Seven Years of Spotify</span>
         <div style={{ display: "flex", gap: 24, flexWrap: "wrap" }}>
           {links.map(l => (
             <a
@@ -100,7 +100,7 @@ export default function App() {
     return (
       <div style={{ display: "flex", alignItems: "center", justifyContent: "center", height: "100vh", color: "var(--muted)" }}>
         <div>
-          <div style={{ fontSize: 48, fontWeight: 900, color: "var(--green)", marginBottom: 16 }}>Seven.</div>
+          <div style={{ fontSize: 48, fontWeight: 900, color: "var(--green)", marginBottom: 16 }}>Seven Years of Spotify</div>
           <div style={{ fontSize: 14, color: "#555" }}>Loading 7 years of data...</div>
         </div>
       </div>

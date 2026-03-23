@@ -44,7 +44,7 @@ export default function Hero({ overview, genreEvolution }) {
             letterSpacing: "-2px",
             marginBottom: 16,
           }}>
-            Seven<span style={{ color: "var(--green)" }}>.</span>
+            Seven Years<span style={{ color: "var(--green)" }}> of Spotify</span>
           </h1>
           <p style={{ fontSize: "clamp(16px, 2.5vw, 22px)", color: "var(--muted)", maxWidth: 600 }}>
             {overview.years_active} years of listening. {overview.total_streams.toLocaleString()} streams.
