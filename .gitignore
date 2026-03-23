@@ -1,0 +1,18 @@
+# Raw Spotify data — never commit
+spotify_data/
+my_spotify_data.zip
+my_spotify_data_extended.zip
+*.db
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Node / Vite
+node_modules/
+showcase/web/dist/
+
+# macOS
+.DS_Store

@@ -1,0 +1,397 @@
+{
+  "by_year": {
+    "2019": {
+      "Indian Indie/Folk": 4.2,
+      "Hip-Hop": 15.9,
+      "Classic Rock": 50.3,
+      "Alternative/Indie Rock": 3.9,
+      "Punjabi/Bhangra": 0.3,
+      "Other": 25.4
+    },
+    "2020": {
+      "Indian Indie/Folk": 11.7,
+      "Hip-Hop": 17.9,
+      "Classic Rock": 29.6,
+      "Alternative/Indie Rock": 10.1,
+      "Punjabi/Bhangra": 0.0,
+      "Other": 30.7
+    },
+    "2021": {
+      "Indian Indie/Folk": 6.3,
+      "Hip-Hop": 28.6,
+      "Classic Rock": 28.3,
+      "Alternative/Indie Rock": 6.6,
+      "Punjabi/Bhangra": 0.1,
+      "Other": 30.1
+    },
+    "2022": {
+      "Indian Indie/Folk": 8.4,
+      "Hip-Hop": 17.9,
+      "Classic Rock": 32.2,
+      "Alternative/Indie Rock": 6.4,
+      "Punjabi/Bhangra": 0.2,
+      "Other": 34.9
+    },
+    "2023": {
+      "Indian Indie/Folk": 5.5,
+      "Hip-Hop": 19.0,
+      "Classic Rock": 24.2,
+      "Alternative/Indie Rock": 8.2,
+      "Punjabi/Bhangra": 0.2,
+      "Other": 42.9
+    },
+    "2024": {
+      "Indian Indie/Folk": 10.1,
+      "Hip-Hop": 12.6,
+      "Classic Rock": 34.8,
+      "Alternative/Indie Rock": 11.1,
+      "Punjabi/Bhangra": 0.0,
+      "Other": 31.4
+    },
+    "2025": {
+      "Indian Indie/Folk": 7.0,
+      "Hip-Hop": 33.9,
+      "Classic Rock": 18.5,
+      "Alternative/Indie Rock": 7.8,
+      "Punjabi/Bhangra": 0.5,
+      "Other": 32.3
+    },
+    "2026": {
+      "Indian Indie/Folk": 11.5,
+      "Hip-Hop": 13.8,
+      "Classic Rock": 26.4,
+      "Alternative/Indie Rock": 14.6,
+      "Punjabi/Bhangra": 0.7,
+      "Other": 33.0
+    }
+  },
+  "identities": [
+    "Indian Indie/Folk",
+    "Hip-Hop",
+    "Classic Rock",
+    "Alternative/Indie Rock",
+    "Punjabi/Bhangra"
+  ],
+  "identity_artists": {
+    "Classic Rock": [
+      {
+        "name": "The Beatles",
+        "plays": 971,
+        "skip_pct": 36.5
+      },
+      {
+        "name": "Pink Floyd",
+        "plays": 306,
+        "skip_pct": 45.5
+      },
+      {
+        "name": "Queen",
+        "plays": 270,
+        "skip_pct": 43.3
+      },
+      {
+        "name": "Red Hot Chili Peppers",
+        "plays": 212,
+        "skip_pct": 38.4
+      },
+      {
+        "name": "The Rolling Stones",
+        "plays": 164,
+        "skip_pct": 38.8
+      },
+      {
+        "name": "Nirvana",
+        "plays": 143,
+        "skip_pct": 51.5
+      },
+      {
+        "name": "Linkin Park",
+        "plays": 141,
+        "skip_pct": 50.4
+      },
+      {
+        "name": "David Bowie",
+        "plays": 125,
+        "skip_pct": 40.2
+      },
+      {
+        "name": "Bob Dylan",
+        "plays": 123,
+        "skip_pct": 38.8
+      },
+      {
+        "name": "Jimi Hendrix",
+        "plays": 97,
+        "skip_pct": 35.3
+      },
+      {
+        "name": "The Doors",
+        "plays": 95,
+        "skip_pct": 45.7
+      },
+      {
+        "name": "System Of A Down",
+        "plays": 91,
+        "skip_pct": 50.3
+      },
+      {
+        "name": "The Who",
+        "plays": 91,
+        "skip_pct": 51.9
+      },
+      {
+        "name": "Black Sabbath",
+        "plays": 85,
+        "skip_pct": 47.2
+      },
+      {
+        "name": "Radiohead",
+        "plays": 85,
+        "skip_pct": 35.6
+      }
+    ],
+    "Hip-Hop": [
+      {
+        "name": "Kendrick Lamar",
+        "plays": 518,
+        "skip_pct": 46.2
+      },
+      {
+        "name": "Eminem",
+        "plays": 358,
+        "skip_pct": 52.9
+      },
+      {
+        "name": "MF DOOM",
+        "plays": 246,
+        "skip_pct": 34.4
+      },
+      {
+        "name": "Dr. Dre",
+        "plays": 181,
+        "skip_pct": 45.5
+      },
+      {
+        "name": "Epr Iyer",
+        "plays": 162,
+        "skip_pct": 37.0
+      },
+      {
+        "name": "Linkin Park",
+        "plays": 141,
+        "skip_pct": 50.4
+      },
+      {
+        "name": "A Tribe Called Quest",
+        "plays": 102,
+        "skip_pct": 33.3
+      },
+      {
+        "name": "System Of A Down",
+        "plays": 91,
+        "skip_pct": 50.3
+      },
+      {
+        "name": "Kanye West",
+        "plays": 80,
+        "skip_pct": 60.8
+      },
+      {
+        "name": "The Notorious B.I.G.",
+        "plays": 75,
+        "skip_pct": 47.6
+      },
+      {
+        "name": "Rage Against The Machine",
+        "plays": 71,
+        "skip_pct": 45.0
+      },
+      {
+        "name": "Dub Sharma",
+        "plays": 68,
+        "skip_pct": 42.9
+      },
+      {
+        "name": "Madvillain",
+        "plays": 68,
+        "skip_pct": 57.5
+      },
+      {
+        "name": "Nas",
+        "plays": 62,
+        "skip_pct": 49.2
+      },
+      {
+        "name": "Outkast",
+        "plays": 57,
+        "skip_pct": 40.6
+      }
+    ],
+    "Alternative/Indie Rock": [
+      {
+        "name": "The Local Train",
+        "plays": 462,
+        "skip_pct": 36.3
+      },
+      {
+        "name": "Anuv Jain",
+        "plays": 270,
+        "skip_pct": 36.8
+      },
+      {
+        "name": "Red Hot Chili Peppers",
+        "plays": 212,
+        "skip_pct": 38.4
+      },
+      {
+        "name": "Nirvana",
+        "plays": 143,
+        "skip_pct": 51.5
+      },
+      {
+        "name": "Prateek Kuhad",
+        "plays": 108,
+        "skip_pct": 48.3
+      },
+      {
+        "name": "Radiohead",
+        "plays": 85,
+        "skip_pct": 35.6
+      },
+      {
+        "name": "Ankur Tewari",
+        "plays": 53,
+        "skip_pct": 52.3
+      },
+      {
+        "name": "Tame Impala",
+        "plays": 45,
+        "skip_pct": 51.6
+      },
+      {
+        "name": "Pixies",
+        "plays": 43,
+        "skip_pct": 41.1
+      },
+      {
+        "name": "Jasleen Royal",
+        "plays": 42,
+        "skip_pct": 31.1
+      },
+      {
+        "name": "RollsRoy's",
+        "plays": 33,
+        "skip_pct": 19.5
+      },
+      {
+        "name": "R.E.M.",
+        "plays": 31,
+        "skip_pct": 36.7
+      },
+      {
+        "name": "The White Stripes",
+        "plays": 30,
+        "skip_pct": 55.2
+      },
+      {
+        "name": "3 Doors Down",
+        "plays": 27,
+        "skip_pct": 34.1
+      },
+      {
+        "name": "Weezer",
+        "plays": 26,
+        "skip_pct": 36.6
+      }
+    ],
+    "Indian Indie/Folk": [
+      {
+        "name": "The Local Train",
+        "plays": 462,
+        "skip_pct": 36.3
+      },
+      {
+        "name": "Anuv Jain",
+        "plays": 270,
+        "skip_pct": 36.8
+      },
+      {
+        "name": "Prateek Kuhad",
+        "plays": 108,
+        "skip_pct": 48.3
+      },
+      {
+        "name": "Pritam",
+        "plays": 79,
+        "skip_pct": 60.3
+      },
+      {
+        "name": "A.R. Rahman",
+        "plays": 59,
+        "skip_pct": 49.6
+      },
+      {
+        "name": "Ankur Tewari",
+        "plays": 53,
+        "skip_pct": 52.3
+      },
+      {
+        "name": "Jasleen Royal",
+        "plays": 42,
+        "skip_pct": 31.1
+      },
+      {
+        "name": "Ranveer Singh",
+        "plays": 41,
+        "skip_pct": 71.1
+      },
+      {
+        "name": "RollsRoy's",
+        "plays": 33,
+        "skip_pct": 19.5
+      },
+      {
+        "name": "Suman Kalyanpur",
+        "plays": 29,
+        "skip_pct": 9.4
+      },
+      {
+        "name": "SAMBATA",
+        "plays": 28,
+        "skip_pct": 39.1
+      },
+      {
+        "name": "Silk Route",
+        "plays": 24,
+        "skip_pct": 42.9
+      },
+      {
+        "name": "Atif Aslam",
+        "plays": 23,
+        "skip_pct": 54.9
+      },
+      {
+        "name": "King",
+        "plays": 23,
+        "skip_pct": 48.9
+      },
+      {
+        "name": "Shankar Mahadevan",
+        "plays": 21,
+        "skip_pct": 54.3
+      }
+    ],
+    "Punjabi/Bhangra": [
+      {
+        "name": "DIVINE",
+        "plays": 40,
+        "skip_pct": 60.0
+      },
+      {
+        "name": "AP Dhillon",
+        "plays": 29,
+        "skip_pct": 55.4
+      }
+    ]
+  }
+}

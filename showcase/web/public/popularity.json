@@ -1,0 +1,367 @@
+{
+  "overall": [
+    {
+      "bucket": "mainstream",
+      "label": "Mainstream (80\u2013100)",
+      "pop_min": 80,
+      "pop_max": 100,
+      "full_plays": 2632,
+      "pct": 27.93,
+      "skip_pct": 42.1
+    },
+    {
+      "bucket": "popular",
+      "label": "Popular (60\u201379)",
+      "pop_min": 60,
+      "pop_max": 79,
+      "full_plays": 3991,
+      "pct": 42.35,
+      "skip_pct": 39.9
+    },
+    {
+      "bucket": "mid",
+      "label": "Mid-tier (40\u201359)",
+      "pop_min": 40,
+      "pop_max": 59,
+      "full_plays": 1670,
+      "pct": 17.72,
+      "skip_pct": 34.8
+    },
+    {
+      "bucket": "niche",
+      "label": "Niche (20\u201339)",
+      "pop_min": 20,
+      "pop_max": 39,
+      "full_plays": 486,
+      "pct": 5.16,
+      "skip_pct": 44.1
+    },
+    {
+      "bucket": "underground",
+      "label": "Underground (<20)",
+      "pop_min": 0,
+      "pop_max": 19,
+      "full_plays": 644,
+      "pct": 6.83,
+      "skip_pct": 33.3
+    }
+  ],
+  "trend": [
+    {
+      "year": 2019,
+      "avg_pop": 59.5,
+      "full_plays": 1369
+    },
+    {
+      "year": 2020,
+      "avg_pop": 56.2,
+      "full_plays": 1162
+    },
+    {
+      "year": 2021,
+      "avg_pop": 61.5,
+      "full_plays": 1778
+    },
+    {
+      "year": 2022,
+      "avg_pop": 64.7,
+      "full_plays": 1680
+    },
+    {
+      "year": 2023,
+      "avg_pop": 67.6,
+      "full_plays": 1056
+    },
+    {
+      "year": 2024,
+      "avg_pop": 70.4,
+      "full_plays": 403
+    },
+    {
+      "year": 2025,
+      "avg_pop": 70.2,
+      "full_plays": 1162
+    },
+    {
+      "year": 2026,
+      "avg_pop": 73.7,
+      "full_plays": 813
+    }
+  ],
+  "tier_by_year": [
+    {
+      "year": 2019,
+      "mainstream": 18.77,
+      "popular": 37.69,
+      "mid": 27.61,
+      "niche": 8.69,
+      "underground": 7.23
+    },
+    {
+      "year": 2020,
+      "mainstream": 17.3,
+      "popular": 37.61,
+      "mid": 26.33,
+      "niche": 7.23,
+      "underground": 11.53
+    },
+    {
+      "year": 2021,
+      "mainstream": 27.05,
+      "popular": 42.01,
+      "mid": 13.84,
+      "niche": 5.62,
+      "underground": 11.47
+    },
+    {
+      "year": 2022,
+      "mainstream": 27.68,
+      "popular": 43.51,
+      "mid": 17.5,
+      "niche": 5.12,
+      "underground": 6.19
+    },
+    {
+      "year": 2023,
+      "mainstream": 38.54,
+      "popular": 39.02,
+      "mid": 12.22,
+      "niche": 2.84,
+      "underground": 7.39
+    },
+    {
+      "year": 2024,
+      "mainstream": 30.27,
+      "popular": 52.11,
+      "mid": 11.41,
+      "niche": 2.23,
+      "underground": 3.97
+    },
+    {
+      "year": 2025,
+      "mainstream": 34.25,
+      "popular": 45.52,
+      "mid": 15.06,
+      "niche": 4.48,
+      "underground": 0.69
+    },
+    {
+      "year": 2026,
+      "mainstream": 37.02,
+      "popular": 50.31,
+      "mid": 11.81,
+      "niche": 0.74,
+      "underground": 0.12
+    }
+  ],
+  "tier_order": [
+    "mainstream",
+    "popular",
+    "mid",
+    "niche",
+    "underground"
+  ],
+  "tier_labels": {
+    "mainstream": "Mainstream (80\u2013100)",
+    "popular": "Popular (60\u201379)",
+    "mid": "Mid-tier (40\u201359)",
+    "niche": "Niche (20\u201339)",
+    "underground": "Underground (<20)"
+  },
+  "underground_gems": [
+    {
+      "track": "Can I Kick It?",
+      "artist": "A Tribe Called Quest",
+      "full_plays": 38,
+      "popularity": 6,
+      "completion_pct": 65.8,
+      "skip_pct": 20.8
+    },
+    {
+      "track": "Poorna Swaraj",
+      "artist": "RollsRoy's",
+      "full_plays": 33,
+      "popularity": 13,
+      "completion_pct": 76.1,
+      "skip_pct": 19.5
+    },
+    {
+      "track": "Forgot About Dre",
+      "artist": "Dr. Dre",
+      "full_plays": 33,
+      "popularity": 1,
+      "completion_pct": 84.6,
+      "skip_pct": 13.2
+    },
+    {
+      "track": "THAT'S THAT",
+      "artist": "MF DOOM",
+      "full_plays": 31,
+      "popularity": 0,
+      "completion_pct": 66.6,
+      "skip_pct": 35.4
+    },
+    {
+      "track": "Kaisey Jiyun",
+      "artist": "The Local Train",
+      "full_plays": 31,
+      "popularity": 0,
+      "completion_pct": 62.0,
+      "skip_pct": 35.4
+    },
+    {
+      "track": "Vaaqif",
+      "artist": "The Local Train",
+      "full_plays": 30,
+      "popularity": 0,
+      "completion_pct": 55.5,
+      "skip_pct": 30.2
+    },
+    {
+      "track": "Rhymes Like Dimes",
+      "artist": "MF DOOM",
+      "full_plays": 28,
+      "popularity": 0,
+      "completion_pct": 56.5,
+      "skip_pct": 24.3
+    },
+    {
+      "track": "Choo Lo",
+      "artist": "The Local Train",
+      "full_plays": 27,
+      "popularity": 0,
+      "completion_pct": 56.9,
+      "skip_pct": 38.6
+    },
+    {
+      "track": "Yeh Zindagi Hai",
+      "artist": "The Local Train",
+      "full_plays": 20,
+      "popularity": 0,
+      "completion_pct": 51.6,
+      "skip_pct": 39.4
+    },
+    {
+      "track": "Mein Ravaa",
+      "artist": "Epr Iyer",
+      "full_plays": 17,
+      "popularity": 18,
+      "completion_pct": 62.7,
+      "skip_pct": 29.2
+    },
+    {
+      "track": "Walk Of Life",
+      "artist": "Dire Straits",
+      "full_plays": 14,
+      "popularity": 3,
+      "completion_pct": 69.2,
+      "skip_pct": 22.2
+    },
+    {
+      "track": "Tukde Tukde Gang ?",
+      "artist": "Madara",
+      "full_plays": 14,
+      "popularity": 13,
+      "completion_pct": 32.6,
+      "skip_pct": 61.1
+    }
+  ],
+  "mainstream_hits": [
+    {
+      "track": "Paint It, Black",
+      "artist": "The Rolling Stones",
+      "full_plays": 52,
+      "popularity": 84,
+      "completion_pct": 66.7,
+      "skip_pct": 27.8
+    },
+    {
+      "track": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "artist": "Elton John",
+      "full_plays": 46,
+      "popularity": 80,
+      "completion_pct": 71.0,
+      "skip_pct": 24.6
+    },
+    {
+      "track": "Killing In The Name",
+      "artist": "Rage Against The Machine",
+      "full_plays": 41,
+      "popularity": 81,
+      "completion_pct": 65.7,
+      "skip_pct": 28.1
+    },
+    {
+      "track": "Under Pressure - Remastered 2011",
+      "artist": "Queen",
+      "full_plays": 40,
+      "popularity": 83,
+      "completion_pct": 63.3,
+      "skip_pct": 31.0
+    },
+    {
+      "track": "Come As You Are",
+      "artist": "Nirvana",
+      "full_plays": 40,
+      "popularity": 84,
+      "completion_pct": 44.9,
+      "skip_pct": 43.7
+    },
+    {
+      "track": "Creep",
+      "artist": "Radiohead",
+      "full_plays": 39,
+      "popularity": 92,
+      "completion_pct": 69.8,
+      "skip_pct": 20.4
+    },
+    {
+      "track": "Wish You Were Here",
+      "artist": "Pink Floyd",
+      "full_plays": 37,
+      "popularity": 83,
+      "completion_pct": 55.1,
+      "skip_pct": 43.9
+    },
+    {
+      "track": "Under the Bridge",
+      "artist": "Red Hot Chili Peppers",
+      "full_plays": 35,
+      "popularity": 86,
+      "completion_pct": 54.5,
+      "skip_pct": 36.4
+    },
+    {
+      "track": "Forgot About Dre",
+      "artist": "Dr. Dre",
+      "full_plays": 32,
+      "popularity": 80,
+      "completion_pct": 51.2,
+      "skip_pct": 46.7
+    },
+    {
+      "track": "Don't Stop Me Now - Remastered 2011",
+      "artist": "Queen",
+      "full_plays": 32,
+      "popularity": 83,
+      "completion_pct": 67.6,
+      "skip_pct": 23.8
+    },
+    {
+      "track": "Alright",
+      "artist": "Kendrick Lamar",
+      "full_plays": 32,
+      "popularity": 80,
+      "completion_pct": 65.7,
+      "skip_pct": 23.8
+    },
+    {
+      "track": "It Was A Good Day",
+      "artist": "Ice Cube",
+      "full_plays": 32,
+      "popularity": 80,
+      "completion_pct": 53.9,
+      "skip_pct": 38.5
+    }
+  ]
+}

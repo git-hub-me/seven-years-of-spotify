@@ -1,0 +1,23 @@
+{
+  "total_streams": 28214,
+  "total_hours": 771.6,
+  "unique_artists": 2555,
+  "unique_tracks": 7767,
+  "skip_rate_pct": 51.8,
+  "first_stream": "2019-02-25 06:00",
+  "last_stream": "2026-03-12 14:32",
+  "years_active": 8,
+  "top_artist_ever": {
+    "name": "The Beatles",
+    "plays": 971
+  },
+  "top_track_ever": {
+    "track": "Husn",
+    "artist": "Anuv Jain",
+    "plays": 77
+  },
+  "peak_year": {
+    "year": 2021,
+    "hours": 154.4
+  }
+}

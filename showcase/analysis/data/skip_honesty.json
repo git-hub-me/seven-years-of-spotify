@@ -1,0 +1,3074 @@
+[
+  {
+    "artist": "The Beatles",
+    "total_plays": 1530,
+    "full_plays": 971,
+    "skip_pct": 36.5,
+    "hours": 45.82,
+    "category": "obsession"
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "total_plays": 963,
+    "full_plays": 518,
+    "skip_pct": 46.2,
+    "hours": 32.22,
+    "category": "complicated"
+  },
+  {
+    "artist": "Eminem",
+    "total_plays": 760,
+    "full_plays": 358,
+    "skip_pct": 52.9,
+    "hours": 23.53,
+    "category": "complicated"
+  },
+  {
+    "artist": "The Local Train",
+    "total_plays": 725,
+    "full_plays": 462,
+    "skip_pct": 36.3,
+    "hours": 30.2,
+    "category": "obsession"
+  },
+  {
+    "artist": "Pink Floyd",
+    "total_plays": 561,
+    "full_plays": 306,
+    "skip_pct": 45.5,
+    "hours": 26.1,
+    "category": "complicated"
+  },
+  {
+    "artist": "Queen",
+    "total_plays": 476,
+    "full_plays": 270,
+    "skip_pct": 43.3,
+    "hours": 15.87,
+    "category": "complicated"
+  },
+  {
+    "artist": "Anuv Jain",
+    "total_plays": 427,
+    "full_plays": 270,
+    "skip_pct": 36.8,
+    "hours": 15.77,
+    "category": "obsession"
+  },
+  {
+    "artist": "MF DOOM",
+    "total_plays": 375,
+    "full_plays": 246,
+    "skip_pct": 34.4,
+    "hours": 11.53,
+    "category": "obsession"
+  },
+  {
+    "artist": "JAY-Z",
+    "total_plays": 366,
+    "full_plays": 203,
+    "skip_pct": 44.5,
+    "hours": 11.63,
+    "category": "complicated"
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "total_plays": 344,
+    "full_plays": 212,
+    "skip_pct": 38.4,
+    "hours": 13.52,
+    "category": "obsession"
+  },
+  {
+    "artist": "Dr. Dre",
+    "total_plays": 332,
+    "full_plays": 181,
+    "skip_pct": 45.5,
+    "hours": 10.37,
+    "category": "complicated"
+  },
+  {
+    "artist": "Nirvana",
+    "total_plays": 295,
+    "full_plays": 143,
+    "skip_pct": 51.5,
+    "hours": 7.81,
+    "category": "complicated"
+  },
+  {
+    "artist": "Linkin Park",
+    "total_plays": 284,
+    "full_plays": 141,
+    "skip_pct": 50.4,
+    "hours": 7.6,
+    "category": "complicated"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "total_plays": 268,
+    "full_plays": 164,
+    "skip_pct": 38.8,
+    "hours": 10.81,
+    "category": "complicated"
+  },
+  {
+    "artist": "Epr Iyer",
+    "total_plays": 257,
+    "full_plays": 162,
+    "skip_pct": 37.0,
+    "hours": 8.06,
+    "category": "true_love"
+  },
+  {
+    "artist": "David Bowie",
+    "total_plays": 209,
+    "full_plays": 125,
+    "skip_pct": 40.2,
+    "hours": 8.54,
+    "category": "complicated"
+  },
+  {
+    "artist": "Prateek Kuhad",
+    "total_plays": 209,
+    "full_plays": 108,
+    "skip_pct": 48.3,
+    "hours": 5.65,
+    "category": "complicated"
+  },
+  {
+    "artist": "Kanye West",
+    "total_plays": 204,
+    "full_plays": 80,
+    "skip_pct": 60.8,
+    "hours": 5.25,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Bob Dylan",
+    "total_plays": 201,
+    "full_plays": 123,
+    "skip_pct": 38.8,
+    "hours": 6.74,
+    "category": "complicated"
+  },
+  {
+    "artist": "Pritam",
+    "total_plays": 199,
+    "full_plays": 79,
+    "skip_pct": 60.3,
+    "hours": 4.98,
+    "category": "aspirational"
+  },
+  {
+    "artist": "The Who",
+    "total_plays": 189,
+    "full_plays": 91,
+    "skip_pct": 51.9,
+    "hours": 5.82,
+    "category": "complicated"
+  },
+  {
+    "artist": "System Of A Down",
+    "total_plays": 183,
+    "full_plays": 91,
+    "skip_pct": 50.3,
+    "hours": 4.45,
+    "category": "complicated"
+  },
+  {
+    "artist": "The Doors",
+    "total_plays": 175,
+    "full_plays": 95,
+    "skip_pct": 45.7,
+    "hours": 5.98,
+    "category": "complicated"
+  },
+  {
+    "artist": "CZARFACE",
+    "total_plays": 167,
+    "full_plays": 80,
+    "skip_pct": 52.1,
+    "hours": 3.09,
+    "category": "complicated"
+  },
+  {
+    "artist": "Avicii",
+    "total_plays": 162,
+    "full_plays": 54,
+    "skip_pct": 66.7,
+    "hours": 2.77,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Black Sabbath",
+    "total_plays": 161,
+    "full_plays": 85,
+    "skip_pct": 47.2,
+    "hours": 4.88,
+    "category": "complicated"
+  },
+  {
+    "artist": "Madvillain",
+    "total_plays": 160,
+    "full_plays": 68,
+    "skip_pct": 57.5,
+    "hours": 2.28,
+    "category": "complicated"
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "total_plays": 153,
+    "full_plays": 102,
+    "skip_pct": 33.3,
+    "hours": 5.81,
+    "category": "true_love"
+  },
+  {
+    "artist": "Jimi Hendrix",
+    "total_plays": 150,
+    "full_plays": 97,
+    "skip_pct": 35.3,
+    "hours": 5.23,
+    "category": "true_love"
+  },
+  {
+    "artist": "Coldplay",
+    "total_plays": 144,
+    "full_plays": 72,
+    "skip_pct": 50.0,
+    "hours": 4.59,
+    "category": "complicated"
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "total_plays": 143,
+    "full_plays": 75,
+    "skip_pct": 47.6,
+    "hours": 4.09,
+    "category": "complicated"
+  },
+  {
+    "artist": "George Harrison",
+    "total_plays": 142,
+    "full_plays": 89,
+    "skip_pct": 37.3,
+    "hours": 5.97,
+    "category": "true_love"
+  },
+  {
+    "artist": "Ranveer Singh",
+    "total_plays": 142,
+    "full_plays": 41,
+    "skip_pct": 71.1,
+    "hours": 1.55,
+    "category": "aspirational"
+  },
+  {
+    "artist": "The Velvet Underground",
+    "total_plays": 139,
+    "full_plays": 80,
+    "skip_pct": 42.4,
+    "hours": 5.76,
+    "category": "complicated"
+  },
+  {
+    "artist": "Led Zeppelin",
+    "total_plays": 137,
+    "full_plays": 68,
+    "skip_pct": 50.4,
+    "hours": 4.83,
+    "category": "complicated"
+  },
+  {
+    "artist": "Radiohead",
+    "total_plays": 132,
+    "full_plays": 85,
+    "skip_pct": 35.6,
+    "hours": 5.01,
+    "category": "true_love"
+  },
+  {
+    "artist": "Guns N' Roses",
+    "total_plays": 130,
+    "full_plays": 74,
+    "skip_pct": 43.1,
+    "hours": 5.74,
+    "category": "complicated"
+  },
+  {
+    "artist": "Rage Against The Machine",
+    "total_plays": 129,
+    "full_plays": 71,
+    "skip_pct": 45.0,
+    "hours": 4.67,
+    "category": "complicated"
+  },
+  {
+    "artist": "Green Day",
+    "total_plays": 128,
+    "full_plays": 78,
+    "skip_pct": 39.1,
+    "hours": 4.2,
+    "category": "complicated"
+  },
+  {
+    "artist": "Elton John",
+    "total_plays": 126,
+    "full_plays": 80,
+    "skip_pct": 36.5,
+    "hours": 5.99,
+    "category": "true_love"
+  },
+  {
+    "artist": "AC/DC",
+    "total_plays": 125,
+    "full_plays": 58,
+    "skip_pct": 53.6,
+    "hours": 3.26,
+    "category": "complicated"
+  },
+  {
+    "artist": "Nas",
+    "total_plays": 122,
+    "full_plays": 62,
+    "skip_pct": 49.2,
+    "hours": 4.1,
+    "category": "complicated"
+  },
+  {
+    "artist": "Dub Sharma",
+    "total_plays": 119,
+    "full_plays": 68,
+    "skip_pct": 42.9,
+    "hours": 2.61,
+    "category": "complicated"
+  },
+  {
+    "artist": "A.R. Rahman",
+    "total_plays": 117,
+    "full_plays": 59,
+    "skip_pct": 49.6,
+    "hours": 4.73,
+    "category": "complicated"
+  },
+  {
+    "artist": "John Lennon",
+    "total_plays": 114,
+    "full_plays": 58,
+    "skip_pct": 49.1,
+    "hours": 3.21,
+    "category": "complicated"
+  },
+  {
+    "artist": "Ankur Tewari",
+    "total_plays": 111,
+    "full_plays": 53,
+    "skip_pct": 52.3,
+    "hours": 2.71,
+    "category": "complicated"
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "total_plays": 108,
+    "full_plays": 71,
+    "skip_pct": 34.3,
+    "hours": 4.09,
+    "category": "true_love"
+  },
+  {
+    "artist": "Imagine Dragons",
+    "total_plays": 105,
+    "full_plays": 49,
+    "skip_pct": 53.3,
+    "hours": 2.19,
+    "category": "complicated"
+  },
+  {
+    "artist": "Logic",
+    "total_plays": 104,
+    "full_plays": 40,
+    "skip_pct": 61.5,
+    "hours": 2.47,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Eddie Vedder",
+    "total_plays": 103,
+    "full_plays": 53,
+    "skip_pct": 48.5,
+    "hours": 2.82,
+    "category": "complicated"
+  },
+  {
+    "artist": "Post Malone",
+    "total_plays": 103,
+    "full_plays": 38,
+    "skip_pct": 63.1,
+    "hours": 1.92,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Maroon 5",
+    "total_plays": 102,
+    "full_plays": 32,
+    "skip_pct": 68.6,
+    "hours": 1.66,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Akon",
+    "total_plays": 100,
+    "full_plays": 32,
+    "skip_pct": 68.0,
+    "hours": 1.75,
+    "category": "aspirational"
+  },
+  {
+    "artist": "DIVINE",
+    "total_plays": 100,
+    "full_plays": 40,
+    "skip_pct": 60.0,
+    "hours": 1.41,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Ice Cube",
+    "total_plays": 100,
+    "full_plays": 43,
+    "skip_pct": 57.0,
+    "hours": 2.77,
+    "category": "complicated"
+  },
+  {
+    "artist": "Outkast",
+    "total_plays": 96,
+    "full_plays": 57,
+    "skip_pct": 40.6,
+    "hours": 3.48,
+    "category": "complicated"
+  },
+  {
+    "artist": "The Weeknd",
+    "total_plays": 96,
+    "full_plays": 38,
+    "skip_pct": 60.4,
+    "hours": 2.09,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Dire Straits",
+    "total_plays": 95,
+    "full_plays": 65,
+    "skip_pct": 31.6,
+    "hours": 5.67,
+    "category": "true_love"
+  },
+  {
+    "artist": "Tame Impala",
+    "total_plays": 93,
+    "full_plays": 45,
+    "skip_pct": 51.6,
+    "hours": 2.37,
+    "category": "complicated"
+  },
+  {
+    "artist": "Dua Lipa",
+    "total_plays": 92,
+    "full_plays": 43,
+    "skip_pct": 53.3,
+    "hours": 2.43,
+    "category": "complicated"
+  },
+  {
+    "artist": "Naezy",
+    "total_plays": 89,
+    "full_plays": 53,
+    "skip_pct": 40.4,
+    "hours": 2.14,
+    "category": "complicated"
+  },
+  {
+    "artist": "50 Cent",
+    "total_plays": 88,
+    "full_plays": 33,
+    "skip_pct": 62.5,
+    "hours": 1.69,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Snoop Dogg",
+    "total_plays": 88,
+    "full_plays": 50,
+    "skip_pct": 43.2,
+    "hours": 2.69,
+    "category": "complicated"
+  },
+  {
+    "artist": "Lil Nas X",
+    "total_plays": 86,
+    "full_plays": 54,
+    "skip_pct": 37.2,
+    "hours": 2.39,
+    "category": "true_love"
+  },
+  {
+    "artist": "Taylor Swift",
+    "total_plays": 85,
+    "full_plays": 43,
+    "skip_pct": 49.4,
+    "hours": 2.29,
+    "category": "complicated"
+  },
+  {
+    "artist": "Johnny Cash",
+    "total_plays": 84,
+    "full_plays": 37,
+    "skip_pct": 56.0,
+    "hours": 1.94,
+    "category": "complicated"
+  },
+  {
+    "artist": "Khalid",
+    "total_plays": 84,
+    "full_plays": 56,
+    "skip_pct": 33.3,
+    "hours": 2.74,
+    "category": "true_love"
+  },
+  {
+    "artist": "blink-182",
+    "total_plays": 83,
+    "full_plays": 44,
+    "skip_pct": 47.0,
+    "hours": 2.34,
+    "category": "complicated"
+  },
+  {
+    "artist": "Deep Purple",
+    "total_plays": 78,
+    "full_plays": 35,
+    "skip_pct": 55.1,
+    "hours": 2.52,
+    "category": "complicated"
+  },
+  {
+    "artist": "Kaam Bhaari",
+    "total_plays": 78,
+    "full_plays": 29,
+    "skip_pct": 62.8,
+    "hours": 1.14,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Meek Mill",
+    "total_plays": 78,
+    "full_plays": 41,
+    "skip_pct": 47.4,
+    "hours": 2.2,
+    "category": "complicated"
+  },
+  {
+    "artist": "Lil Wayne",
+    "total_plays": 76,
+    "full_plays": 36,
+    "skip_pct": 52.6,
+    "hours": 2.14,
+    "category": "complicated"
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "total_plays": 74,
+    "full_plays": 34,
+    "skip_pct": 54.1,
+    "hours": 1.28,
+    "category": "complicated"
+  },
+  {
+    "artist": "Adele",
+    "total_plays": 73,
+    "full_plays": 43,
+    "skip_pct": 41.1,
+    "hours": 2.42,
+    "category": "complicated"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "total_plays": 73,
+    "full_plays": 23,
+    "skip_pct": 68.5,
+    "hours": 1.27,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Pixies",
+    "total_plays": 73,
+    "full_plays": 43,
+    "skip_pct": 41.1,
+    "hours": 2.37,
+    "category": "complicated"
+  },
+  {
+    "artist": "Sublime",
+    "total_plays": 73,
+    "full_plays": 41,
+    "skip_pct": 43.8,
+    "hours": 2.31,
+    "category": "complicated"
+  },
+  {
+    "artist": "Bullet For My Valentine",
+    "total_plays": 71,
+    "full_plays": 36,
+    "skip_pct": 49.3,
+    "hours": 2.29,
+    "category": "complicated"
+  },
+  {
+    "artist": "The Clash",
+    "total_plays": 69,
+    "full_plays": 39,
+    "skip_pct": 43.5,
+    "hours": 1.9,
+    "category": "complicated"
+  },
+  {
+    "artist": "Cream",
+    "total_plays": 68,
+    "full_plays": 26,
+    "skip_pct": 61.8,
+    "hours": 1.51,
+    "category": "aspirational"
+  },
+  {
+    "artist": "The Police",
+    "total_plays": 67,
+    "full_plays": 36,
+    "skip_pct": 46.3,
+    "hours": 1.85,
+    "category": "complicated"
+  },
+  {
+    "artist": "The White Stripes",
+    "total_plays": 67,
+    "full_plays": 30,
+    "skip_pct": 55.2,
+    "hours": 1.56,
+    "category": "complicated"
+  },
+  {
+    "artist": "N.W.A.",
+    "total_plays": 66,
+    "full_plays": 38,
+    "skip_pct": 42.4,
+    "hours": 2.2,
+    "category": "complicated"
+  },
+  {
+    "artist": "AP Dhillon",
+    "total_plays": 65,
+    "full_plays": 29,
+    "skip_pct": 55.4,
+    "hours": 1.24,
+    "category": "complicated"
+  },
+  {
+    "artist": "TOOL",
+    "total_plays": 64,
+    "full_plays": 30,
+    "skip_pct": 53.1,
+    "hours": 2.38,
+    "category": "complicated"
+  },
+  {
+    "artist": "Death Cab for Cutie",
+    "total_plays": 63,
+    "full_plays": 44,
+    "skip_pct": 30.2,
+    "hours": 3.82,
+    "category": "reliable"
+  },
+  {
+    "artist": "The Cranberries",
+    "total_plays": 63,
+    "full_plays": 33,
+    "skip_pct": 47.6,
+    "hours": 2.11,
+    "category": "complicated"
+  },
+  {
+    "artist": "Three Days Grace",
+    "total_plays": 62,
+    "full_plays": 23,
+    "skip_pct": 62.9,
+    "hours": 1.21,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Aerosmith",
+    "total_plays": 61,
+    "full_plays": 24,
+    "skip_pct": 60.7,
+    "hours": 1.39,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Emiway Bantai",
+    "total_plays": 61,
+    "full_plays": 35,
+    "skip_pct": 42.6,
+    "hours": 1.69,
+    "category": "complicated"
+  },
+  {
+    "artist": "Jasleen Royal",
+    "total_plays": 61,
+    "full_plays": 42,
+    "skip_pct": 31.1,
+    "hours": 2.29,
+    "category": "reliable"
+  },
+  {
+    "artist": "KISS",
+    "total_plays": 61,
+    "full_plays": 21,
+    "skip_pct": 65.6,
+    "hours": 0.88,
+    "category": "aspirational"
+  },
+  {
+    "artist": "The Chainsmokers",
+    "total_plays": 61,
+    "full_plays": 40,
+    "skip_pct": 34.4,
+    "hours": 2.15,
+    "category": "reliable"
+  },
+  {
+    "artist": "Drake",
+    "total_plays": 59,
+    "full_plays": 20,
+    "skip_pct": 66.1,
+    "hours": 1.3,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Porcupine Tree",
+    "total_plays": 58,
+    "full_plays": 42,
+    "skip_pct": 27.6,
+    "hours": 3.36,
+    "category": "reliable"
+  },
+  {
+    "artist": "Metallica",
+    "total_plays": 57,
+    "full_plays": 31,
+    "skip_pct": 45.6,
+    "hours": 2.63,
+    "category": "complicated"
+  },
+  {
+    "artist": "Sia",
+    "total_plays": 57,
+    "full_plays": 20,
+    "skip_pct": 64.9,
+    "hours": 1.1,
+    "category": "aspirational"
+  },
+  {
+    "artist": "2Pac",
+    "total_plays": 55,
+    "full_plays": 20,
+    "skip_pct": 63.6,
+    "hours": 1.27,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Amit Trivedi",
+    "total_plays": 55,
+    "full_plays": 20,
+    "skip_pct": 63.6,
+    "hours": 0.95,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Future",
+    "total_plays": 54,
+    "full_plays": 22,
+    "skip_pct": 59.3,
+    "hours": 1.05,
+    "category": "complicated"
+  },
+  {
+    "artist": "Lynyrd Skynyrd",
+    "total_plays": 54,
+    "full_plays": 41,
+    "skip_pct": 24.1,
+    "hours": 4.32,
+    "category": "reliable"
+  },
+  {
+    "artist": "Eric Clapton",
+    "total_plays": 53,
+    "full_plays": 25,
+    "skip_pct": 52.8,
+    "hours": 1.71,
+    "category": "complicated"
+  },
+  {
+    "artist": "Jason Mraz",
+    "total_plays": 52,
+    "full_plays": 33,
+    "skip_pct": 36.5,
+    "hours": 1.79,
+    "category": "reliable"
+  },
+  {
+    "artist": "Atif Aslam",
+    "total_plays": 51,
+    "full_plays": 23,
+    "skip_pct": 54.9,
+    "hours": 1.41,
+    "category": "complicated"
+  },
+  {
+    "artist": "Bryan Adams",
+    "total_plays": 51,
+    "full_plays": 27,
+    "skip_pct": 47.1,
+    "hours": 1.66,
+    "category": "complicated"
+  },
+  {
+    "artist": "David Guetta",
+    "total_plays": 51,
+    "full_plays": 20,
+    "skip_pct": 60.8,
+    "hours": 1.16,
+    "category": "aspirational"
+  },
+  {
+    "artist": "Madara",
+    "total_plays": 51,
+    "full_plays": 16,
+    "skip_pct": 68.6,
+    "hours": 0.66,
+    "category": "casual"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "total_plays": 50,
+    "full_plays": 15,
+    "skip_pct": 70.0,
+    "hours": 0.83,
+    "category": "casual"
+  },
+  {
+    "artist": "Hozier",
+    "total_plays": 50,
+    "full_plays": 29,
+    "skip_pct": 42.0,
+    "hours": 1.75,
+    "category": "complicated"
+  },
+  {
+    "artist": "That 70s Hit Band",
+    "total_plays": 50,
+    "full_plays": 33,
+    "skip_pct": 34.0,
+    "hours": 1.26,
+    "category": "reliable"
+  },
+  {
+    "artist": "Five For Fighting",
+    "total_plays": 49,
+    "full_plays": 26,
+    "skip_pct": 46.9,
+    "hours": 1.54,
+    "category": "complicated"
+  },
+  {
+    "artist": "Lewis Capaldi",
+    "total_plays": 49,
+    "full_plays": 27,
+    "skip_pct": 44.9,
+    "hours": 1.32,
+    "category": "complicated"
+  },
+  {
+    "artist": "R.E.M.",
+    "total_plays": 49,
+    "full_plays": 31,
+    "skip_pct": 36.7,
+    "hours": 1.95,
+    "category": "reliable"
+  },
+  {
+    "artist": "The Lumineers",
+    "total_plays": 48,
+    "full_plays": 23,
+    "skip_pct": 52.1,
+    "hours": 0.9,
+    "category": "complicated"
+  },
+  {
+    "artist": "John Mayer",
+    "total_plays": 47,
+    "full_plays": 29,
+    "skip_pct": 38.3,
+    "hours": 1.48,
+    "category": "complicated"
+  },
+  {
+    "artist": "Shankar-Ehsaan-Loy",
+    "total_plays": 47,
+    "full_plays": 19,
+    "skip_pct": 59.6,
+    "hours": 1.23,
+    "category": "casual"
+  },
+  {
+    "artist": "SAMBATA",
+    "total_plays": 46,
+    "full_plays": 28,
+    "skip_pct": 39.1,
+    "hours": 2.06,
+    "category": "complicated"
+  },
+  {
+    "artist": "Shankar Mahadevan",
+    "total_plays": 46,
+    "full_plays": 21,
+    "skip_pct": 54.3,
+    "hours": 1.62,
+    "category": "complicated"
+  },
+  {
+    "artist": "Vishal-Shekhar",
+    "total_plays": 46,
+    "full_plays": 7,
+    "skip_pct": 84.8,
+    "hours": 0.52,
+    "category": "casual"
+  },
+  {
+    "artist": "Flo Rida",
+    "total_plays": 45,
+    "full_plays": 15,
+    "skip_pct": 66.7,
+    "hours": 0.86,
+    "category": "casual"
+  },
+  {
+    "artist": "J. Cole",
+    "total_plays": 45,
+    "full_plays": 11,
+    "skip_pct": 75.6,
+    "hours": 0.55,
+    "category": "casual"
+  },
+  {
+    "artist": "King",
+    "total_plays": 45,
+    "full_plays": 23,
+    "skip_pct": 48.9,
+    "hours": 1.19,
+    "category": "complicated"
+  },
+  {
+    "artist": "Limp Bizkit",
+    "total_plays": 45,
+    "full_plays": 26,
+    "skip_pct": 42.2,
+    "hours": 1.69,
+    "category": "complicated"
+  },
+  {
+    "artist": "Papon",
+    "total_plays": 44,
+    "full_plays": 6,
+    "skip_pct": 86.4,
+    "hours": 0.33,
+    "category": "casual"
+  },
+  {
+    "artist": "Roy",
+    "total_plays": 44,
+    "full_plays": 19,
+    "skip_pct": 56.8,
+    "hours": 0.84,
+    "category": "casual"
+  },
+  {
+    "artist": "The Animals",
+    "total_plays": 44,
+    "full_plays": 31,
+    "skip_pct": 29.5,
+    "hours": 1.97,
+    "category": "reliable"
+  },
+  {
+    "artist": "Ajay-Atul",
+    "total_plays": 42,
+    "full_plays": 8,
+    "skip_pct": 81.0,
+    "hours": 0.62,
+    "category": "casual"
+  },
+  {
+    "artist": "Dead by April",
+    "total_plays": 42,
+    "full_plays": 24,
+    "skip_pct": 42.9,
+    "hours": 1.07,
+    "category": "complicated"
+  },
+  {
+    "artist": "Silk Route",
+    "total_plays": 42,
+    "full_plays": 24,
+    "skip_pct": 42.9,
+    "hours": 1.42,
+    "category": "complicated"
+  },
+  {
+    "artist": "3 Doors Down",
+    "total_plays": 41,
+    "full_plays": 27,
+    "skip_pct": 34.1,
+    "hours": 1.48,
+    "category": "reliable"
+  },
+  {
+    "artist": "RollsRoy's",
+    "total_plays": 41,
+    "full_plays": 33,
+    "skip_pct": 19.5,
+    "hours": 2.15,
+    "category": "reliable"
+  },
+  {
+    "artist": "Shubh",
+    "total_plays": 41,
+    "full_plays": 21,
+    "skip_pct": 48.8,
+    "hours": 0.89,
+    "category": "complicated"
+  },
+  {
+    "artist": "Weezer",
+    "total_plays": 41,
+    "full_plays": 26,
+    "skip_pct": 36.6,
+    "hours": 1.26,
+    "category": "reliable"
+  },
+  {
+    "artist": "Bon Jovi",
+    "total_plays": 40,
+    "full_plays": 18,
+    "skip_pct": 55.0,
+    "hours": 0.91,
+    "category": "casual"
+  },
+  {
+    "artist": "Lord Huron",
+    "total_plays": 40,
+    "full_plays": 19,
+    "skip_pct": 52.5,
+    "hours": 0.99,
+    "category": "casual"
+  },
+  {
+    "artist": "Scorpions",
+    "total_plays": 40,
+    "full_plays": 11,
+    "skip_pct": 72.5,
+    "hours": 0.75,
+    "category": "casual"
+  },
+  {
+    "artist": "Sex Bob-Omb",
+    "total_plays": 40,
+    "full_plays": 27,
+    "skip_pct": 32.5,
+    "hours": 0.74,
+    "category": "reliable"
+  },
+  {
+    "artist": "The Kinks",
+    "total_plays": 40,
+    "full_plays": 18,
+    "skip_pct": 55.0,
+    "hours": 0.77,
+    "category": "casual"
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "total_plays": 39,
+    "full_plays": 19,
+    "skip_pct": 51.3,
+    "hours": 1.26,
+    "category": "casual"
+  },
+  {
+    "artist": "Katy Perry",
+    "total_plays": 39,
+    "full_plays": 8,
+    "skip_pct": 79.5,
+    "hours": 0.51,
+    "category": "casual"
+  },
+  {
+    "artist": "Paul McCartney",
+    "total_plays": 39,
+    "full_plays": 16,
+    "skip_pct": 59.0,
+    "hours": 0.94,
+    "category": "casual"
+  },
+  {
+    "artist": "U2",
+    "total_plays": 39,
+    "full_plays": 19,
+    "skip_pct": 51.3,
+    "hours": 1.21,
+    "category": "casual"
+  },
+  {
+    "artist": "Bee Gees",
+    "total_plays": 37,
+    "full_plays": 26,
+    "skip_pct": 29.7,
+    "hours": 1.51,
+    "category": "reliable"
+  },
+  {
+    "artist": "Bill Withers",
+    "total_plays": 37,
+    "full_plays": 20,
+    "skip_pct": 45.9,
+    "hours": 0.7,
+    "category": "complicated"
+  },
+  {
+    "artist": "B.o.B",
+    "total_plays": 36,
+    "full_plays": 22,
+    "skip_pct": 38.9,
+    "hours": 1.06,
+    "category": "complicated"
+  },
+  {
+    "artist": "D12",
+    "total_plays": 36,
+    "full_plays": 8,
+    "skip_pct": 77.8,
+    "hours": 0.42,
+    "category": "casual"
+  },
+  {
+    "artist": "Lucky Ali",
+    "total_plays": 36,
+    "full_plays": 17,
+    "skip_pct": 52.8,
+    "hours": 1.04,
+    "category": "casual"
+  },
+  {
+    "artist": "Fugazi",
+    "total_plays": 34,
+    "full_plays": 9,
+    "skip_pct": 73.5,
+    "hours": 0.27,
+    "category": "casual"
+  },
+  {
+    "artist": "Michael Franti",
+    "total_plays": 34,
+    "full_plays": 24,
+    "skip_pct": 29.4,
+    "hours": 1.56,
+    "category": "reliable"
+  },
+  {
+    "artist": "Mohit Chauhan",
+    "total_plays": 34,
+    "full_plays": 13,
+    "skip_pct": 61.8,
+    "hours": 1.0,
+    "category": "casual"
+  },
+  {
+    "artist": "OAFF",
+    "total_plays": 34,
+    "full_plays": 12,
+    "skip_pct": 64.7,
+    "hours": 0.57,
+    "category": "casual"
+  },
+  {
+    "artist": "Ritviz",
+    "total_plays": 34,
+    "full_plays": 15,
+    "skip_pct": 55.9,
+    "hours": 0.61,
+    "category": "casual"
+  },
+  {
+    "artist": "Shiro SAGISU",
+    "total_plays": 34,
+    "full_plays": 13,
+    "skip_pct": 61.8,
+    "hours": 0.7,
+    "category": "casual"
+  },
+  {
+    "artist": "TLC",
+    "total_plays": 34,
+    "full_plays": 16,
+    "skip_pct": 52.9,
+    "hours": 0.8,
+    "category": "casual"
+  },
+  {
+    "artist": "Bad Meets Evil",
+    "total_plays": 33,
+    "full_plays": 14,
+    "skip_pct": 57.6,
+    "hours": 0.91,
+    "category": "casual"
+  },
+  {
+    "artist": "Blue \u00d6yster Cult",
+    "total_plays": 33,
+    "full_plays": 24,
+    "skip_pct": 27.3,
+    "hours": 1.75,
+    "category": "reliable"
+  },
+  {
+    "artist": "D-Cypher",
+    "total_plays": 33,
+    "full_plays": 14,
+    "skip_pct": 57.6,
+    "hours": 0.51,
+    "category": "casual"
+  },
+  {
+    "artist": "Denzel Curry",
+    "total_plays": 33,
+    "full_plays": 14,
+    "skip_pct": 57.6,
+    "hours": 0.54,
+    "category": "casual"
+  },
+  {
+    "artist": "Hoobastank",
+    "total_plays": 33,
+    "full_plays": 20,
+    "skip_pct": 39.4,
+    "hours": 0.99,
+    "category": "complicated"
+  },
+  {
+    "artist": "Niall Horan",
+    "total_plays": 33,
+    "full_plays": 16,
+    "skip_pct": 51.5,
+    "hours": 0.98,
+    "category": "casual"
+  },
+  {
+    "artist": "The Byrds",
+    "total_plays": 33,
+    "full_plays": 20,
+    "skip_pct": 39.4,
+    "hours": 0.86,
+    "category": "complicated"
+  },
+  {
+    "artist": "Beck",
+    "total_plays": 32,
+    "full_plays": 20,
+    "skip_pct": 37.5,
+    "hours": 0.77,
+    "category": "reliable"
+  },
+  {
+    "artist": "Farhan Akhtar",
+    "total_plays": 32,
+    "full_plays": 17,
+    "skip_pct": 46.9,
+    "hours": 0.82,
+    "category": "casual"
+  },
+  {
+    "artist": "Suman Kalyanpur",
+    "total_plays": 32,
+    "full_plays": 29,
+    "skip_pct": 9.4,
+    "hours": 1.62,
+    "category": "reliable"
+  },
+  {
+    "artist": "Bob Marley & The Wailers",
+    "total_plays": 31,
+    "full_plays": 19,
+    "skip_pct": 38.7,
+    "hours": 0.84,
+    "category": "casual"
+  },
+  {
+    "artist": "DANGERDOOM",
+    "total_plays": 31,
+    "full_plays": 14,
+    "skip_pct": 54.8,
+    "hours": 0.64,
+    "category": "casual"
+  },
+  {
+    "artist": "DMX",
+    "total_plays": 31,
+    "full_plays": 7,
+    "skip_pct": 77.4,
+    "hours": 0.37,
+    "category": "casual"
+  },
+  {
+    "artist": "Gilbert O'Sullivan",
+    "total_plays": 31,
+    "full_plays": 20,
+    "skip_pct": 35.5,
+    "hours": 1.18,
+    "category": "reliable"
+  },
+  {
+    "artist": "Sneha Khanwalkar",
+    "total_plays": 31,
+    "full_plays": 13,
+    "skip_pct": 58.1,
+    "hours": 0.82,
+    "category": "casual"
+  },
+  {
+    "artist": "A$AP Rocky",
+    "total_plays": 30,
+    "full_plays": 9,
+    "skip_pct": 70.0,
+    "hours": 0.4,
+    "category": "casual"
+  },
+  {
+    "artist": "Bruno Mars",
+    "total_plays": 30,
+    "full_plays": 10,
+    "skip_pct": 66.7,
+    "hours": 0.59,
+    "category": "casual"
+  },
+  {
+    "artist": "Daft Punk",
+    "total_plays": 30,
+    "full_plays": 15,
+    "skip_pct": 50.0,
+    "hours": 1.01,
+    "category": "casual"
+  },
+  {
+    "artist": "Indian Ocean",
+    "total_plays": 30,
+    "full_plays": 8,
+    "skip_pct": 73.3,
+    "hours": 0.85,
+    "category": "casual"
+  },
+  {
+    "artist": "Oasis",
+    "total_plays": 30,
+    "full_plays": 18,
+    "skip_pct": 40.0,
+    "hours": 1.17,
+    "category": "casual"
+  },
+  {
+    "artist": "Sanam",
+    "total_plays": 30,
+    "full_plays": 16,
+    "skip_pct": 46.7,
+    "hours": 0.91,
+    "category": "casual"
+  },
+  {
+    "artist": "The Black Keys",
+    "total_plays": 30,
+    "full_plays": 22,
+    "skip_pct": 26.7,
+    "hours": 1.14,
+    "category": "reliable"
+  },
+  {
+    "artist": "Nikhil D'Souza",
+    "total_plays": 29,
+    "full_plays": 14,
+    "skip_pct": 51.7,
+    "hours": 1.21,
+    "category": "casual"
+  },
+  {
+    "artist": "Twenty One Pilots",
+    "total_plays": 29,
+    "full_plays": 15,
+    "skip_pct": 48.3,
+    "hours": 0.69,
+    "category": "casual"
+  },
+  {
+    "artist": "Tyler, The Creator",
+    "total_plays": 29,
+    "full_plays": 12,
+    "skip_pct": 58.6,
+    "hours": 0.59,
+    "category": "casual"
+  },
+  {
+    "artist": "Wu-Tang Clan",
+    "total_plays": 29,
+    "full_plays": 10,
+    "skip_pct": 65.5,
+    "hours": 0.46,
+    "category": "casual"
+  },
+  {
+    "artist": "Billy Joel",
+    "total_plays": 28,
+    "full_plays": 11,
+    "skip_pct": 60.7,
+    "hours": 0.62,
+    "category": "casual"
+  },
+  {
+    "artist": "Pearl Jam",
+    "total_plays": 28,
+    "full_plays": 10,
+    "skip_pct": 64.3,
+    "hours": 0.56,
+    "category": "casual"
+  },
+  {
+    "artist": "Rakim",
+    "total_plays": 28,
+    "full_plays": 18,
+    "skip_pct": 35.7,
+    "hours": 0.87,
+    "category": "casual"
+  },
+  {
+    "artist": "Tanishk Bagchi",
+    "total_plays": 28,
+    "full_plays": 7,
+    "skip_pct": 75.0,
+    "hours": 0.31,
+    "category": "casual"
+  },
+  {
+    "artist": "The Game",
+    "total_plays": 28,
+    "full_plays": 8,
+    "skip_pct": 71.4,
+    "hours": 0.49,
+    "category": "casual"
+  },
+  {
+    "artist": "Arctic Monkeys",
+    "total_plays": 27,
+    "full_plays": 16,
+    "skip_pct": 40.7,
+    "hours": 0.8,
+    "category": "casual"
+  },
+  {
+    "artist": "Buckethead",
+    "total_plays": 27,
+    "full_plays": 22,
+    "skip_pct": 18.5,
+    "hours": 1.9,
+    "category": "reliable"
+  },
+  {
+    "artist": "Gotye",
+    "total_plays": 27,
+    "full_plays": 13,
+    "skip_pct": 51.9,
+    "hours": 0.71,
+    "category": "casual"
+  },
+  {
+    "artist": "OneRepublic",
+    "total_plays": 27,
+    "full_plays": 11,
+    "skip_pct": 59.3,
+    "hours": 0.56,
+    "category": "casual"
+  },
+  {
+    "artist": "VESHZA",
+    "total_plays": 27,
+    "full_plays": 16,
+    "skip_pct": 40.7,
+    "hours": 0.68,
+    "category": "casual"
+  },
+  {
+    "artist": "Aditya A",
+    "total_plays": 26,
+    "full_plays": 9,
+    "skip_pct": 65.4,
+    "hours": 0.24,
+    "category": "casual"
+  },
+  {
+    "artist": "Benny Dayal",
+    "total_plays": 26,
+    "full_plays": 14,
+    "skip_pct": 46.2,
+    "hours": 0.97,
+    "category": "casual"
+  },
+  {
+    "artist": "Billie Eilish",
+    "total_plays": 26,
+    "full_plays": 7,
+    "skip_pct": 73.1,
+    "hours": 0.24,
+    "category": "casual"
+  },
+  {
+    "artist": "Foo Fighters",
+    "total_plays": 26,
+    "full_plays": 9,
+    "skip_pct": 65.4,
+    "hours": 0.57,
+    "category": "casual"
+  },
+  {
+    "artist": "Frank Ocean",
+    "total_plays": 26,
+    "full_plays": 11,
+    "skip_pct": 57.7,
+    "hours": 0.48,
+    "category": "casual"
+  },
+  {
+    "artist": "Mobb Deep",
+    "total_plays": 26,
+    "full_plays": 9,
+    "skip_pct": 65.4,
+    "hours": 0.45,
+    "category": "casual"
+  },
+  {
+    "artist": "Arijit Singh",
+    "total_plays": 25,
+    "full_plays": 7,
+    "skip_pct": 72.0,
+    "hours": 0.49,
+    "category": "casual"
+  },
+  {
+    "artist": "Rashid Ali",
+    "total_plays": 25,
+    "full_plays": 10,
+    "skip_pct": 60.0,
+    "hours": 0.67,
+    "category": "casual"
+  },
+  {
+    "artist": "Sachin-Jigar",
+    "total_plays": 25,
+    "full_plays": 8,
+    "skip_pct": 68.0,
+    "hours": 0.4,
+    "category": "casual"
+  },
+  {
+    "artist": "Vishal Dadlani",
+    "total_plays": 25,
+    "full_plays": 14,
+    "skip_pct": 44.0,
+    "hours": 0.8,
+    "category": "casual"
+  },
+  {
+    "artist": "Aqua Timez",
+    "total_plays": 24,
+    "full_plays": 14,
+    "skip_pct": 41.7,
+    "hours": 0.8,
+    "category": "casual"
+  },
+  {
+    "artist": "Badfinger",
+    "total_plays": 24,
+    "full_plays": 9,
+    "skip_pct": 62.5,
+    "hours": 0.46,
+    "category": "casual"
+  },
+  {
+    "artist": "Beastie Boys",
+    "total_plays": 24,
+    "full_plays": 8,
+    "skip_pct": 66.7,
+    "hours": 0.29,
+    "category": "casual"
+  },
+  {
+    "artist": "Calvin Harris",
+    "total_plays": 24,
+    "full_plays": 8,
+    "skip_pct": 66.7,
+    "hours": 0.36,
+    "category": "casual"
+  },
+  {
+    "artist": "DJ Khaled",
+    "total_plays": 24,
+    "full_plays": 11,
+    "skip_pct": 54.2,
+    "hours": 0.57,
+    "category": "casual"
+  },
+  {
+    "artist": "Jay Rock",
+    "total_plays": 24,
+    "full_plays": 1,
+    "skip_pct": 95.8,
+    "hours": 0.06,
+    "category": "casual"
+  },
+  {
+    "artist": "Jibbs",
+    "total_plays": 24,
+    "full_plays": 10,
+    "skip_pct": 58.3,
+    "hours": 0.4,
+    "category": "casual"
+  },
+  {
+    "artist": "The Offspring",
+    "total_plays": 24,
+    "full_plays": 9,
+    "skip_pct": 62.5,
+    "hours": 0.34,
+    "category": "casual"
+  },
+  {
+    "artist": "Gorillaz",
+    "total_plays": 23,
+    "full_plays": 12,
+    "skip_pct": 47.8,
+    "hours": 0.79,
+    "category": "casual"
+  },
+  {
+    "artist": "Kansas",
+    "total_plays": 23,
+    "full_plays": 11,
+    "skip_pct": 52.2,
+    "hours": 0.56,
+    "category": "casual"
+  },
+  {
+    "artist": "Lady Gaga",
+    "total_plays": 23,
+    "full_plays": 10,
+    "skip_pct": 56.5,
+    "hours": 0.61,
+    "category": "casual"
+  },
+  {
+    "artist": "Michael Jackson",
+    "total_plays": 23,
+    "full_plays": 10,
+    "skip_pct": 56.5,
+    "hours": 0.64,
+    "category": "casual"
+  },
+  {
+    "artist": "Owl City",
+    "total_plays": 23,
+    "full_plays": 11,
+    "skip_pct": 52.2,
+    "hours": 0.6,
+    "category": "casual"
+  },
+  {
+    "artist": "Rihanna",
+    "total_plays": 23,
+    "full_plays": 10,
+    "skip_pct": 56.5,
+    "hours": 0.55,
+    "category": "casual"
+  },
+  {
+    "artist": "Roy Orbison",
+    "total_plays": 23,
+    "full_plays": 10,
+    "skip_pct": 56.5,
+    "hours": 0.43,
+    "category": "casual"
+  },
+  {
+    "artist": "Sonu Nigam",
+    "total_plays": 23,
+    "full_plays": 8,
+    "skip_pct": 65.2,
+    "hours": 0.46,
+    "category": "casual"
+  },
+  {
+    "artist": "The Alchemist",
+    "total_plays": 23,
+    "full_plays": 8,
+    "skip_pct": 65.2,
+    "hours": 0.24,
+    "category": "casual"
+  },
+  {
+    "artist": "The Beach Boys",
+    "total_plays": 23,
+    "full_plays": 10,
+    "skip_pct": 56.5,
+    "hours": 0.5,
+    "category": "casual"
+  },
+  {
+    "artist": "Travis Scott",
+    "total_plays": 23,
+    "full_plays": 8,
+    "skip_pct": 65.2,
+    "hours": 0.42,
+    "category": "casual"
+  },
+  {
+    "artist": "BEAT CRUSADERS",
+    "total_plays": 22,
+    "full_plays": 16,
+    "skip_pct": 27.3,
+    "hours": 0.71,
+    "category": "casual"
+  },
+  {
+    "artist": "Enrique Iglesias",
+    "total_plays": 22,
+    "full_plays": 10,
+    "skip_pct": 54.5,
+    "hours": 0.37,
+    "category": "casual"
+  },
+  {
+    "artist": "Joy Division",
+    "total_plays": 22,
+    "full_plays": 7,
+    "skip_pct": 68.2,
+    "hours": 0.4,
+    "category": "casual"
+  },
+  {
+    "artist": "Karan Aujla",
+    "total_plays": 22,
+    "full_plays": 5,
+    "skip_pct": 77.3,
+    "hours": 0.24,
+    "category": "casual"
+  },
+  {
+    "artist": "Mike Posner",
+    "total_plays": 22,
+    "full_plays": 10,
+    "skip_pct": 54.5,
+    "hours": 0.45,
+    "category": "casual"
+  },
+  {
+    "artist": "Passenger",
+    "total_plays": 22,
+    "full_plays": 10,
+    "skip_pct": 54.5,
+    "hours": 0.53,
+    "category": "casual"
+  },
+  {
+    "artist": "Rush",
+    "total_plays": 22,
+    "full_plays": 7,
+    "skip_pct": 68.2,
+    "hours": 0.72,
+    "category": "casual"
+  },
+  {
+    "artist": "Slipknot",
+    "total_plays": 22,
+    "full_plays": 8,
+    "skip_pct": 63.6,
+    "hours": 0.39,
+    "category": "casual"
+  },
+  {
+    "artist": "Sting",
+    "total_plays": 22,
+    "full_plays": 14,
+    "skip_pct": 36.4,
+    "hours": 0.72,
+    "category": "casual"
+  },
+  {
+    "artist": "Asha Bhosle",
+    "total_plays": 21,
+    "full_plays": 11,
+    "skip_pct": 47.6,
+    "hours": 0.53,
+    "category": "casual"
+  },
+  {
+    "artist": "Eazy-E",
+    "total_plays": 21,
+    "full_plays": 9,
+    "skip_pct": 57.1,
+    "hours": 0.58,
+    "category": "casual"
+  },
+  {
+    "artist": "Elvis Presley",
+    "total_plays": 21,
+    "full_plays": 10,
+    "skip_pct": 52.4,
+    "hours": 0.52,
+    "category": "casual"
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "total_plays": 21,
+    "full_plays": 12,
+    "skip_pct": 42.9,
+    "hours": 0.64,
+    "category": "casual"
+  },
+  {
+    "artist": "Jimmy Page",
+    "total_plays": 21,
+    "full_plays": 13,
+    "skip_pct": 38.1,
+    "hours": 1.65,
+    "category": "casual"
+  },
+  {
+    "artist": "Kishore Kumar",
+    "total_plays": 21,
+    "full_plays": 12,
+    "skip_pct": 42.9,
+    "hours": 0.74,
+    "category": "casual"
+  },
+  {
+    "artist": "Mac Miller",
+    "total_plays": 21,
+    "full_plays": 2,
+    "skip_pct": 90.5,
+    "hours": 0.08,
+    "category": "casual"
+  },
+  {
+    "artist": "Piyush Mishra",
+    "total_plays": 21,
+    "full_plays": 13,
+    "skip_pct": 38.1,
+    "hours": 1.51,
+    "category": "casual"
+  },
+  {
+    "artist": "Sam Smith",
+    "total_plays": 21,
+    "full_plays": 4,
+    "skip_pct": 81.0,
+    "hours": 0.18,
+    "category": "casual"
+  },
+  {
+    "artist": "Santana",
+    "total_plays": 21,
+    "full_plays": 10,
+    "skip_pct": 52.4,
+    "hours": 0.62,
+    "category": "casual"
+  },
+  {
+    "artist": "James Arthur",
+    "total_plays": 20,
+    "full_plays": 6,
+    "skip_pct": 70.0,
+    "hours": 0.37,
+    "category": "casual"
+  },
+  {
+    "artist": "ScHoolboy Q",
+    "total_plays": 20,
+    "full_plays": 4,
+    "skip_pct": 80.0,
+    "hours": 0.24,
+    "category": "casual"
+  },
+  {
+    "artist": "The Cure",
+    "total_plays": 20,
+    "full_plays": 2,
+    "skip_pct": 90.0,
+    "hours": 0.08,
+    "category": "casual"
+  },
+  {
+    "artist": "Black Eyed Peas",
+    "total_plays": 19,
+    "full_plays": 7,
+    "skip_pct": 63.2,
+    "hours": 0.26,
+    "category": "casual"
+  },
+  {
+    "artist": "Charles Manson",
+    "total_plays": 19,
+    "full_plays": 19,
+    "skip_pct": 0.0,
+    "hours": 0.65,
+    "category": "casual"
+  },
+  {
+    "artist": "Dido",
+    "total_plays": 19,
+    "full_plays": 8,
+    "skip_pct": 57.9,
+    "hours": 0.39,
+    "category": "casual"
+  },
+  {
+    "artist": "Fort Minor",
+    "total_plays": 19,
+    "full_plays": 12,
+    "skip_pct": 36.8,
+    "hours": 0.51,
+    "category": "casual"
+  },
+  {
+    "artist": "Iron Maiden",
+    "total_plays": 19,
+    "full_plays": 10,
+    "skip_pct": 47.4,
+    "hours": 0.58,
+    "category": "casual"
+  },
+  {
+    "artist": "Taba Chake",
+    "total_plays": 19,
+    "full_plays": 4,
+    "skip_pct": 78.9,
+    "hours": 0.24,
+    "category": "casual"
+  },
+  {
+    "artist": "The Mamas & The Papas",
+    "total_plays": 19,
+    "full_plays": 7,
+    "skip_pct": 63.2,
+    "hours": 0.3,
+    "category": "casual"
+  },
+  {
+    "artist": "Cypress Hill",
+    "total_plays": 18,
+    "full_plays": 3,
+    "skip_pct": 83.3,
+    "hours": 0.13,
+    "category": "casual"
+  },
+  {
+    "artist": "Eagles",
+    "total_plays": 18,
+    "full_plays": 15,
+    "skip_pct": 16.7,
+    "hours": 1.28,
+    "category": "casual"
+  },
+  {
+    "artist": "Ellie Goulding",
+    "total_plays": 18,
+    "full_plays": 9,
+    "skip_pct": 50.0,
+    "hours": 0.39,
+    "category": "casual"
+  },
+  {
+    "artist": "KK",
+    "total_plays": 18,
+    "full_plays": 10,
+    "skip_pct": 44.4,
+    "hours": 0.58,
+    "category": "casual"
+  },
+  {
+    "artist": "Museek",
+    "total_plays": 18,
+    "full_plays": 9,
+    "skip_pct": 50.0,
+    "hours": 0.45,
+    "category": "casual"
+  },
+  {
+    "artist": "Rahat Fateh Ali Khan",
+    "total_plays": 18,
+    "full_plays": 3,
+    "skip_pct": 83.3,
+    "hours": 0.25,
+    "category": "casual"
+  },
+  {
+    "artist": "Steven Wilson",
+    "total_plays": 18,
+    "full_plays": 11,
+    "skip_pct": 38.9,
+    "hours": 1.2,
+    "category": "casual"
+  },
+  {
+    "artist": "The Verve",
+    "total_plays": 18,
+    "full_plays": 13,
+    "skip_pct": 27.8,
+    "hours": 0.67,
+    "category": "casual"
+  },
+  {
+    "artist": "Yo Yo Honey Singh",
+    "total_plays": 18,
+    "full_plays": 4,
+    "skip_pct": 77.8,
+    "hours": 0.22,
+    "category": "casual"
+  },
+  {
+    "artist": "Fiddlecraft",
+    "total_plays": 17,
+    "full_plays": 11,
+    "skip_pct": 35.3,
+    "hours": 0.86,
+    "category": "casual"
+  },
+  {
+    "artist": "Mayday Parade",
+    "total_plays": 17,
+    "full_plays": 8,
+    "skip_pct": 52.9,
+    "hours": 0.43,
+    "category": "casual"
+  },
+  {
+    "artist": "Miley Cyrus",
+    "total_plays": 17,
+    "full_plays": 7,
+    "skip_pct": 58.8,
+    "hours": 0.27,
+    "category": "casual"
+  },
+  {
+    "artist": "Stevie Wonder",
+    "total_plays": 17,
+    "full_plays": 7,
+    "skip_pct": 58.8,
+    "hours": 0.37,
+    "category": "casual"
+  },
+  {
+    "artist": "Tom Petty",
+    "total_plays": 17,
+    "full_plays": 7,
+    "skip_pct": 58.8,
+    "hours": 0.49,
+    "category": "casual"
+  },
+  {
+    "artist": "Aditya Rikhari",
+    "total_plays": 16,
+    "full_plays": 8,
+    "skip_pct": 50.0,
+    "hours": 0.28,
+    "category": "casual"
+  },
+  {
+    "artist": "Ajay Gogavale",
+    "total_plays": 16,
+    "full_plays": 9,
+    "skip_pct": 43.8,
+    "hours": 0.57,
+    "category": "casual"
+  },
+  {
+    "artist": "America",
+    "total_plays": 16,
+    "full_plays": 10,
+    "skip_pct": 37.5,
+    "hours": 0.7,
+    "category": "casual"
+  },
+  {
+    "artist": "Beyonc\u00e9",
+    "total_plays": 16,
+    "full_plays": 2,
+    "skip_pct": 87.5,
+    "hours": 0.17,
+    "category": "casual"
+  },
+  {
+    "artist": "Childish Gambino",
+    "total_plays": 16,
+    "full_plays": 7,
+    "skip_pct": 56.2,
+    "hours": 0.36,
+    "category": "casual"
+  },
+  {
+    "artist": "Lata Mangeshkar",
+    "total_plays": 16,
+    "full_plays": 13,
+    "skip_pct": 18.8,
+    "hours": 0.67,
+    "category": "casual"
+  },
+  {
+    "artist": "Macklemore & Ryan Lewis",
+    "total_plays": 16,
+    "full_plays": 9,
+    "skip_pct": 43.8,
+    "hours": 0.46,
+    "category": "casual"
+  },
+  {
+    "artist": "Marshmello",
+    "total_plays": 16,
+    "full_plays": 4,
+    "skip_pct": 75.0,
+    "hours": 0.23,
+    "category": "casual"
+  },
+  {
+    "artist": "Odd Future",
+    "total_plays": 16,
+    "full_plays": 10,
+    "skip_pct": 37.5,
+    "hours": 0.64,
+    "category": "casual"
+  },
+  {
+    "artist": "Seedhe Maut",
+    "total_plays": 16,
+    "full_plays": 5,
+    "skip_pct": 68.8,
+    "hours": 0.14,
+    "category": "casual"
+  },
+  {
+    "artist": "Suzonn",
+    "total_plays": 16,
+    "full_plays": 5,
+    "skip_pct": 68.8,
+    "hours": 0.26,
+    "category": "casual"
+  },
+  {
+    "artist": "Talwiinder",
+    "total_plays": 16,
+    "full_plays": 8,
+    "skip_pct": 50.0,
+    "hours": 0.27,
+    "category": "casual"
+  },
+  {
+    "artist": "Ali Zafar",
+    "total_plays": 15,
+    "full_plays": 10,
+    "skip_pct": 33.3,
+    "hours": 0.47,
+    "category": "casual"
+  },
+  {
+    "artist": "Audioslave",
+    "total_plays": 15,
+    "full_plays": 5,
+    "skip_pct": 66.7,
+    "hours": 0.36,
+    "category": "casual"
+  },
+  {
+    "artist": "Harry Styles",
+    "total_plays": 15,
+    "full_plays": 7,
+    "skip_pct": 53.3,
+    "hours": 0.28,
+    "category": "casual"
+  },
+  {
+    "artist": "Jefferson Airplane",
+    "total_plays": 15,
+    "full_plays": 12,
+    "skip_pct": 20.0,
+    "hours": 0.54,
+    "category": "casual"
+  },
+  {
+    "artist": "Kailash Kher",
+    "total_plays": 15,
+    "full_plays": 6,
+    "skip_pct": 60.0,
+    "hours": 0.51,
+    "category": "casual"
+  },
+  {
+    "artist": "Rise Against",
+    "total_plays": 15,
+    "full_plays": 5,
+    "skip_pct": 66.7,
+    "hours": 0.35,
+    "category": "casual"
+  },
+  {
+    "artist": "Swanand Kirkire",
+    "total_plays": 15,
+    "full_plays": 5,
+    "skip_pct": 66.7,
+    "hours": 0.27,
+    "category": "casual"
+  },
+  {
+    "artist": "Swapnil Bandodkar",
+    "total_plays": 15,
+    "full_plays": 7,
+    "skip_pct": 53.3,
+    "hours": 0.52,
+    "category": "casual"
+  },
+  {
+    "artist": "The Smiths",
+    "total_plays": 15,
+    "full_plays": 5,
+    "skip_pct": 66.7,
+    "hours": 0.25,
+    "category": "casual"
+  },
+  {
+    "artist": "XXXTENTACION",
+    "total_plays": 15,
+    "full_plays": 7,
+    "skip_pct": 53.3,
+    "hours": 0.2,
+    "category": "casual"
+  },
+  {
+    "artist": "Anand Shinde",
+    "total_plays": 14,
+    "full_plays": 8,
+    "skip_pct": 42.9,
+    "hours": 0.47,
+    "category": "casual"
+  },
+  {
+    "artist": "Anu Malik",
+    "total_plays": 14,
+    "full_plays": 2,
+    "skip_pct": 85.7,
+    "hours": 0.18,
+    "category": "casual"
+  },
+  {
+    "artist": "Big Sean",
+    "total_plays": 14,
+    "full_plays": 6,
+    "skip_pct": 57.1,
+    "hours": 0.3,
+    "category": "casual"
+  },
+  {
+    "artist": "Black Rebel Motorcycle Club",
+    "total_plays": 14,
+    "full_plays": 10,
+    "skip_pct": 28.6,
+    "hours": 0.55,
+    "category": "casual"
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "total_plays": 14,
+    "full_plays": 3,
+    "skip_pct": 78.6,
+    "hours": 0.19,
+    "category": "casual"
+  },
+  {
+    "artist": "Coolio",
+    "total_plays": 14,
+    "full_plays": 6,
+    "skip_pct": 57.1,
+    "hours": 0.37,
+    "category": "casual"
+  },
+  {
+    "artist": "Diljit Dosanjh",
+    "total_plays": 14,
+    "full_plays": 3,
+    "skip_pct": 78.6,
+    "hours": 0.19,
+    "category": "casual"
+  },
+  {
+    "artist": "Don McLean",
+    "total_plays": 14,
+    "full_plays": 7,
+    "skip_pct": 50.0,
+    "hours": 0.59,
+    "category": "casual"
+  },
+  {
+    "artist": "Evanescence",
+    "total_plays": 14,
+    "full_plays": 5,
+    "skip_pct": 64.3,
+    "hours": 0.34,
+    "category": "casual"
+  },
+  {
+    "artist": "Gang Starr",
+    "total_plays": 14,
+    "full_plays": 1,
+    "skip_pct": 92.9,
+    "hours": 0.06,
+    "category": "casual"
+  },
+  {
+    "artist": "Joey Bada$$",
+    "total_plays": 14,
+    "full_plays": 1,
+    "skip_pct": 92.9,
+    "hours": 0.07,
+    "category": "casual"
+  },
+  {
+    "artist": "King Geedorah",
+    "total_plays": 14,
+    "full_plays": 2,
+    "skip_pct": 85.7,
+    "hours": 0.09,
+    "category": "casual"
+  },
+  {
+    "artist": "Osho Jain",
+    "total_plays": 14,
+    "full_plays": 3,
+    "skip_pct": 78.6,
+    "hours": 0.11,
+    "category": "casual"
+  },
+  {
+    "artist": "P!nk",
+    "total_plays": 14,
+    "full_plays": 5,
+    "skip_pct": 64.3,
+    "hours": 0.17,
+    "category": "casual"
+  },
+  {
+    "artist": "The Isley Brothers",
+    "total_plays": 14,
+    "full_plays": 4,
+    "skip_pct": 71.4,
+    "hours": 0.19,
+    "category": "casual"
+  },
+  {
+    "artist": "The Smashing Pumpkins",
+    "total_plays": 14,
+    "full_plays": 3,
+    "skip_pct": 78.6,
+    "hours": 0.17,
+    "category": "casual"
+  },
+  {
+    "artist": "Vance Joy",
+    "total_plays": 14,
+    "full_plays": 3,
+    "skip_pct": 78.6,
+    "hours": 0.18,
+    "category": "casual"
+  },
+  {
+    "artist": "When Chai Met Toast",
+    "total_plays": 14,
+    "full_plays": 8,
+    "skip_pct": 42.9,
+    "hours": 0.41,
+    "category": "casual"
+  },
+  {
+    "artist": "Yusuf / Cat Stevens",
+    "total_plays": 14,
+    "full_plays": 8,
+    "skip_pct": 42.9,
+    "hours": 0.45,
+    "category": "casual"
+  },
+  {
+    "artist": "Anirudh Ravichander",
+    "total_plays": 13,
+    "full_plays": 3,
+    "skip_pct": 76.9,
+    "hours": 0.1,
+    "category": "casual"
+  },
+  {
+    "artist": "Avenged Sevenfold",
+    "total_plays": 13,
+    "full_plays": 8,
+    "skip_pct": 38.5,
+    "hours": 0.64,
+    "category": "casual"
+  },
+  {
+    "artist": "BTS",
+    "total_plays": 13,
+    "full_plays": 8,
+    "skip_pct": 38.5,
+    "hours": 0.35,
+    "category": "casual"
+  },
+  {
+    "artist": "Derek & The Dominos",
+    "total_plays": 13,
+    "full_plays": 8,
+    "skip_pct": 38.5,
+    "hours": 0.34,
+    "category": "casual"
+  },
+  {
+    "artist": "Disturbed",
+    "total_plays": 13,
+    "full_plays": 3,
+    "skip_pct": 76.9,
+    "hours": 0.09,
+    "category": "casual"
+  },
+  {
+    "artist": "Djo",
+    "total_plays": 13,
+    "full_plays": 12,
+    "skip_pct": 7.7,
+    "hours": 0.52,
+    "category": "casual"
+  },
+  {
+    "artist": "Gaurav Raina",
+    "total_plays": 13,
+    "full_plays": 7,
+    "skip_pct": 46.2,
+    "hours": 0.22,
+    "category": "casual"
+  },
+  {
+    "artist": "Mike WiLL Made-It",
+    "total_plays": 13,
+    "full_plays": 0,
+    "skip_pct": 100.0,
+    "hours": 0.0,
+    "category": "casual"
+  },
+  {
+    "artist": "Muray",
+    "total_plays": 13,
+    "full_plays": 0,
+    "skip_pct": 100.0,
+    "hours": 0.01,
+    "category": "casual"
+  },
+  {
+    "artist": "Ozzy Osbourne",
+    "total_plays": 13,
+    "full_plays": 7,
+    "skip_pct": 46.2,
+    "hours": 0.36,
+    "category": "casual"
+  },
+  {
+    "artist": "Parvaaz",
+    "total_plays": 13,
+    "full_plays": 4,
+    "skip_pct": 69.2,
+    "hours": 0.05,
+    "category": "casual"
+  },
+  {
+    "artist": "Prabh Deep",
+    "total_plays": 13,
+    "full_plays": 0,
+    "skip_pct": 100.0,
+    "hours": 0.01,
+    "category": "casual"
+  },
+  {
+    "artist": "Pusha T",
+    "total_plays": 13,
+    "full_plays": 3,
+    "skip_pct": 76.9,
+    "hours": 0.24,
+    "category": "casual"
+  },
+  {
+    "artist": "Sukhwinder Singh",
+    "total_plays": 13,
+    "full_plays": 6,
+    "skip_pct": 53.8,
+    "hours": 0.38,
+    "category": "casual"
+  },
+  {
+    "artist": "The Band",
+    "total_plays": 13,
+    "full_plays": 5,
+    "skip_pct": 61.5,
+    "hours": 0.28,
+    "category": "casual"
+  },
+  {
+    "artist": "Train",
+    "total_plays": 13,
+    "full_plays": 7,
+    "skip_pct": 46.2,
+    "hours": 0.33,
+    "category": "casual"
+  },
+  {
+    "artist": "Udit Narayan",
+    "total_plays": 13,
+    "full_plays": 6,
+    "skip_pct": 53.8,
+    "hours": 0.55,
+    "category": "casual"
+  },
+  {
+    "artist": "Armaan Malik",
+    "total_plays": 12,
+    "full_plays": 1,
+    "skip_pct": 91.7,
+    "hours": 0.08,
+    "category": "casual"
+  },
+  {
+    "artist": "Breaking Benjamin",
+    "total_plays": 12,
+    "full_plays": 5,
+    "skip_pct": 58.3,
+    "hours": 0.29,
+    "category": "casual"
+  },
+  {
+    "artist": "Busta Rhymes",
+    "total_plays": 12,
+    "full_plays": 4,
+    "skip_pct": 66.7,
+    "hours": 0.26,
+    "category": "casual"
+  },
+  {
+    "artist": "Indian Ocean Feat Karsh Kale",
+    "total_plays": 12,
+    "full_plays": 10,
+    "skip_pct": 16.7,
+    "hours": 1.17,
+    "category": "casual"
+  },
+  {
+    "artist": "KR$NA",
+    "total_plays": 12,
+    "full_plays": 3,
+    "skip_pct": 75.0,
+    "hours": 0.07,
+    "category": "casual"
+  },
+  {
+    "artist": "Kid Cudi",
+    "total_plays": 12,
+    "full_plays": 2,
+    "skip_pct": 83.3,
+    "hours": 0.09,
+    "category": "casual"
+  },
+  {
+    "artist": "Lou Reed",
+    "total_plays": 12,
+    "full_plays": 3,
+    "skip_pct": 75.0,
+    "hours": 0.17,
+    "category": "casual"
+  },
+  {
+    "artist": "Mac DeMarco",
+    "total_plays": 12,
+    "full_plays": 4,
+    "skip_pct": 66.7,
+    "hours": 0.24,
+    "category": "casual"
+  },
+  {
+    "artist": "Mack 10",
+    "total_plays": 12,
+    "full_plays": 3,
+    "skip_pct": 75.0,
+    "hours": 0.1,
+    "category": "casual"
+  },
+  {
+    "artist": "Major Lazer",
+    "total_plays": 12,
+    "full_plays": 6,
+    "skip_pct": 50.0,
+    "hours": 0.23,
+    "category": "casual"
+  },
+  {
+    "artist": "Midival Punditz",
+    "total_plays": 12,
+    "full_plays": 0,
+    "skip_pct": 100.0,
+    "hours": 0.01,
+    "category": "casual"
+  },
+  {
+    "artist": "Mohammad Faiz",
+    "total_plays": 12,
+    "full_plays": 6,
+    "skip_pct": 50.0,
+    "hours": 0.23,
+    "category": "casual"
+  },
+  {
+    "artist": "Mohammed Rafi",
+    "total_plays": 12,
+    "full_plays": 4,
+    "skip_pct": 66.7,
+    "hours": 0.11,
+    "category": "casual"
+  },
+  {
+    "artist": "Mumford & Sons",
+    "total_plays": 12,
+    "full_plays": 2,
+    "skip_pct": 83.3,
+    "hours": 0.15,
+    "category": "casual"
+  },
+  {
+    "artist": "Plain White T's",
+    "total_plays": 12,
+    "full_plays": 6,
+    "skip_pct": 50.0,
+    "hours": 0.4,
+    "category": "casual"
+  },
+  {
+    "artist": "Raja Kumari",
+    "total_plays": 12,
+    "full_plays": 5,
+    "skip_pct": 58.3,
+    "hours": 0.12,
+    "category": "casual"
+  },
+  {
+    "artist": "Rick and Morty",
+    "total_plays": 12,
+    "full_plays": 3,
+    "skip_pct": 75.0,
+    "hours": 0.09,
+    "category": "casual"
+  },
+  {
+    "artist": "SZA",
+    "total_plays": 12,
+    "full_plays": 3,
+    "skip_pct": 75.0,
+    "hours": 0.18,
+    "category": "casual"
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "total_plays": 12,
+    "full_plays": 4,
+    "skip_pct": 66.7,
+    "hours": 0.12,
+    "category": "casual"
+  },
+  {
+    "artist": "Skrillex",
+    "total_plays": 12,
+    "full_plays": 5,
+    "skip_pct": 58.3,
+    "hours": 0.26,
+    "category": "casual"
+  },
+  {
+    "artist": "Soundgarden",
+    "total_plays": 12,
+    "full_plays": 2,
+    "skip_pct": 83.3,
+    "hours": 0.15,
+    "category": "casual"
+  },
+  {
+    "artist": "The Lemonheads",
+    "total_plays": 12,
+    "full_plays": 5,
+    "skip_pct": 58.3,
+    "hours": 0.2,
+    "category": "casual"
+  },
+  {
+    "artist": "Wiz Khalifa",
+    "total_plays": 12,
+    "full_plays": 1,
+    "skip_pct": 91.7,
+    "hours": 0.07,
+    "category": "casual"
+  },
+  {
+    "artist": "mgk",
+    "total_plays": 12,
+    "full_plays": 5,
+    "skip_pct": 58.3,
+    "hours": 0.28,
+    "category": "casual"
+  },
+  {
+    "artist": "Alien Ant Farm",
+    "total_plays": 11,
+    "full_plays": 3,
+    "skip_pct": 72.7,
+    "hours": 0.05,
+    "category": "casual"
+  },
+  {
+    "artist": "Avadhoot Gupte",
+    "total_plays": 11,
+    "full_plays": 6,
+    "skip_pct": 45.5,
+    "hours": 0.23,
+    "category": "casual"
+  },
+  {
+    "artist": "Bela Shende",
+    "total_plays": 11,
+    "full_plays": 4,
+    "skip_pct": 63.6,
+    "hours": 0.24,
+    "category": "casual"
+  },
+  {
+    "artist": "Britney Spears",
+    "total_plays": 11,
+    "full_plays": 6,
+    "skip_pct": 45.5,
+    "hours": 0.22,
+    "category": "casual"
+  },
+  {
+    "artist": "Don Henley",
+    "total_plays": 11,
+    "full_plays": 4,
+    "skip_pct": 63.6,
+    "hours": 0.31,
+    "category": "casual"
+  },
+  {
+    "artist": "Incubus",
+    "total_plays": 11,
+    "full_plays": 4,
+    "skip_pct": 63.6,
+    "hours": 0.24,
+    "category": "casual"
+  },
+  {
+    "artist": "Isaiah Rashad",
+    "total_plays": 11,
+    "full_plays": 5,
+    "skip_pct": 54.5,
+    "hours": 0.27,
+    "category": "casual"
+  },
+  {
+    "artist": "Lukas Graham",
+    "total_plays": 11,
+    "full_plays": 6,
+    "skip_pct": 45.5,
+    "hours": 0.33,
+    "category": "casual"
+  },
+  {
+    "artist": "Migos",
+    "total_plays": 11,
+    "full_plays": 2,
+    "skip_pct": 81.8,
+    "hours": 0.09,
+    "category": "casual"
+  },
+  {
+    "artist": "Sandeep Khare",
+    "total_plays": 11,
+    "full_plays": 7,
+    "skip_pct": 36.4,
+    "hours": 0.39,
+    "category": "casual"
+  },
+  {
+    "artist": "Shaan",
+    "total_plays": 11,
+    "full_plays": 3,
+    "skip_pct": 72.7,
+    "hours": 0.2,
+    "category": "casual"
+  },
+  {
+    "artist": "Shawn Mendes",
+    "total_plays": 11,
+    "full_plays": 3,
+    "skip_pct": 72.7,
+    "hours": 0.13,
+    "category": "casual"
+  },
+  {
+    "artist": "Snoop Lion",
+    "total_plays": 11,
+    "full_plays": 7,
+    "skip_pct": 36.4,
+    "hours": 0.36,
+    "category": "casual"
+  },
+  {
+    "artist": "Sona Mohapatra",
+    "total_plays": 11,
+    "full_plays": 5,
+    "skip_pct": 54.5,
+    "hours": 0.34,
+    "category": "casual"
+  },
+  {
+    "artist": "Stone Temple Pilots",
+    "total_plays": 11,
+    "full_plays": 2,
+    "skip_pct": 81.8,
+    "hours": 0.08,
+    "category": "casual"
+  },
+  {
+    "artist": "TOTO",
+    "total_plays": 11,
+    "full_plays": 5,
+    "skip_pct": 54.5,
+    "hours": 0.31,
+    "category": "casual"
+  },
+  {
+    "artist": "Twin Strings",
+    "total_plays": 11,
+    "full_plays": 3,
+    "skip_pct": 72.7,
+    "hours": 0.18,
+    "category": "casual"
+  },
+  {
+    "artist": "Adnan Sami",
+    "total_plays": 10,
+    "full_plays": 6,
+    "skip_pct": 40.0,
+    "hours": 0.44,
+    "category": "casual"
+  },
+  {
+    "artist": "Ayushmann Khurrana",
+    "total_plays": 10,
+    "full_plays": 4,
+    "skip_pct": 60.0,
+    "hours": 0.16,
+    "category": "casual"
+  },
+  {
+    "artist": "Bali",
+    "total_plays": 10,
+    "full_plays": 1,
+    "skip_pct": 90.0,
+    "hours": 0.02,
+    "category": "casual"
+  },
+  {
+    "artist": "Doja Cat",
+    "total_plays": 10,
+    "full_plays": 5,
+    "skip_pct": 50.0,
+    "hours": 0.21,
+    "category": "casual"
+  },
+  {
+    "artist": "Earl Sweatshirt",
+    "total_plays": 10,
+    "full_plays": 7,
+    "skip_pct": 30.0,
+    "hours": 0.19,
+    "category": "casual"
+  },
+  {
+    "artist": "Freddie Gibbs",
+    "total_plays": 10,
+    "full_plays": 2,
+    "skip_pct": 80.0,
+    "hours": 0.05,
+    "category": "casual"
+  },
+  {
+    "artist": "Jim Croce",
+    "total_plays": 10,
+    "full_plays": 7,
+    "skip_pct": 30.0,
+    "hours": 0.29,
+    "category": "casual"
+  },
+  {
+    "artist": "John Legend",
+    "total_plays": 10,
+    "full_plays": 3,
+    "skip_pct": 70.0,
+    "hours": 0.2,
+    "category": "casual"
+  },
+  {
+    "artist": "Kratex",
+    "total_plays": 10,
+    "full_plays": 6,
+    "skip_pct": 40.0,
+    "hours": 0.23,
+    "category": "casual"
+  },
+  {
+    "artist": "Kunal Ganjawala",
+    "total_plays": 10,
+    "full_plays": 3,
+    "skip_pct": 70.0,
+    "hours": 0.19,
+    "category": "casual"
+  },
+  {
+    "artist": "Kushagra",
+    "total_plays": 10,
+    "full_plays": 2,
+    "skip_pct": 80.0,
+    "hours": 0.08,
+    "category": "casual"
+  },
+  {
+    "artist": "Lizzo",
+    "total_plays": 10,
+    "full_plays": 2,
+    "skip_pct": 80.0,
+    "hours": 0.1,
+    "category": "casual"
+  },
+  {
+    "artist": "MC STAN",
+    "total_plays": 10,
+    "full_plays": 2,
+    "skip_pct": 80.0,
+    "hours": 0.04,
+    "category": "casual"
+  },
+  {
+    "artist": "Mos Def",
+    "total_plays": 10,
+    "full_plays": 5,
+    "skip_pct": 50.0,
+    "hours": 0.27,
+    "category": "casual"
+  },
+  {
+    "artist": "Mukesh",
+    "total_plays": 10,
+    "full_plays": 7,
+    "skip_pct": 30.0,
+    "hours": 0.45,
+    "category": "casual"
+  },
+  {
+    "artist": "Nusrat Fateh Ali Khan",
+    "total_plays": 10,
+    "full_plays": 5,
+    "skip_pct": 50.0,
+    "hours": 0.2,
+    "category": "casual"
+  },
+  {
+    "artist": "Sidhu Moose Wala",
+    "total_plays": 10,
+    "full_plays": 2,
+    "skip_pct": 80.0,
+    "hours": 0.1,
+    "category": "casual"
+  },
+  {
+    "artist": "Stephen Sanchez",
+    "total_plays": 10,
+    "full_plays": 7,
+    "skip_pct": 30.0,
+    "hours": 0.28,
+    "category": "casual"
+  },
+  {
+    "artist": "Steppenwolf",
+    "total_plays": 10,
+    "full_plays": 3,
+    "skip_pct": 70.0,
+    "hours": 0.14,
+    "category": "casual"
+  },
+  {
+    "artist": "Sudhir Phadke",
+    "total_plays": 10,
+    "full_plays": 6,
+    "skip_pct": 40.0,
+    "hours": 0.37,
+    "category": "casual"
+  },
+  {
+    "artist": "Sunidhi Chauhan",
+    "total_plays": 10,
+    "full_plays": 0,
+    "skip_pct": 100.0,
+    "hours": 0.01,
+    "category": "casual"
+  },
+  {
+    "artist": "Westside Gunn",
+    "total_plays": 10,
+    "full_plays": 6,
+    "skip_pct": 40.0,
+    "hours": 0.15,
+    "category": "casual"
+  },
+  {
+    "artist": "Xzibit",
+    "total_plays": 10,
+    "full_plays": 4,
+    "skip_pct": 60.0,
+    "hours": 0.15,
+    "category": "casual"
+  }
+]

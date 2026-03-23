@@ -1,0 +1,120 @@
+{
+  "series": [
+    {
+      "year": 2019,
+      "Other": 15.3,
+      "Pop": 4.9,
+      "Hip-Hop": 15.8,
+      "Alternative/Indie Rock": 3.9,
+      "Electronic": 0.7,
+      "Indian Indie/Folk": 4.3,
+      "Jazz/Blues": 2.1,
+      "Folk/Acoustic": 2.9,
+      "Classic Rock": 49.8,
+      "Punjabi/Bhangra": 0.3
+    },
+    {
+      "year": 2020,
+      "Other": 19.9,
+      "Pop": 6.5,
+      "Hip-Hop": 17.7,
+      "Alternative/Indie Rock": 10.0,
+      "Electronic": 0.4,
+      "Indian Indie/Folk": 11.5,
+      "Jazz/Blues": 2.6,
+      "Folk/Acoustic": 2.3,
+      "Classic Rock": 29.1,
+      "Punjabi/Bhangra": 0.0
+    },
+    {
+      "year": 2021,
+      "Other": 20.9,
+      "Pop": 5.8,
+      "Hip-Hop": 27.5,
+      "Alternative/Indie Rock": 6.3,
+      "Electronic": 1.6,
+      "Indian Indie/Folk": 6.0,
+      "Jazz/Blues": 3.5,
+      "Folk/Acoustic": 1.3,
+      "Classic Rock": 27.0,
+      "Punjabi/Bhangra": 0.1
+    },
+    {
+      "year": 2022,
+      "Other": 21.0,
+      "Pop": 9.2,
+      "Hip-Hop": 17.7,
+      "Alternative/Indie Rock": 6.3,
+      "Electronic": 0.8,
+      "Indian Indie/Folk": 8.3,
+      "Jazz/Blues": 3.8,
+      "Folk/Acoustic": 1.2,
+      "Classic Rock": 31.6,
+      "Punjabi/Bhangra": 0.2
+    },
+    {
+      "year": 2023,
+      "Other": 27.1,
+      "Pop": 10.7,
+      "Hip-Hop": 18.5,
+      "Alternative/Indie Rock": 7.9,
+      "Electronic": 1.9,
+      "Indian Indie/Folk": 5.4,
+      "Jazz/Blues": 2.6,
+      "Folk/Acoustic": 2.1,
+      "Classic Rock": 23.6,
+      "Punjabi/Bhangra": 0.2
+    },
+    {
+      "year": 2024,
+      "Other": 15.2,
+      "Pop": 12.4,
+      "Hip-Hop": 12.6,
+      "Alternative/Indie Rock": 11.0,
+      "Electronic": 0.7,
+      "Indian Indie/Folk": 10.1,
+      "Jazz/Blues": 1.4,
+      "Folk/Acoustic": 2.6,
+      "Classic Rock": 34.1,
+      "Punjabi/Bhangra": 0.0
+    },
+    {
+      "year": 2025,
+      "Other": 21.3,
+      "Pop": 8.9,
+      "Hip-Hop": 33.0,
+      "Alternative/Indie Rock": 7.6,
+      "Electronic": 1.0,
+      "Indian Indie/Folk": 6.9,
+      "Jazz/Blues": 1.6,
+      "Folk/Acoustic": 1.4,
+      "Classic Rock": 17.9,
+      "Punjabi/Bhangra": 0.5
+    },
+    {
+      "year": 2026,
+      "Other": 16.6,
+      "Pop": 13.1,
+      "Hip-Hop": 13.8,
+      "Alternative/Indie Rock": 14.4,
+      "Electronic": 0.6,
+      "Indian Indie/Folk": 11.4,
+      "Jazz/Blues": 1.8,
+      "Folk/Acoustic": 1.6,
+      "Classic Rock": 26.0,
+      "Punjabi/Bhangra": 0.7
+    }
+  ],
+  "buckets": [
+    "Alternative/Indie Rock",
+    "Classic Rock",
+    "Electronic",
+    "Folk/Acoustic",
+    "Hip-Hop",
+    "Indian Indie/Folk",
+    "Jazz/Blues",
+    "Other",
+    "Pop",
+    "Punjabi/Bhangra"
+  ]
+}

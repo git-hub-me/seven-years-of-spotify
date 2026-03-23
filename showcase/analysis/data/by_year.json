@@ -1,0 +1,890 @@
+{
+  "2019": {
+    "streams": 4855,
+    "hours": 122.2,
+    "skip_rate_pct": 53.9,
+    "top_artists": [
+      {
+        "name": "The Beatles",
+        "plays": 450
+      },
+      {
+        "name": "The Local Train",
+        "plays": 77
+      },
+      {
+        "name": "Kendrick Lamar",
+        "plays": 75
+      },
+      {
+        "name": "Pink Floyd",
+        "plays": 74
+      },
+      {
+        "name": "The Rolling Stones",
+        "plays": 71
+      },
+      {
+        "name": "Eminem",
+        "plays": 64
+      },
+      {
+        "name": "Queen",
+        "plays": 51
+      },
+      {
+        "name": "Dub Sharma",
+        "plays": 48
+      },
+      {
+        "name": "David Bowie",
+        "plays": 47
+      },
+      {
+        "name": "Jimi Hendrix",
+        "plays": 32
+      }
+    ],
+    "top_tracks": [
+      {
+        "track": "Azadi",
+        "artist": "Dub Sharma",
+        "plays": 32
+      },
+      {
+        "track": "Love Game",
+        "artist": "Eminem",
+        "plays": 29
+      },
+      {
+        "track": "Paint It, Black",
+        "artist": "The Rolling Stones",
+        "plays": 28
+      },
+      {
+        "track": "Space Oddity - Love You Til Tuesday version",
+        "artist": "David Bowie",
+        "plays": 25
+      },
+      {
+        "track": "Kaam Bhaari",
+        "artist": "Kaam Bhaari",
+        "plays": 20
+      },
+      {
+        "track": "Poorna Swaraj",
+        "artist": "RollsRoy's",
+        "plays": 19
+      },
+      {
+        "track": "(I Can't Get No) Satisfaction - Mono Version",
+        "artist": "The Rolling Stones",
+        "plays": 18
+      },
+      {
+        "track": "My Sweet Lord - Remastered 2014",
+        "artist": "George Harrison",
+        "plays": 18
+      },
+      {
+        "track": "Octopus's Garden - Remastered 2009",
+        "artist": "The Beatles",
+        "plays": 16
+      },
+      {
+        "track": "All Along the Watchtower",
+        "artist": "Jimi Hendrix",
+        "plays": 15
+      }
+    ],
+    "genre_pct": {
+      "Classic Rock": 49.8,
+      "Hip-Hop": 15.8,
+      "Other": 15.3,
+      "Pop": 4.9,
+      "Indian Indie/Folk": 4.3,
+      "Alternative/Indie Rock": 3.9,
+      "Folk/Acoustic": 2.9,
+      "Jazz/Blues": 2.1,
+      "Electronic": 0.7,
+      "Punjabi/Bhangra": 0.3
+    }
+  },
+  "2020": {
+    "streams": 3409,
+    "hours": 116.3,
+    "skip_rate_pct": 44.5,
+    "top_artists": [
+      {
+        "name": "The Local Train",
+        "plays": 214
+      },
+      {
+        "name": "The Beatles",
+        "plays": 146
+      },
+      {
+        "name": "Kendrick Lamar",
+        "plays": 119
+      },
+      {
+        "name": "Red Hot Chili Peppers",
+        "plays": 47
+      },
+      {
+        "name": "Pink Floyd",
+        "plays": 39
+      },
+      {
+        "name": "Eminem",
+        "plays": 38
+      },
+      {
+        "name": "Pritam",
+        "plays": 38
+      },
+      {
+        "name": "Linkin Park",
+        "plays": 33
+      },
+      {
+        "name": "Queen",
+        "plays": 30
+      },
+      {
+        "name": "George Harrison",
+        "plays": 24
+      }
+    ],
+    "top_tracks": [
+      {
+        "track": "Dil Mere",
+        "artist": "The Local Train",
+        "plays": 23
+      },
+      {
+        "track": "Kaisey Jiyun",
+        "artist": "The Local Train",
+        "plays": 21
+      },
+      {
+        "track": "Kho Gaye Hum Kahan",
+        "artist": "Jasleen Royal",
+        "plays": 19
+      },
+      {
+        "track": "The Art of Peer Pressure",
+        "artist": "Kendrick Lamar",
+        "plays": 19
+      },
+      {
+        "track": "Khudi",
+        "artist": "The Local Train",
+        "plays": 18
+      },
+      {
+        "track": "Mere Yaar",
+        "artist": "The Local Train",
+        "plays": 18
+      },
+      {
+        "track": "Aaftaab",
+        "artist": "The Local Train",
+        "plays": 17
+      },
+      {
+        "track": "Aakhri Salaam",
+        "artist": "The Local Train",
+        "plays": 17
+      },
+      {
+        "track": "Dilnawaz",
+        "artist": "The Local Train",
+        "plays": 17
+      },
+      {
+        "track": "Mizaaj",
+        "artist": "The Local Train",
+        "plays": 16
+      }
+    ],
+    "genre_pct": {
+      "Classic Rock": 29.1,
+      "Other": 19.9,
+      "Hip-Hop": 17.7,
+      "Indian Indie/Folk": 11.5,
+      "Alternative/Indie Rock": 10.0,
+      "Pop": 6.5,
+      "Jazz/Blues": 2.6,
+      "Folk/Acoustic": 2.3,
+      "Electronic": 0.4,
+      "Punjabi/Bhangra": 0.0
+    }
+  },
+  "2021": {
+    "streams": 6245,
+    "hours": 154.4,
+    "skip_rate_pct": 57.4,
+    "top_artists": [
+      {
+        "name": "The Beatles",
+        "plays": 162
+      },
+      {
+        "name": "Epr Iyer",
+        "plays": 124
+      },
+      {
+        "name": "Eminem",
+        "plays": 114
+      },
+      {
+        "name": "The Local Train",
+        "plays": 97
+      },
+      {
+        "name": "JAY-Z",
+        "plays": 92
+      },
+      {
+        "name": "Queen",
+        "plays": 69
+      },
+      {
+        "name": "Kendrick Lamar",
+        "plays": 65
+      },
+      {
+        "name": "MF DOOM",
+        "plays": 64
+      },
+      {
+        "name": "A Tribe Called Quest",
+        "plays": 56
+      },
+      {
+        "name": "Lil Nas X",
+        "plays": 43
+      }
+    ],
+    "top_tracks": [
+      {
+        "track": "THAT'S THAT",
+        "artist": "MF DOOM",
+        "plays": 28
+      },
+      {
+        "track": "Rapp Snitch Knishes",
+        "artist": "MF DOOM",
+        "plays": 24
+      },
+      {
+        "track": "Can I Kick It?",
+        "artist": "A Tribe Called Quest",
+        "plays": 22
+      },
+      {
+        "track": "Electric Relaxation",
+        "artist": "A Tribe Called Quest",
+        "plays": 22
+      },
+      {
+        "track": "Raastamahn",
+        "artist": "Epr Iyer",
+        "plays": 21
+      },
+      {
+        "track": "Killing In The Name",
+        "artist": "Rage Against The Machine",
+        "plays": 20
+      },
+      {
+        "track": "Forgot About Dre",
+        "artist": "Dr. Dre",
+        "plays": 18
+      },
+      {
+        "track": "Love Again",
+        "artist": "Dua Lipa",
+        "plays": 18
+      },
+      {
+        "track": "Under Pressure - Remastered 2011",
+        "artist": "Queen",
+        "plays": 16
+      },
+      {
+        "track": "And I Love Her - Remastered 2009",
+        "artist": "The Beatles",
+        "plays": 15
+      }
+    ],
+    "genre_pct": {
+      "Hip-Hop": 27.5,
+      "Classic Rock": 27.0,
+      "Other": 20.9,
+      "Alternative/Indie Rock": 6.3,
+      "Indian Indie/Folk": 6.0,
+      "Pop": 5.8,
+      "Jazz/Blues": 3.5,
+      "Electronic": 1.6,
+      "Folk/Acoustic": 1.3,
+      "Punjabi/Bhangra": 0.1
+    }
+  },
+  "2022": {
+    "streams": 5326,
+    "hours": 147.0,
+    "skip_rate_pct": 51.1,
+    "top_artists": [
+      {
+        "name": "The Beatles",
+        "plays": 125
+      },
+      {
+        "name": "Pink Floyd",
+        "plays": 113
+      },
+      {
+        "name": "MF DOOM",
+        "plays": 108
+      },
+      {
+        "name": "Kendrick Lamar",
+        "plays": 91
+      },
+      {
+        "name": "Nirvana",
+        "plays": 70
+      },
+      {
+        "name": "Queen",
+        "plays": 56
+      },
+      {
+        "name": "Red Hot Chili Peppers",
+        "plays": 56
+      },
+      {
+        "name": "Dr. Dre",
+        "plays": 42
+      },
+      {
+        "name": "The Local Train",
+        "plays": 39
+      },
+      {
+        "name": "The Rolling Stones",
+        "plays": 39
+      }
+    ],
+    "top_tracks": [
+      {
+        "track": "THAT'S THAT",
+        "artist": "MF DOOM",
+        "plays": 26
+      },
+      {
+        "track": "Come As You Are",
+        "artist": "Nirvana",
+        "plays": 24
+      },
+      {
+        "track": "Mando Calrissian",
+        "artist": "CZARFACE",
+        "plays": 24
+      },
+      {
+        "track": "Rhymes Like Dimes",
+        "artist": "MF DOOM",
+        "plays": 24
+      },
+      {
+        "track": "Money Trees",
+        "artist": "Kendrick Lamar",
+        "plays": 22
+      },
+      {
+        "track": "Rapp Snitch Knishes",
+        "artist": "MF DOOM",
+        "plays": 22
+      },
+      {
+        "track": "A.D.H.D",
+        "artist": "Kendrick Lamar",
+        "plays": 19
+      },
+      {
+        "track": "N.Y. State of Mind",
+        "artist": "Nas",
+        "plays": 19
+      },
+      {
+        "track": "Time in a Bottle (From \"The Ultimate Hits of the 70s\") - Original",
+        "artist": "That 70s Hit Band",
+        "plays": 19
+      },
+      {
+        "track": "Yesterday - Remastered 2009",
+        "artist": "The Beatles",
+        "plays": 18
+      }
+    ],
+    "genre_pct": {
+      "Classic Rock": 31.6,
+      "Other": 21.0,
+      "Hip-Hop": 17.7,
+      "Pop": 9.2,
+      "Indian Indie/Folk": 8.3,
+      "Alternative/Indie Rock": 6.3,
+      "Jazz/Blues": 3.8,
+      "Folk/Acoustic": 1.2,
+      "Electronic": 0.8,
+      "Punjabi/Bhangra": 0.2
+    }
+  },
+  "2023": {
+    "streams": 2854,
+    "hours": 78.6,
+    "skip_rate_pct": 47.7,
+    "top_artists": [
+      {
+        "name": "Kendrick Lamar",
+        "plays": 57
+      },
+      {
+        "name": "Queen",
+        "plays": 44
+      },
+      {
+        "name": "Anuv Jain",
+        "plays": 36
+      },
+      {
+        "name": "JAY-Z",
+        "plays": 34
+      },
+      {
+        "name": "The Beatles",
+        "plays": 34
+      },
+      {
+        "name": "MF DOOM",
+        "plays": 28
+      },
+      {
+        "name": "Prateek Kuhad",
+        "plays": 28
+      },
+      {
+        "name": "Bob Dylan",
+        "plays": 27
+      },
+      {
+        "name": "System Of A Down",
+        "plays": 26
+      },
+      {
+        "name": "Eminem",
+        "plays": 24
+      }
+    ],
+    "top_tracks": [
+      {
+        "track": "Something Just Like This",
+        "artist": "The Chainsmokers",
+        "plays": 17
+      },
+      {
+        "track": "Gul",
+        "artist": "Anuv Jain",
+        "plays": 13
+      },
+      {
+        "track": "Hypnotize - 2014 Remaster",
+        "artist": "The Notorious B.I.G.",
+        "plays": 13
+      },
+      {
+        "track": "Tune Kaha",
+        "artist": "Prateek Kuhad",
+        "plays": 13
+      },
+      {
+        "track": "Creep",
+        "artist": "Radiohead",
+        "plays": 11
+      },
+      {
+        "track": "Ms. Jackson",
+        "artist": "Outkast",
+        "plays": 11
+      },
+      {
+        "track": "Rapp Snitch Knishes feat. Mr. Fantastik",
+        "artist": "MF DOOM",
+        "plays": 11
+      },
+      {
+        "track": "THAT'S THAT",
+        "artist": "MF DOOM",
+        "plays": 11
+      },
+      {
+        "track": "Baarishein",
+        "artist": "Anuv Jain",
+        "plays": 10
+      },
+      {
+        "track": "Demons",
+        "artist": "Imagine Dragons",
+        "plays": 10
+      }
+    ],
+    "genre_pct": {
+      "Other": 27.1,
+      "Classic Rock": 23.6,
+      "Hip-Hop": 18.5,
+      "Pop": 10.7,
+      "Alternative/Indie Rock": 7.9,
+      "Indian Indie/Folk": 5.4,
+      "Jazz/Blues": 2.6,
+      "Folk/Acoustic": 2.1,
+      "Electronic": 1.9,
+      "Punjabi/Bhangra": 0.2
+    }
+  },
+  "2024": {
+    "streams": 1067,
+    "hours": 25.8,
+    "skip_rate_pct": 55.7,
+    "top_artists": [
+      {
+        "name": "Anuv Jain",
+        "plays": 63
+      },
+      {
+        "name": "The Beatles",
+        "plays": 14
+      },
+      {
+        "name": "Bob Dylan",
+        "plays": 12
+      },
+      {
+        "name": "Post Malone",
+        "plays": 12
+      },
+      {
+        "name": "Rage Against The Machine",
+        "plays": 12
+      },
+      {
+        "name": "Porcupine Tree",
+        "plays": 11
+      },
+      {
+        "name": "blink-182",
+        "plays": 11
+      },
+      {
+        "name": "Prateek Kuhad",
+        "plays": 10
+      },
+      {
+        "name": "Creedence Clearwater Revival",
+        "plays": 9
+      },
+      {
+        "name": "Kanye West",
+        "plays": 9
+      }
+    ],
+    "top_tracks": [
+      {
+        "track": "Husn",
+        "artist": "Anuv Jain",
+        "plays": 43
+      },
+      {
+        "track": "Baarishein",
+        "artist": "Anuv Jain",
+        "plays": 9
+      },
+      {
+        "track": "Stayin Alive",
+        "artist": "Bee Gees",
+        "plays": 8
+      },
+      {
+        "track": "Gul",
+        "artist": "Anuv Jain",
+        "plays": 7
+      },
+      {
+        "track": "Runaway",
+        "artist": "Kanye West",
+        "plays": 7
+      },
+      {
+        "track": "Doin' Time",
+        "artist": "Sublime",
+        "plays": 6
+      },
+      {
+        "track": "I Miss You",
+        "artist": "blink-182",
+        "plays": 6
+      },
+      {
+        "track": "What's The Difference",
+        "artist": "Dr. Dre",
+        "plays": 6
+      },
+      {
+        "track": "Ophelia",
+        "artist": "The Lumineers",
+        "plays": 5
+      },
+      {
+        "track": "Taambdi Chaamdi",
+        "artist": "Kratex",
+        "plays": 5
+      }
+    ],
+    "genre_pct": {
+      "Classic Rock": 34.1,
+      "Other": 15.2,
+      "Hip-Hop": 12.6,
+      "Pop": 12.4,
+      "Alternative/Indie Rock": 11.0,
+      "Indian Indie/Folk": 10.1,
+      "Folk/Acoustic": 2.6,
+      "Jazz/Blues": 1.4,
+      "Electronic": 0.7,
+      "Punjabi/Bhangra": 0.0
+    }
+  },
+  "2025": {
+    "streams": 3006,
+    "hours": 75.1,
+    "skip_rate_pct": 56.1,
+    "top_artists": [
+      {
+        "name": "Kendrick Lamar",
+        "plays": 85
+      },
+      {
+        "name": "Eminem",
+        "plays": 68
+      },
+      {
+        "name": "Anuv Jain",
+        "plays": 50
+      },
+      {
+        "name": "Dr. Dre",
+        "plays": 36
+      },
+      {
+        "name": "JAY-Z",
+        "plays": 31
+      },
+      {
+        "name": "Taylor Swift",
+        "plays": 28
+      },
+      {
+        "name": "Prateek Kuhad",
+        "plays": 23
+      },
+      {
+        "name": "CZARFACE",
+        "plays": 22
+      },
+      {
+        "name": "SAMBATA",
+        "plays": 22
+      },
+      {
+        "name": "The Notorious B.I.G.",
+        "plays": 22
+      }
+    ],
+    "top_tracks": [
+      {
+        "track": "Wesley's Theory",
+        "artist": "Kendrick Lamar",
+        "plays": 22
+      },
+      {
+        "track": "Husn",
+        "artist": "Anuv Jain",
+        "plays": 20
+      },
+      {
+        "track": "I Miss You",
+        "artist": "blink-182",
+        "plays": 16
+      },
+      {
+        "track": "Island In The Sun",
+        "artist": "Weezer",
+        "plays": 16
+      },
+      {
+        "track": "The Fate of Ophelia",
+        "artist": "Taylor Swift",
+        "plays": 16
+      },
+      {
+        "track": "Forgot About Dre",
+        "artist": "Dr. Dre",
+        "plays": 14
+      },
+      {
+        "track": "Hypnotize - 2014 Remaster",
+        "artist": "The Notorious B.I.G.",
+        "plays": 12
+      },
+      {
+        "track": "If I Had",
+        "artist": "Eminem",
+        "plays": 12
+      },
+      {
+        "track": "Promises",
+        "artist": "The Cranberries",
+        "plays": 12
+      },
+      {
+        "track": "Mask Off",
+        "artist": "Future",
+        "plays": 11
+      }
+    ],
+    "genre_pct": {
+      "Hip-Hop": 33.0,
+      "Other": 21.3,
+      "Classic Rock": 17.9,
+      "Pop": 8.9,
+      "Alternative/Indie Rock": 7.6,
+      "Indian Indie/Folk": 6.9,
+      "Jazz/Blues": 1.6,
+      "Folk/Acoustic": 1.4,
+      "Electronic": 1.0,
+      "Punjabi/Bhangra": 0.5
+    }
+  },
+  "2026": {
+    "streams": 1452,
+    "hours": 52.2,
+    "skip_rate_pct": 37.1,
+    "top_artists": [
+      {
+        "name": "Anuv Jain",
+        "plays": 118
+      },
+      {
+        "name": "The Beatles",
+        "plays": 37
+      },
+      {
+        "name": "Prateek Kuhad",
+        "plays": 24
+      },
+      {
+        "name": "Kendrick Lamar",
+        "plays": 21
+      },
+      {
+        "name": "MF DOOM",
+        "plays": 21
+      },
+      {
+        "name": "Red Hot Chili Peppers",
+        "plays": 21
+      },
+      {
+        "name": "The Local Train",
+        "plays": 19
+      },
+      {
+        "name": "Nirvana",
+        "plays": 18
+      },
+      {
+        "name": "Tame Impala",
+        "plays": 18
+      },
+      {
+        "name": "Eminem",
+        "plays": 15
+      }
+    ],
+    "top_tracks": [
+      {
+        "track": "Gul",
+        "artist": "Anuv Jain",
+        "plays": 15
+      },
+      {
+        "track": "Jo Tum Mere Ho",
+        "artist": "Anuv Jain",
+        "plays": 15
+      },
+      {
+        "track": "Husn",
+        "artist": "Anuv Jain",
+        "plays": 14
+      },
+      {
+        "track": "End of Beginning",
+        "artist": "Djo",
+        "plays": 11
+      },
+      {
+        "track": "The Less I Know The Better",
+        "artist": "Tame Impala",
+        "plays": 11
+      },
+      {
+        "track": "Arz Kiya Hai | Coke Studio Bharat",
+        "artist": "Anuv Jain",
+        "plays": 10
+      },
+      {
+        "track": "Tere Hi Hum",
+        "artist": "Prateek Kuhad",
+        "plays": 10
+      },
+      {
+        "track": "Baarishein",
+        "artist": "Anuv Jain",
+        "plays": 8
+      },
+      {
+        "track": "Choo Lo",
+        "artist": "The Local Train",
+        "plays": 8
+      },
+      {
+        "track": "Mazaak",
+        "artist": "Anuv Jain",
+        "plays": 8
+      }
+    ],
+    "genre_pct": {
+      "Classic Rock": 26.0,
+      "Other": 16.6,
+      "Alternative/Indie Rock": 14.4,
+      "Hip-Hop": 13.8,
+      "Pop": 13.1,
+      "Indian Indie/Folk": 11.4,
+      "Jazz/Blues": 1.8,
+      "Folk/Acoustic": 1.6,
+      "Punjabi/Bhangra": 0.7,
+      "Electronic": 0.6
+    }
+  }
+}
