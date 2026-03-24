@@ -101,8 +101,8 @@ export default function SkipHonesty({ data }) {
   const catOrder = ["obsession", "true_love", "reliable", "complicated", "aspirational", "casual"];
 
   const filtered = activeCategory === "all"
-    ? data.filter(d => d.total_plays >= 10)
-    : data.filter(d => d.category === activeCategory);
+    ? data.filter(d => d.total_plays >= 10 && d.full_plays >= 1)
+    : data.filter(d => d.category === activeCategory && d.full_plays >= 1);
 
   return (
     <div className="section" style={{ borderBottom: "1px solid var(--border)" }}>
@@ -182,9 +182,12 @@ export default function SkipHonesty({ data }) {
               dataKey="full_plays"
               type="number"
               name="Full Plays"
+              scale="log"
+              domain={[1, "auto"]}
               stroke="#333"
               tick={{ fill: "#666", fontSize: 11 }}
-              label={{ value: "Full Plays (>30s) →", fill: "#555", fontSize: 11, position: "insideBottom", offset: -20 }}
+              tickFormatter={v => v >= 1000 ? `${v/1000}k` : v}
+              label={{ value: "Full Plays (>30s, log scale) →", fill: "#555", fontSize: 11, position: "insideBottom", offset: -20 }}
             />
             <YAxis
               dataKey="skip_pct"

@@ -203,19 +203,19 @@ export default function Popularity({ data }) {
       </div>
 
       {/* Mainstream creep over time */}
-      <div style={{ marginBottom: 48 }}>
+      <div style={{ marginBottom: 48, borderTop: "1px solid var(--border)", paddingTop: 48 }}>
         <h3 style={{ fontSize: 16, fontWeight: 700, marginBottom: 6 }}>The Mainstream Creep</h3>
         <p style={{ fontSize: 12, color: "#555", marginBottom: 20 }}>
           Average popularity score of tracks you fully listened to, by year.
           Every year bar 2020 has trended upward.
         </p>
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 32 }}>
+        <div className="grid-2" style={{ gap: 32 }}>
           <div style={{ height: 220 }}>
             <ResponsiveContainer width="100%" height="100%">
               <LineChart data={data.trend} margin={{ top: 4, right: 16, bottom: 4, left: 0 }}>
                 <CartesianGrid strokeDasharray="3 3" stroke="#1a1a1a" />
                 <XAxis dataKey="year" stroke="#333" tick={{ fill: "#666", fontSize: 11 }} />
-                <YAxis domain={[50, 80]} stroke="#333" tick={{ fill: "#666", fontSize: 11 }} />
+                <YAxis domain={['auto', 'auto']} stroke="#333" tick={{ fill: "#666", fontSize: 11 }} />
                 <Tooltip content={<TrendTooltip />} />
                 <ReferenceLine y={60} stroke="#555" strokeDasharray="4 4" label={{ value: "popular threshold", fill: "#555", fontSize: 10, position: "insideTopRight" }} />
                 <Line type="monotone" dataKey="avg_pop" stroke="var(--accent2)" strokeWidth={2.5}
@@ -240,7 +240,7 @@ export default function Popularity({ data }) {
       </div>
 
       {/* Underground gems vs Mainstream hits */}
-      <div>
+      <div style={{ borderTop: "1px solid var(--border)", paddingTop: 48 }}>
         <h3 style={{ fontSize: 16, fontWeight: 700, marginBottom: 8 }}>The Two Extremes</h3>
         <p style={{ fontSize: 12, color: "#555", marginBottom: 20 }}>
           Tracks you played most at each end of the popularity spectrum.

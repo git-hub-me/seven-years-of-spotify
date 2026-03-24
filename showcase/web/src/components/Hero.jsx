@@ -1,17 +1,5 @@
 import React from "react";
-
-const GENRE_COLORS = {
-  "Indian Indie/Folk": "#E8A838",
-  "Hip-Hop": "#E84855",
-  "Classic Rock": "#5865F2",
-  "Alternative/Indie Rock": "#9B59B6",
-  "Punjabi/Bhangra": "#1DB954",
-  "Pop": "#38B2E8",
-  "Electronic": "#00CEC9",
-  "Folk/Acoustic": "#FDCB6E",
-  "Jazz/Blues": "#6C5CE7",
-  "Other": "#555",
-};
+import { GENRE_COLORS } from "../constants/colors.js";
 
 export default function Hero({ overview, genreEvolution }) {
   if (!overview) return null;
@@ -50,7 +38,7 @@ export default function Hero({ overview, genreEvolution }) {
             {overview.years_active} years of listening. {overview.total_streams.toLocaleString()} streams.
             An honest look at what the numbers actually say about who I am as a listener.
           </p>
-          <p style={{ fontSize: 13, color: "#555", marginTop: 8 }}>
+          <p style={{ fontSize: 13, color: "var(--muted)", marginTop: 8 }}>
             {overview.first_stream.slice(0, 7)} — {overview.last_stream.slice(0, 7)} · Built with Spotify Extended History
           </p>
         </div>

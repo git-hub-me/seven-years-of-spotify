@@ -14,5 +14,11 @@ __pycache__/
 node_modules/
 showcase/web/dist/
 
+# Raw Spotify extended history export (PII — never commit)
+Spotify Extended Streaming History/
+
+# Claude Code local settings
+.claude/
+
 # macOS
 .DS_Store

@@ -1,0 +1,279 @@
+{
+  "histogram": [
+    {
+      "pct": 0,
+      "count": 4677,
+      "share": 31.7
+    },
+    {
+      "pct": 10,
+      "count": 802,
+      "share": 5.4
+    },
+    {
+      "pct": 20,
+      "count": 436,
+      "share": 3.0
+    },
+    {
+      "pct": 30,
+      "count": 360,
+      "share": 2.4
+    },
+    {
+      "pct": 40,
+      "count": 306,
+      "share": 2.1
+    },
+    {
+      "pct": 50,
+      "count": 264,
+      "share": 1.8
+    },
+    {
+      "pct": 60,
+      "count": 300,
+      "share": 2.0
+    },
+    {
+      "pct": 70,
+      "count": 311,
+      "share": 2.1
+    },
+    {
+      "pct": 80,
+      "count": 319,
+      "share": 2.2
+    },
+    {
+      "pct": 90,
+      "count": 431,
+      "share": 2.9
+    },
+    {
+      "pct": 100,
+      "count": 6570,
+      "share": 44.5
+    }
+  ],
+  "genre_stats": [
+    {
+      "genre": "Alternative/Indie Rock",
+      "avg_completion": 56.4,
+      "bail_early_pct": 40.5,
+      "played_full_pct": 47.9,
+      "total": 2618
+    },
+    {
+      "genre": "Classic Rock",
+      "avg_completion": 56.2,
+      "bail_early_pct": 40.0,
+      "played_full_pct": 47.1,
+      "total": 5646
+    },
+    {
+      "genre": "Folk/Acoustic",
+      "avg_completion": 56.2,
+      "bail_early_pct": 40.4,
+      "played_full_pct": 48.6,
+      "total": 473
+    },
+    {
+      "genre": "Hip-Hop",
+      "avg_completion": 55.3,
+      "bail_early_pct": 41.3,
+      "played_full_pct": 46.1,
+      "total": 4230
+    },
+    {
+      "genre": "Jazz/Blues",
+      "avg_completion": 55.2,
+      "bail_early_pct": 42.4,
+      "played_full_pct": 46.9,
+      "total": 955
+    },
+    {
+      "genre": "Other",
+      "avg_completion": 54.8,
+      "bail_early_pct": 41.9,
+      "played_full_pct": 45.0,
+      "total": 2527
+    },
+    {
+      "genre": "Indian Indie/Folk",
+      "avg_completion": 54.8,
+      "bail_early_pct": 42.8,
+      "played_full_pct": 47.3,
+      "total": 2229
+    },
+    {
+      "genre": "Electronic",
+      "avg_completion": 53.8,
+      "bail_early_pct": 39.7,
+      "played_full_pct": 42.0,
+      "total": 131
+    },
+    {
+      "genre": "Punjabi/Bhangra",
+      "avg_completion": 52.5,
+      "bail_early_pct": 43.0,
+      "played_full_pct": 39.1,
+      "total": 128
+    },
+    {
+      "genre": "Pop",
+      "avg_completion": 50.8,
+      "bail_early_pct": 46.7,
+      "played_full_pct": 42.0,
+      "total": 2016
+    }
+  ],
+  "by_hour": [
+    {
+      "hour_ist": 5,
+      "hour_utc": 0,
+      "avg_completion": 55.8,
+      "count": 15
+    },
+    {
+      "hour_ist": 6,
+      "hour_utc": 1,
+      "avg_completion": 65.4,
+      "count": 48
+    },
+    {
+      "hour_ist": 7,
+      "hour_utc": 2,
+      "avg_completion": 55.6,
+      "count": 90
+    },
+    {
+      "hour_ist": 8,
+      "hour_utc": 3,
+      "avg_completion": 48.6,
+      "count": 661
+    },
+    {
+      "hour_ist": 9,
+      "hour_utc": 4,
+      "avg_completion": 48.5,
+      "count": 1017
+    },
+    {
+      "hour_ist": 10,
+      "hour_utc": 5,
+      "avg_completion": 53.9,
+      "count": 826
+    },
+    {
+      "hour_ist": 11,
+      "hour_utc": 6,
+      "avg_completion": 61.3,
+      "count": 596
+    },
+    {
+      "hour_ist": 12,
+      "hour_utc": 7,
+      "avg_completion": 58.3,
+      "count": 707
+    },
+    {
+      "hour_ist": 13,
+      "hour_utc": 8,
+      "avg_completion": 54.5,
+      "count": 685
+    },
+    {
+      "hour_ist": 14,
+      "hour_utc": 9,
+      "avg_completion": 55.6,
+      "count": 913
+    },
+    {
+      "hour_ist": 15,
+      "hour_utc": 10,
+      "avg_completion": 54.5,
+      "count": 700
+    },
+    {
+      "hour_ist": 16,
+      "hour_utc": 11,
+      "avg_completion": 58.1,
+      "count": 694
+    },
+    {
+      "hour_ist": 17,
+      "hour_utc": 12,
+      "avg_completion": 60.0,
+      "count": 885
+    },
+    {
+      "hour_ist": 18,
+      "hour_utc": 13,
+      "avg_completion": 59.4,
+      "count": 1221
+    },
+    {
+      "hour_ist": 19,
+      "hour_utc": 14,
+      "avg_completion": 58.2,
+      "count": 1147
+    },
+    {
+      "hour_ist": 20,
+      "hour_utc": 15,
+      "avg_completion": 57.6,
+      "count": 894
+    },
+    {
+      "hour_ist": 21,
+      "hour_utc": 16,
+      "avg_completion": 52.5,
+      "count": 900
+    },
+    {
+      "hour_ist": 22,
+      "hour_utc": 17,
+      "avg_completion": 51.1,
+      "count": 796
+    },
+    {
+      "hour_ist": 23,
+      "hour_utc": 18,
+      "avg_completion": 48.9,
+      "count": 786
+    },
+    {
+      "hour_ist": 0,
+      "hour_utc": 19,
+      "avg_completion": 55.2,
+      "count": 597
+    },
+    {
+      "hour_ist": 1,
+      "hour_utc": 20,
+      "avg_completion": 53.9,
+      "count": 366
+    },
+    {
+      "hour_ist": 2,
+      "hour_utc": 21,
+      "avg_completion": 62.7,
+      "count": 173
+    },
+    {
+      "hour_ist": 3,
+      "hour_utc": 22,
+      "avg_completion": 74.6,
+      "count": 49
+    },
+    {
+      "hour_ist": 4,
+      "hour_utc": 23,
+      "avg_completion": 41.4,
+      "count": 10
+    }
+  ],
+  "skipped_before_30s_pct": 31.7,
+  "completed_full_pct": 44.5
+}

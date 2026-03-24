@@ -1,0 +1,1728 @@
+{
+  "series": [
+    {
+      "month": "2019-02",
+      "year": 2019,
+      "month_num": 2,
+      "streams": 97,
+      "hours": 2.4,
+      "skip_pct": 53.6,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Classic Rock": 88.5,
+        "Pop": 0.2,
+        "Other": 8.1,
+        "Jazz/Blues": 2.1,
+        "Alternative/Indie Rock": 0.9,
+        "Folk/Acoustic": 0.2
+      }
+    },
+    {
+      "month": "2019-03",
+      "year": 2019,
+      "month_num": 3,
+      "streams": 936,
+      "hours": 20.9,
+      "skip_pct": 63.1,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 18.7,
+        "Alternative/Indie Rock": 0.2,
+        "Classic Rock": 55.4,
+        "Pop": 7.0,
+        "Other": 13.5,
+        "Indian Indie/Folk": 0.3,
+        "Jazz/Blues": 2.7,
+        "Folk/Acoustic": 1.9,
+        "Electronic": 0.2
+      }
+    },
+    {
+      "month": "2019-04",
+      "year": 2019,
+      "month_num": 4,
+      "streams": 761,
+      "hours": 18.2,
+      "skip_pct": 51.6,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 26.1,
+        "Classic Rock": 45.8,
+        "Indian Indie/Folk": 2.0,
+        "Pop": 5.3,
+        "Other": 13.3,
+        "Jazz/Blues": 1.8,
+        "Folk/Acoustic": 1.8,
+        "Alternative/Indie Rock": 2.6,
+        "Electronic": 0.6,
+        "Punjabi/Bhangra": 0.6
+      }
+    },
+    {
+      "month": "2019-05",
+      "year": 2019,
+      "month_num": 5,
+      "streams": 464,
+      "hours": 7.2,
+      "skip_pct": 70.0,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Classic Rock": 37.6,
+        "Other": 13.2,
+        "Hip-Hop": 18.6,
+        "Folk/Acoustic": 0.6,
+        "Alternative/Indie Rock": 7.3,
+        "Indian Indie/Folk": 8.8,
+        "Pop": 6.9,
+        "Electronic": 2.6,
+        "Jazz/Blues": 3.6,
+        "Punjabi/Bhangra": 0.7
+      }
+    },
+    {
+      "month": "2019-06",
+      "year": 2019,
+      "month_num": 6,
+      "streams": 481,
+      "hours": 10.7,
+      "skip_pct": 53.0,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Classic Rock": 34.9,
+        "Indian Indie/Folk": 1.5,
+        "Pop": 9.1,
+        "Other": 22.1,
+        "Alternative/Indie Rock": 0.6,
+        "Hip-Hop": 25.8,
+        "Jazz/Blues": 1.1,
+        "Electronic": 3.9,
+        "Punjabi/Bhangra": 0.5,
+        "Folk/Acoustic": 0.5
+      }
+    },
+    {
+      "month": "2019-07",
+      "year": 2019,
+      "month_num": 7,
+      "streams": 738,
+      "hours": 23.0,
+      "skip_pct": 45.8,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Alternative/Indie Rock": 1.7,
+        "Classic Rock": 63.1,
+        "Other": 20.9,
+        "Indian Indie/Folk": 0.4,
+        "Pop": 1.3,
+        "Jazz/Blues": 3.6,
+        "Folk/Acoustic": 7.2,
+        "Hip-Hop": 1.7,
+        "Electronic": 0.0,
+        "Punjabi/Bhangra": 0.1
+      }
+    },
+    {
+      "month": "2019-08",
+      "year": 2019,
+      "month_num": 8,
+      "streams": 491,
+      "hours": 16.9,
+      "skip_pct": 30.3,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 6.3,
+        "Other": 17.9,
+        "Indian Indie/Folk": 5.9,
+        "Pop": 7.0,
+        "Classic Rock": 53.9,
+        "Electronic": 0.4,
+        "Folk/Acoustic": 4.7,
+        "Alternative/Indie Rock": 2.5,
+        "Jazz/Blues": 0.9,
+        "Punjabi/Bhangra": 0.4
+      }
+    },
+    {
+      "month": "2019-09",
+      "year": 2019,
+      "month_num": 9,
+      "streams": 285,
+      "hours": 5.7,
+      "skip_pct": 66.7,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Pop": 5.9,
+        "Other": 16.1,
+        "Indian Indie/Folk": 5.4,
+        "Classic Rock": 44.3,
+        "Alternative/Indie Rock": 6.1,
+        "Folk/Acoustic": 1.5,
+        "Electronic": 0.0,
+        "Hip-Hop": 20.6,
+        "Jazz/Blues": 0.1
+      }
+    },
+    {
+      "month": "2019-10",
+      "year": 2019,
+      "month_num": 10,
+      "streams": 311,
+      "hours": 6.6,
+      "skip_pct": 65.3,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Hip-Hop": 43.0,
+        "Jazz/Blues": 2.4,
+        "Indian Indie/Folk": 2.7,
+        "Pop": 2.7,
+        "Classic Rock": 40.9,
+        "Other": 6.7,
+        "Folk/Acoustic": 0.6,
+        "Punjabi/Bhangra": 0.3,
+        "Alternative/Indie Rock": 0.5
+      }
+    },
+    {
+      "month": "2019-11",
+      "year": 2019,
+      "month_num": 11,
+      "streams": 29,
+      "hours": 1.4,
+      "skip_pct": 10.3,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Alternative/Indie Rock": 2.1,
+        "Pop": 2.3,
+        "Hip-Hop": 35.8,
+        "Other": 3.9,
+        "Classic Rock": 56.0
+      }
+    },
+    {
+      "month": "2019-12",
+      "year": 2019,
+      "month_num": 12,
+      "streams": 262,
+      "hours": 9.1,
+      "skip_pct": 44.3,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Other": 7.9,
+        "Alternative/Indie Rock": 27.1,
+        "Classic Rock": 29.7,
+        "Pop": 0.2,
+        "Folk/Acoustic": 1.1,
+        "Hip-Hop": 6.6,
+        "Punjabi/Bhangra": 0.1,
+        "Jazz/Blues": 1.0,
+        "Electronic": 0.0,
+        "Indian Indie/Folk": 26.4
+      }
+    },
+    {
+      "month": "2020-01",
+      "year": 2020,
+      "month_num": 1,
+      "streams": 8,
+      "hours": 0.6,
+      "skip_pct": 0.0,
+      "top_genre": "Alternative/Indie Rock",
+      "genre_pct": {
+        "Alternative/Indie Rock": 50.0,
+        "Indian Indie/Folk": 50.0
+      }
+    },
+    {
+      "month": "2020-02",
+      "year": 2020,
+      "month_num": 2,
+      "streams": 441,
+      "hours": 16.1,
+      "skip_pct": 44.4,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Alternative/Indie Rock": 11.1,
+        "Indian Indie/Folk": 11.8,
+        "Hip-Hop": 11.3,
+        "Classic Rock": 49.2,
+        "Pop": 2.6,
+        "Jazz/Blues": 1.3,
+        "Folk/Acoustic": 2.3,
+        "Other": 10.5
+      }
+    },
+    {
+      "month": "2020-03",
+      "year": 2020,
+      "month_num": 3,
+      "streams": 236,
+      "hours": 9.3,
+      "skip_pct": 37.3,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Classic Rock": 36.4,
+        "Alternative/Indie Rock": 20.3,
+        "Indian Indie/Folk": 26.6,
+        "Jazz/Blues": 0.4,
+        "Pop": 7.7,
+        "Hip-Hop": 3.6,
+        "Other": 4.4,
+        "Folk/Acoustic": 0.7
+      }
+    },
+    {
+      "month": "2020-04",
+      "year": 2020,
+      "month_num": 4,
+      "streams": 185,
+      "hours": 5.0,
+      "skip_pct": 52.4,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 15.3,
+        "Classic Rock": 38.5,
+        "Folk/Acoustic": 1.2,
+        "Alternative/Indie Rock": 1.2,
+        "Indian Indie/Folk": 2.4,
+        "Other": 27.8,
+        "Pop": 8.0,
+        "Jazz/Blues": 5.5
+      }
+    },
+    {
+      "month": "2020-05",
+      "year": 2020,
+      "month_num": 5,
+      "streams": 411,
+      "hours": 10.9,
+      "skip_pct": 51.3,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Hip-Hop": 31.8,
+        "Indian Indie/Folk": 8.4,
+        "Pop": 6.6,
+        "Other": 26.7,
+        "Alternative/Indie Rock": 5.4,
+        "Folk/Acoustic": 2.4,
+        "Classic Rock": 15.8,
+        "Electronic": 0.8,
+        "Jazz/Blues": 1.9,
+        "Punjabi/Bhangra": 0.0
+      }
+    },
+    {
+      "month": "2020-06",
+      "year": 2020,
+      "month_num": 6,
+      "streams": 590,
+      "hours": 14.2,
+      "skip_pct": 56.6,
+      "top_genre": "Other",
+      "genre_pct": {
+        "Other": 29.3,
+        "Hip-Hop": 10.3,
+        "Jazz/Blues": 5.4,
+        "Indian Indie/Folk": 11.0,
+        "Pop": 8.9,
+        "Classic Rock": 21.6,
+        "Punjabi/Bhangra": 0.0,
+        "Alternative/Indie Rock": 8.4,
+        "Folk/Acoustic": 4.9,
+        "Electronic": 0.1
+      }
+    },
+    {
+      "month": "2020-07",
+      "year": 2020,
+      "month_num": 7,
+      "streams": 334,
+      "hours": 12.9,
+      "skip_pct": 37.1,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Hip-Hop": 19.9,
+        "Other": 17.9,
+        "Jazz/Blues": 1.6,
+        "Indian Indie/Folk": 14.7,
+        "Pop": 9.8,
+        "Classic Rock": 18.7,
+        "Folk/Acoustic": 5.1,
+        "Alternative/Indie Rock": 11.8,
+        "Electronic": 0.4
+      }
+    },
+    {
+      "month": "2020-08",
+      "year": 2020,
+      "month_num": 8,
+      "streams": 188,
+      "hours": 8.5,
+      "skip_pct": 28.7,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Hip-Hop": 33.7,
+        "Jazz/Blues": 6.8,
+        "Indian Indie/Folk": 10.5,
+        "Pop": 7.1,
+        "Alternative/Indie Rock": 7.1,
+        "Other": 22.9,
+        "Classic Rock": 10.7,
+        "Folk/Acoustic": 1.2
+      }
+    },
+    {
+      "month": "2020-09",
+      "year": 2020,
+      "month_num": 9,
+      "streams": 369,
+      "hours": 14.1,
+      "skip_pct": 38.8,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Jazz/Blues": 0.8,
+        "Hip-Hop": 24.7,
+        "Indian Indie/Folk": 12.6,
+        "Pop": 10.3,
+        "Alternative/Indie Rock": 7.0,
+        "Other": 20.7,
+        "Classic Rock": 21.9,
+        "Folk/Acoustic": 2.1
+      }
+    },
+    {
+      "month": "2020-10",
+      "year": 2020,
+      "month_num": 10,
+      "streams": 143,
+      "hours": 5.7,
+      "skip_pct": 37.1,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Jazz/Blues": 8.3,
+        "Hip-Hop": 17.9,
+        "Alternative/Indie Rock": 18.4,
+        "Indian Indie/Folk": 13.5,
+        "Pop": 2.8,
+        "Classic Rock": 30.8,
+        "Other": 8.0,
+        "Folk/Acoustic": 0.3
+      }
+    },
+    {
+      "month": "2020-11",
+      "year": 2020,
+      "month_num": 11,
+      "streams": 351,
+      "hours": 11.0,
+      "skip_pct": 49.9,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 21.3,
+        "Alternative/Indie Rock": 8.5,
+        "Jazz/Blues": 0.6,
+        "Classic Rock": 34.5,
+        "Indian Indie/Folk": 4.9,
+        "Pop": 3.3,
+        "Other": 25.2,
+        "Electronic": 1.8
+      }
+    },
+    {
+      "month": "2020-12",
+      "year": 2020,
+      "month_num": 12,
+      "streams": 153,
+      "hours": 7.9,
+      "skip_pct": 27.5,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Classic Rock": 48.6,
+        "Pop": 3.1,
+        "Alternative/Indie Rock": 8.8,
+        "Folk/Acoustic": 1.9,
+        "Other": 27.5,
+        "Electronic": 0.8,
+        "Jazz/Blues": 1.2,
+        "Hip-Hop": 4.8,
+        "Indian Indie/Folk": 3.3
+      }
+    },
+    {
+      "month": "2021-01",
+      "year": 2021,
+      "month_num": 1,
+      "streams": 128,
+      "hours": 6.0,
+      "skip_pct": 25.0,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Alternative/Indie Rock": 20.3,
+        "Jazz/Blues": 1.0,
+        "Hip-Hop": 18.3,
+        "Indian Indie/Folk": 18.2,
+        "Pop": 4.8,
+        "Classic Rock": 28.6,
+        "Other": 8.5,
+        "Folk/Acoustic": 0.3
+      }
+    },
+    {
+      "month": "2021-02",
+      "year": 2021,
+      "month_num": 2,
+      "streams": 44,
+      "hours": 2.1,
+      "skip_pct": 22.7,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Jazz/Blues": 11.5,
+        "Hip-Hop": 51.2,
+        "Other": 1.7,
+        "Classic Rock": 35.6
+      }
+    },
+    {
+      "month": "2021-03",
+      "year": 2021,
+      "month_num": 3,
+      "streams": 530,
+      "hours": 13.8,
+      "skip_pct": 56.6,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Jazz/Blues": 1.5,
+        "Hip-Hop": 33.9,
+        "Other": 24.1,
+        "Indian Indie/Folk": 10.2,
+        "Pop": 9.3,
+        "Alternative/Indie Rock": 5.3,
+        "Classic Rock": 11.1,
+        "Electronic": 3.9,
+        "Folk/Acoustic": 0.0,
+        "Punjabi/Bhangra": 0.6
+      }
+    },
+    {
+      "month": "2021-04",
+      "year": 2021,
+      "month_num": 4,
+      "streams": 513,
+      "hours": 12.4,
+      "skip_pct": 56.1,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Alternative/Indie Rock": 8.0,
+        "Hip-Hop": 15.4,
+        "Classic Rock": 42.4,
+        "Indian Indie/Folk": 4.4,
+        "Pop": 2.2,
+        "Other": 22.2,
+        "Electronic": 2.3,
+        "Jazz/Blues": 1.1,
+        "Folk/Acoustic": 1.9,
+        "Punjabi/Bhangra": 0.0
+      }
+    },
+    {
+      "month": "2021-05",
+      "year": 2021,
+      "month_num": 5,
+      "streams": 768,
+      "hours": 18.9,
+      "skip_pct": 58.9,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 19.4,
+        "Alternative/Indie Rock": 5.3,
+        "Other": 23.6,
+        "Jazz/Blues": 2.3,
+        "Indian Indie/Folk": 5.1,
+        "Pop": 4.8,
+        "Classic Rock": 35.0,
+        "Electronic": 1.6,
+        "Folk/Acoustic": 2.9
+      }
+    },
+    {
+      "month": "2021-06",
+      "year": 2021,
+      "month_num": 6,
+      "streams": 413,
+      "hours": 11.8,
+      "skip_pct": 52.8,
+      "top_genre": "Other",
+      "genre_pct": {
+        "Classic Rock": 21.7,
+        "Hip-Hop": 20.2,
+        "Jazz/Blues": 3.0,
+        "Indian Indie/Folk": 10.3,
+        "Pop": 16.4,
+        "Other": 25.9,
+        "Electronic": 0.5,
+        "Alternative/Indie Rock": 1.2,
+        "Folk/Acoustic": 0.8
+      }
+    },
+    {
+      "month": "2021-07",
+      "year": 2021,
+      "month_num": 7,
+      "streams": 263,
+      "hours": 7.9,
+      "skip_pct": 53.6,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 18.5,
+        "Jazz/Blues": 6.6,
+        "Alternative/Indie Rock": 6.8,
+        "Indian Indie/Folk": 7.4,
+        "Pop": 2.5,
+        "Classic Rock": 39.5,
+        "Other": 17.5,
+        "Folk/Acoustic": 0.4,
+        "Electronic": 0.8
+      }
+    },
+    {
+      "month": "2021-08",
+      "year": 2021,
+      "month_num": 8,
+      "streams": 348,
+      "hours": 7.5,
+      "skip_pct": 60.3,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Other": 21.9,
+        "Hip-Hop": 31.4,
+        "Alternative/Indie Rock": 9.2,
+        "Jazz/Blues": 2.4,
+        "Indian Indie/Folk": 5.8,
+        "Pop": 7.0,
+        "Classic Rock": 21.9,
+        "Folk/Acoustic": 0.4
+      }
+    },
+    {
+      "month": "2021-09",
+      "year": 2021,
+      "month_num": 9,
+      "streams": 777,
+      "hours": 17.0,
+      "skip_pct": 60.5,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Hip-Hop": 42.6,
+        "Other": 18.8,
+        "Jazz/Blues": 2.5,
+        "Alternative/Indie Rock": 3.5,
+        "Indian Indie/Folk": 1.4,
+        "Classic Rock": 25.0,
+        "Pop": 2.9,
+        "Folk/Acoustic": 2.4,
+        "Electronic": 0.6,
+        "Punjabi/Bhangra": 0.2
+      }
+    },
+    {
+      "month": "2021-10",
+      "year": 2021,
+      "month_num": 10,
+      "streams": 1099,
+      "hours": 28.0,
+      "skip_pct": 56.2,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 20.0,
+        "Other": 25.7,
+        "Alternative/Indie Rock": 8.1,
+        "Jazz/Blues": 2.3,
+        "Indian Indie/Folk": 5.9,
+        "Pop": 6.6,
+        "Classic Rock": 28.9,
+        "Punjabi/Bhangra": 0.1,
+        "Folk/Acoustic": 0.3,
+        "Electronic": 2.1
+      }
+    },
+    {
+      "month": "2021-11",
+      "year": 2021,
+      "month_num": 11,
+      "streams": 933,
+      "hours": 19.2,
+      "skip_pct": 63.1,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Hip-Hop": 36.4,
+        "Jazz/Blues": 7.2,
+        "Indian Indie/Folk": 4.6,
+        "Pop": 4.3,
+        "Other": 16.8,
+        "Classic Rock": 21.0,
+        "Folk/Acoustic": 1.7,
+        "Alternative/Indie Rock": 6.9,
+        "Electronic": 1.1,
+        "Punjabi/Bhangra": 0.0
+      }
+    },
+    {
+      "month": "2021-12",
+      "year": 2021,
+      "month_num": 12,
+      "streams": 429,
+      "hours": 9.7,
+      "skip_pct": 59.7,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Hip-Hop": 41.6,
+        "Jazz/Blues": 8.6,
+        "Indian Indie/Folk": 2.2,
+        "Pop": 3.2,
+        "Electronic": 2.3,
+        "Other": 16.0,
+        "Classic Rock": 21.8,
+        "Folk/Acoustic": 1.8,
+        "Alternative/Indie Rock": 2.5
+      }
+    },
+    {
+      "month": "2022-01",
+      "year": 2022,
+      "month_num": 1,
+      "streams": 525,
+      "hours": 15.7,
+      "skip_pct": 49.5,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Indian Indie/Folk": 10.1,
+        "Pop": 3.0,
+        "Other": 19.0,
+        "Alternative/Indie Rock": 8.8,
+        "Hip-Hop": 23.6,
+        "Classic Rock": 32.4,
+        "Jazz/Blues": 2.6,
+        "Folk/Acoustic": 0.5
+      }
+    },
+    {
+      "month": "2022-02",
+      "year": 2022,
+      "month_num": 2,
+      "streams": 452,
+      "hours": 15.8,
+      "skip_pct": 38.5,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 29.2,
+        "Jazz/Blues": 7.8,
+        "Indian Indie/Folk": 2.2,
+        "Pop": 3.0,
+        "Classic Rock": 29.8,
+        "Alternative/Indie Rock": 3.1,
+        "Other": 22.4,
+        "Electronic": 0.4,
+        "Folk/Acoustic": 2.0
+      }
+    },
+    {
+      "month": "2022-03",
+      "year": 2022,
+      "month_num": 3,
+      "streams": 274,
+      "hours": 6.2,
+      "skip_pct": 58.4,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 22.0,
+        "Classic Rock": 41.0,
+        "Other": 27.4,
+        "Indian Indie/Folk": 1.2,
+        "Pop": 1.0,
+        "Alternative/Indie Rock": 2.9,
+        "Electronic": 1.1,
+        "Folk/Acoustic": 2.2,
+        "Jazz/Blues": 1.2
+      }
+    },
+    {
+      "month": "2022-04",
+      "year": 2022,
+      "month_num": 4,
+      "streams": 312,
+      "hours": 10.1,
+      "skip_pct": 35.6,
+      "top_genre": "Pop",
+      "genre_pct": {
+        "Hip-Hop": 15.1,
+        "Jazz/Blues": 10.9,
+        "Indian Indie/Folk": 22.5,
+        "Pop": 24.2,
+        "Punjabi/Bhangra": 0.3,
+        "Alternative/Indie Rock": 2.8,
+        "Other": 13.9,
+        "Classic Rock": 10.0,
+        "Folk/Acoustic": 0.3,
+        "Electronic": 0.0
+      }
+    },
+    {
+      "month": "2022-05",
+      "year": 2022,
+      "month_num": 5,
+      "streams": 519,
+      "hours": 16.8,
+      "skip_pct": 42.4,
+      "top_genre": "Other",
+      "genre_pct": {
+        "Jazz/Blues": 2.5,
+        "Hip-Hop": 13.4,
+        "Indian Indie/Folk": 19.7,
+        "Pop": 22.0,
+        "Classic Rock": 10.4,
+        "Punjabi/Bhangra": 1.3,
+        "Alternative/Indie Rock": 5.0,
+        "Other": 23.9,
+        "Electronic": 1.1,
+        "Folk/Acoustic": 0.7
+      }
+    },
+    {
+      "month": "2022-06",
+      "year": 2022,
+      "month_num": 6,
+      "streams": 507,
+      "hours": 12.8,
+      "skip_pct": 53.8,
+      "top_genre": "Other",
+      "genre_pct": {
+        "Jazz/Blues": 1.6,
+        "Hip-Hop": 13.3,
+        "Indian Indie/Folk": 19.9,
+        "Pop": 16.3,
+        "Classic Rock": 19.1,
+        "Alternative/Indie Rock": 6.2,
+        "Other": 20.9,
+        "Electronic": 1.3,
+        "Punjabi/Bhangra": 0.2,
+        "Folk/Acoustic": 1.3
+      }
+    },
+    {
+      "month": "2022-07",
+      "year": 2022,
+      "month_num": 7,
+      "streams": 324,
+      "hours": 11.8,
+      "skip_pct": 42.0,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Pop": 11.8,
+        "Indian Indie/Folk": 9.6,
+        "Other": 15.4,
+        "Alternative/Indie Rock": 11.1,
+        "Jazz/Blues": 1.5,
+        "Classic Rock": 43.4,
+        "Punjabi/Bhangra": 0.2,
+        "Hip-Hop": 6.2,
+        "Folk/Acoustic": 0.9
+      }
+    },
+    {
+      "month": "2022-08",
+      "year": 2022,
+      "month_num": 8,
+      "streams": 609,
+      "hours": 14.1,
+      "skip_pct": 60.9,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Classic Rock": 38.3,
+        "Hip-Hop": 22.9,
+        "Jazz/Blues": 3.1,
+        "Other": 13.9,
+        "Alternative/Indie Rock": 12.0,
+        "Indian Indie/Folk": 3.7,
+        "Pop": 4.5,
+        "Electronic": 0.5,
+        "Folk/Acoustic": 1.1
+      }
+    },
+    {
+      "month": "2022-09",
+      "year": 2022,
+      "month_num": 9,
+      "streams": 323,
+      "hours": 8.9,
+      "skip_pct": 55.1,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Classic Rock": 54.9,
+        "Pop": 3.4,
+        "Folk/Acoustic": 0.6,
+        "Other": 23.1,
+        "Alternative/Indie Rock": 5.2,
+        "Indian Indie/Folk": 0.6,
+        "Hip-Hop": 4.9,
+        "Electronic": 5.6,
+        "Jazz/Blues": 1.8
+      }
+    },
+    {
+      "month": "2022-10",
+      "year": 2022,
+      "month_num": 10,
+      "streams": 412,
+      "hours": 7.7,
+      "skip_pct": 62.9,
+      "top_genre": "Other",
+      "genre_pct": {
+        "Alternative/Indie Rock": 2.6,
+        "Jazz/Blues": 10.5,
+        "Hip-Hop": 21.5,
+        "Classic Rock": 25.7,
+        "Other": 35.4,
+        "Indian Indie/Folk": 0.5,
+        "Pop": 1.9,
+        "Electronic": 0.0,
+        "Folk/Acoustic": 1.9
+      }
+    },
+    {
+      "month": "2022-11",
+      "year": 2022,
+      "month_num": 11,
+      "streams": 558,
+      "hours": 13.4,
+      "skip_pct": 54.7,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Alternative/Indie Rock": 5.2,
+        "Jazz/Blues": 2.4,
+        "Hip-Hop": 14.3,
+        "Indian Indie/Folk": 0.9,
+        "Pop": 9.6,
+        "Classic Rock": 38.7,
+        "Other": 25.7,
+        "Folk/Acoustic": 3.1,
+        "Electronic": 0.1
+      }
+    },
+    {
+      "month": "2022-12",
+      "year": 2022,
+      "month_num": 12,
+      "streams": 511,
+      "hours": 13.5,
+      "skip_pct": 53.4,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Alternative/Indie Rock": 7.4,
+        "Other": 18.6,
+        "Jazz/Blues": 1.7,
+        "Hip-Hop": 20.9,
+        "Classic Rock": 46.1,
+        "Indian Indie/Folk": 0.8,
+        "Electronic": 0.4,
+        "Pop": 3.6,
+        "Folk/Acoustic": 0.5
+      }
+    },
+    {
+      "month": "2023-01",
+      "year": 2023,
+      "month_num": 1,
+      "streams": 548,
+      "hours": 15.5,
+      "skip_pct": 47.3,
+      "top_genre": "Other",
+      "genre_pct": {
+        "Alternative/Indie Rock": 11.3,
+        "Classic Rock": 21.2,
+        "Other": 27.8,
+        "Hip-Hop": 15.2,
+        "Jazz/Blues": 2.4,
+        "Indian Indie/Folk": 5.7,
+        "Pop": 11.8,
+        "Electronic": 3.7,
+        "Folk/Acoustic": 1.0
+      }
+    },
+    {
+      "month": "2023-02",
+      "year": 2023,
+      "month_num": 2,
+      "streams": 181,
+      "hours": 4.2,
+      "skip_pct": 52.5,
+      "top_genre": "Other",
+      "genre_pct": {
+        "Electronic": 5.2,
+        "Alternative/Indie Rock": 4.4,
+        "Indian Indie/Folk": 6.0,
+        "Pop": 17.1,
+        "Jazz/Blues": 3.3,
+        "Other": 34.1,
+        "Punjabi/Bhangra": 0.9,
+        "Hip-Hop": 3.6,
+        "Classic Rock": 24.0,
+        "Folk/Acoustic": 1.3
+      }
+    },
+    {
+      "month": "2023-03",
+      "year": 2023,
+      "month_num": 3,
+      "streams": 716,
+      "hours": 14.3,
+      "skip_pct": 61.7,
+      "top_genre": "Other",
+      "genre_pct": {
+        "Alternative/Indie Rock": 9.3,
+        "Hip-Hop": 23.7,
+        "Classic Rock": 20.8,
+        "Other": 25.8,
+        "Pop": 12.1,
+        "Indian Indie/Folk": 4.0,
+        "Jazz/Blues": 1.6,
+        "Folk/Acoustic": 1.3,
+        "Punjabi/Bhangra": 0.2,
+        "Electronic": 1.0
+      }
+    },
+    {
+      "month": "2023-04",
+      "year": 2023,
+      "month_num": 4,
+      "streams": 359,
+      "hours": 12.3,
+      "skip_pct": 35.1,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Alternative/Indie Rock": 7.2,
+        "Hip-Hop": 21.8,
+        "Indian Indie/Folk": 1.6,
+        "Pop": 10.1,
+        "Jazz/Blues": 3.3,
+        "Classic Rock": 31.9,
+        "Other": 20.7,
+        "Folk/Acoustic": 2.5,
+        "Punjabi/Bhangra": 0.0,
+        "Electronic": 1.0
+      }
+    },
+    {
+      "month": "2023-05",
+      "year": 2023,
+      "month_num": 5,
+      "streams": 103,
+      "hours": 3.9,
+      "skip_pct": 34.0,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Other": 30.1,
+        "Pop": 9.0,
+        "Classic Rock": 40.5,
+        "Folk/Acoustic": 8.4,
+        "Electronic": 2.6,
+        "Hip-Hop": 1.5,
+        "Alternative/Indie Rock": 0.0,
+        "Indian Indie/Folk": 8.0
+      }
+    },
+    {
+      "month": "2023-06",
+      "year": 2023,
+      "month_num": 6,
+      "streams": 183,
+      "hours": 4.9,
+      "skip_pct": 51.4,
+      "top_genre": "Other",
+      "genre_pct": {
+        "Hip-Hop": 24.5,
+        "Jazz/Blues": 2.5,
+        "Other": 31.1,
+        "Classic Rock": 14.7,
+        "Folk/Acoustic": 4.5,
+        "Alternative/Indie Rock": 9.6,
+        "Indian Indie/Folk": 4.9,
+        "Pop": 5.8,
+        "Electronic": 2.4
+      }
+    },
+    {
+      "month": "2023-07",
+      "year": 2023,
+      "month_num": 7,
+      "streams": 209,
+      "hours": 5.9,
+      "skip_pct": 44.0,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Hip-Hop": 28.6,
+        "Jazz/Blues": 2.4,
+        "Classic Rock": 10.8,
+        "Alternative/Indie Rock": 11.3,
+        "Indian Indie/Folk": 14.8,
+        "Pop": 8.5,
+        "Folk/Acoustic": 0.0,
+        "Electronic": 2.0,
+        "Other": 21.7
+      }
+    },
+    {
+      "month": "2023-08",
+      "year": 2023,
+      "month_num": 8,
+      "streams": 193,
+      "hours": 6.5,
+      "skip_pct": 42.0,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Jazz/Blues": 4.0,
+        "Hip-Hop": 18.2,
+        "Classic Rock": 31.3,
+        "Alternative/Indie Rock": 5.4,
+        "Indian Indie/Folk": 4.2,
+        "Pop": 6.3,
+        "Other": 27.1,
+        "Electronic": 0.1,
+        "Folk/Acoustic": 3.4
+      }
+    },
+    {
+      "month": "2023-09",
+      "year": 2023,
+      "month_num": 9,
+      "streams": 122,
+      "hours": 3.2,
+      "skip_pct": 44.3,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 19.7,
+        "Indian Indie/Folk": 8.6,
+        "Pop": 12.4,
+        "Punjabi/Bhangra": 2.0,
+        "Alternative/Indie Rock": 6.5,
+        "Other": 19.1,
+        "Classic Rock": 29.2,
+        "Jazz/Blues": 2.5
+      }
+    },
+    {
+      "month": "2023-10",
+      "year": 2023,
+      "month_num": 10,
+      "streams": 46,
+      "hours": 1.1,
+      "skip_pct": 52.2,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Alternative/Indie Rock": 15.9,
+        "Indian Indie/Folk": 18.6,
+        "Hip-Hop": 5.6,
+        "Pop": 7.8,
+        "Other": 10.9,
+        "Jazz/Blues": 5.3,
+        "Classic Rock": 26.1,
+        "Electronic": 9.8
+      }
+    },
+    {
+      "month": "2023-11",
+      "year": 2023,
+      "month_num": 11,
+      "streams": 10,
+      "hours": 0.3,
+      "skip_pct": 30.0,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Classic Rock": 39.5,
+        "Pop": 22.5,
+        "Other": 18.2,
+        "Hip-Hop": 19.8
+      }
+    },
+    {
+      "month": "2023-12",
+      "year": 2023,
+      "month_num": 12,
+      "streams": 184,
+      "hours": 6.3,
+      "skip_pct": 31.0,
+      "top_genre": "Other",
+      "genre_pct": {
+        "Pop": 11.5,
+        "Indian Indie/Folk": 2.4,
+        "Alternative/Indie Rock": 3.3,
+        "Classic Rock": 15.8,
+        "Folk/Acoustic": 2.6,
+        "Other": 44.4,
+        "Electronic": 0.0,
+        "Hip-Hop": 16.5,
+        "Jazz/Blues": 3.5
+      }
+    },
+    {
+      "month": "2024-01",
+      "year": 2024,
+      "month_num": 1,
+      "streams": 392,
+      "hours": 8.8,
+      "skip_pct": 57.7,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Classic Rock": 35.7,
+        "Alternative/Indie Rock": 15.5,
+        "Indian Indie/Folk": 11.6,
+        "Pop": 11.4,
+        "Hip-Hop": 8.8,
+        "Other": 14.5,
+        "Electronic": 0.0,
+        "Folk/Acoustic": 1.6,
+        "Jazz/Blues": 0.8
+      }
+    },
+    {
+      "month": "2024-02",
+      "year": 2024,
+      "month_num": 2,
+      "streams": 101,
+      "hours": 4.3,
+      "skip_pct": 30.7,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Alternative/Indie Rock": 7.7,
+        "Indian Indie/Folk": 7.0,
+        "Pop": 8.4,
+        "Electronic": 4.4,
+        "Folk/Acoustic": 6.8,
+        "Other": 14.5,
+        "Classic Rock": 34.9,
+        "Hip-Hop": 16.4
+      }
+    },
+    {
+      "month": "2024-03",
+      "year": 2024,
+      "month_num": 3,
+      "streams": 64,
+      "hours": 1.8,
+      "skip_pct": 53.1,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Pop": 18.9,
+        "Alternative/Indie Rock": 12.9,
+        "Indian Indie/Folk": 8.1,
+        "Other": 18.9,
+        "Classic Rock": 29.4,
+        "Folk/Acoustic": 3.1,
+        "Jazz/Blues": 2.5,
+        "Hip-Hop": 6.1
+      }
+    },
+    {
+      "month": "2024-04",
+      "year": 2024,
+      "month_num": 4,
+      "streams": 9,
+      "hours": 0.6,
+      "skip_pct": 0.0,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Classic Rock": 91.9,
+        "Other": 8.1
+      }
+    },
+    {
+      "month": "2024-05",
+      "year": 2024,
+      "month_num": 5,
+      "streams": 1,
+      "hours": 0.0,
+      "skip_pct": 0.0,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Classic Rock": 100.0
+      }
+    },
+    {
+      "month": "2024-06",
+      "year": 2024,
+      "month_num": 6,
+      "streams": 35,
+      "hours": 0.8,
+      "skip_pct": 60.0,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Classic Rock": 61.0,
+        "Alternative/Indie Rock": 3.0,
+        "Indian Indie/Folk": 0.0,
+        "Pop": 17.4,
+        "Folk/Acoustic": 3.2,
+        "Hip-Hop": 6.6,
+        "Other": 4.5,
+        "Jazz/Blues": 4.3
+      }
+    },
+    {
+      "month": "2024-07",
+      "year": 2024,
+      "month_num": 7,
+      "streams": 125,
+      "hours": 2.8,
+      "skip_pct": 50.4,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 23.8,
+        "Classic Rock": 28.5,
+        "Indian Indie/Folk": 3.5,
+        "Pop": 8.1,
+        "Alternative/Indie Rock": 7.4,
+        "Jazz/Blues": 3.6,
+        "Other": 24.2,
+        "Folk/Acoustic": 1.0
+      }
+    },
+    {
+      "month": "2024-08",
+      "year": 2024,
+      "month_num": 8,
+      "streams": 63,
+      "hours": 1.6,
+      "skip_pct": 50.8,
+      "top_genre": "Indian Indie/Folk",
+      "genre_pct": {
+        "Alternative/Indie Rock": 26.2,
+        "Indian Indie/Folk": 38.2,
+        "Hip-Hop": 4.5,
+        "Pop": 19.8,
+        "Classic Rock": 4.3,
+        "Folk/Acoustic": 0.9,
+        "Other": 6.1,
+        "Punjabi/Bhangra": 0.0
+      }
+    },
+    {
+      "month": "2024-09",
+      "year": 2024,
+      "month_num": 9,
+      "streams": 77,
+      "hours": 0.9,
+      "skip_pct": 71.4,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Alternative/Indie Rock": 7.1,
+        "Indian Indie/Folk": 11.3,
+        "Pop": 19.2,
+        "Electronic": 0.1,
+        "Folk/Acoustic": 4.9,
+        "Other": 21.0,
+        "Classic Rock": 11.3,
+        "Punjabi/Bhangra": 0.0,
+        "Hip-Hop": 25.1
+      }
+    },
+    {
+      "month": "2024-10",
+      "year": 2024,
+      "month_num": 10,
+      "streams": 111,
+      "hours": 2.2,
+      "skip_pct": 65.8,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Alternative/Indie Rock": 3.9,
+        "Jazz/Blues": 1.7,
+        "Hip-Hop": 18.9,
+        "Pop": 17.1,
+        "Indian Indie/Folk": 4.3,
+        "Other": 19.2,
+        "Classic Rock": 33.1,
+        "Folk/Acoustic": 1.8
+      }
+    },
+    {
+      "month": "2024-11",
+      "year": 2024,
+      "month_num": 11,
+      "streams": 56,
+      "hours": 1.0,
+      "skip_pct": 69.6,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Jazz/Blues": 0.0,
+        "Hip-Hop": 1.3,
+        "Classic Rock": 39.7,
+        "Other": 13.3,
+        "Alternative/Indie Rock": 8.2,
+        "Indian Indie/Folk": 19.7,
+        "Pop": 17.8
+      }
+    },
+    {
+      "month": "2024-12",
+      "year": 2024,
+      "month_num": 12,
+      "streams": 33,
+      "hours": 0.9,
+      "skip_pct": 60.6,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Alternative/Indie Rock": 2.3,
+        "Indian Indie/Folk": 2.3,
+        "Pop": 8.0,
+        "Folk/Acoustic": 2.1,
+        "Classic Rock": 49.5,
+        "Other": 6.9,
+        "Electronic": 0.0,
+        "Hip-Hop": 22.7,
+        "Jazz/Blues": 6.3
+      }
+    },
+    {
+      "month": "2025-01",
+      "year": 2025,
+      "month_num": 1,
+      "streams": 94,
+      "hours": 2.1,
+      "skip_pct": 60.6,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Alternative/Indie Rock": 3.2,
+        "Indian Indie/Folk": 6.7,
+        "Pop": 10.6,
+        "Electronic": 4.2,
+        "Folk/Acoustic": 2.3,
+        "Other": 11.1,
+        "Classic Rock": 25.3,
+        "Hip-Hop": 36.7
+      }
+    },
+    {
+      "month": "2025-02",
+      "year": 2025,
+      "month_num": 2,
+      "streams": 88,
+      "hours": 2.6,
+      "skip_pct": 43.2,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Hip-Hop": 33.9,
+        "Alternative/Indie Rock": 11.0,
+        "Indian Indie/Folk": 2.9,
+        "Pop": 6.4,
+        "Classic Rock": 23.3,
+        "Other": 12.7,
+        "Jazz/Blues": 9.6,
+        "Electronic": 0.2
+      }
+    },
+    {
+      "month": "2025-03",
+      "year": 2025,
+      "month_num": 3,
+      "streams": 19,
+      "hours": 1.0,
+      "skip_pct": 15.8,
+      "top_genre": "Indian Indie/Folk",
+      "genre_pct": {
+        "Indian Indie/Folk": 38.8,
+        "Pop": 38.8,
+        "Hip-Hop": 7.9,
+        "Alternative/Indie Rock": 3.8,
+        "Classic Rock": 3.8,
+        "Other": 6.8
+      }
+    },
+    {
+      "month": "2025-04",
+      "year": 2025,
+      "month_num": 4,
+      "streams": 3,
+      "hours": 0.0,
+      "skip_pct": 66.7,
+      "top_genre": "Indian Indie/Folk",
+      "genre_pct": {
+        "Indian Indie/Folk": 44.7,
+        "Pop": 44.7,
+        "Other": 4.9,
+        "Hip-Hop": 5.7
+      }
+    },
+    {
+      "month": "2025-05",
+      "year": 2025,
+      "month_num": 5,
+      "streams": 186,
+      "hours": 5.1,
+      "skip_pct": 59.1,
+      "top_genre": "Indian Indie/Folk",
+      "genre_pct": {
+        "Alternative/Indie Rock": 9.7,
+        "Indian Indie/Folk": 29.5,
+        "Pop": 28.4,
+        "Punjabi/Bhangra": 1.3,
+        "Hip-Hop": 1.3,
+        "Other": 28.5,
+        "Folk/Acoustic": 0.7,
+        "Classic Rock": 0.6
+      }
+    },
+    {
+      "month": "2025-06",
+      "year": 2025,
+      "month_num": 6,
+      "streams": 171,
+      "hours": 5.9,
+      "skip_pct": 45.6,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Hip-Hop": 54.2,
+        "Alternative/Indie Rock": 5.2,
+        "Indian Indie/Folk": 4.7,
+        "Pop": 4.2,
+        "Other": 24.2,
+        "Electronic": 2.9,
+        "Classic Rock": 3.8,
+        "Folk/Acoustic": 0.4,
+        "Jazz/Blues": 0.4
+      }
+    },
+    {
+      "month": "2025-07",
+      "year": 2025,
+      "month_num": 7,
+      "streams": 88,
+      "hours": 3.1,
+      "skip_pct": 39.8,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 10.6,
+        "Alternative/Indie Rock": 6.9,
+        "Indian Indie/Folk": 7.1,
+        "Pop": 6.4,
+        "Electronic": 0.0,
+        "Jazz/Blues": 1.1,
+        "Other": 16.6,
+        "Classic Rock": 49.4,
+        "Folk/Acoustic": 1.8
+      }
+    },
+    {
+      "month": "2025-08",
+      "year": 2025,
+      "month_num": 8,
+      "streams": 35,
+      "hours": 0.6,
+      "skip_pct": 68.6,
+      "top_genre": "Other",
+      "genre_pct": {
+        "Pop": 26.3,
+        "Alternative/Indie Rock": 13.5,
+        "Indian Indie/Folk": 6.2,
+        "Electronic": 0.1,
+        "Classic Rock": 10.6,
+        "Jazz/Blues": 6.3,
+        "Hip-Hop": 3.7,
+        "Folk/Acoustic": 5.4,
+        "Other": 28.1
+      }
+    },
+    {
+      "month": "2025-09",
+      "year": 2025,
+      "month_num": 9,
+      "streams": 94,
+      "hours": 3.0,
+      "skip_pct": 44.7,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Other": 2.4,
+        "Alternative/Indie Rock": 12.2,
+        "Indian Indie/Folk": 2.3,
+        "Pop": 8.1,
+        "Classic Rock": 52.5,
+        "Jazz/Blues": 4.4,
+        "Hip-Hop": 11.2,
+        "Folk/Acoustic": 6.9
+      }
+    },
+    {
+      "month": "2025-10",
+      "year": 2025,
+      "month_num": 10,
+      "streams": 1001,
+      "hours": 20.8,
+      "skip_pct": 62.1,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Hip-Hop": 46.9,
+        "Jazz/Blues": 1.9,
+        "Indian Indie/Folk": 4.1,
+        "Pop": 5.5,
+        "Classic Rock": 13.8,
+        "Punjabi/Bhangra": 1.0,
+        "Other": 21.0,
+        "Alternative/Indie Rock": 2.7,
+        "Electronic": 1.4,
+        "Folk/Acoustic": 1.6
+      }
+    },
+    {
+      "month": "2025-11",
+      "year": 2025,
+      "month_num": 11,
+      "streams": 990,
+      "hours": 21.7,
+      "skip_pct": 60.0,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Other": 28.2,
+        "Hip-Hop": 36.1,
+        "Jazz/Blues": 1.3,
+        "Indian Indie/Folk": 6.5,
+        "Pop": 7.1,
+        "Alternative/Indie Rock": 9.6,
+        "Punjabi/Bhangra": 0.5,
+        "Classic Rock": 9.8,
+        "Electronic": 0.3,
+        "Folk/Acoustic": 0.6
+      }
+    },
+    {
+      "month": "2025-12",
+      "year": 2025,
+      "month_num": 12,
+      "streams": 237,
+      "hours": 9.2,
+      "skip_pct": 34.6,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Indian Indie/Folk": 1.6,
+        "Pop": 9.2,
+        "Alternative/Indie Rock": 13.0,
+        "Classic Rock": 41.8,
+        "Electronic": 1.5,
+        "Folk/Acoustic": 2.3,
+        "Other": 13.6,
+        "Hip-Hop": 16.6,
+        "Punjabi/Bhangra": 0.0,
+        "Jazz/Blues": 0.4
+      }
+    },
+    {
+      "month": "2026-01",
+      "year": 2026,
+      "month_num": 1,
+      "streams": 420,
+      "hours": 11.5,
+      "skip_pct": 51.4,
+      "top_genre": "Hip-Hop",
+      "genre_pct": {
+        "Other": 16.7,
+        "Jazz/Blues": 0.6,
+        "Hip-Hop": 20.4,
+        "Indian Indie/Folk": 18.5,
+        "Pop": 17.3,
+        "Classic Rock": 10.9,
+        "Punjabi/Bhangra": 1.6,
+        "Alternative/Indie Rock": 13.0,
+        "Electronic": 0.7,
+        "Folk/Acoustic": 0.4
+      }
+    },
+    {
+      "month": "2026-02",
+      "year": 2026,
+      "month_num": 2,
+      "streams": 655,
+      "hours": 26.1,
+      "skip_pct": 30.8,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Hip-Hop": 9.2,
+        "Alternative/Indie Rock": 16.8,
+        "Other": 12.7,
+        "Indian Indie/Folk": 11.7,
+        "Pop": 14.7,
+        "Classic Rock": 31.0,
+        "Punjabi/Bhangra": 0.6,
+        "Electronic": 1.0,
+        "Jazz/Blues": 0.8,
+        "Folk/Acoustic": 1.5
+      }
+    },
+    {
+      "month": "2026-03",
+      "year": 2026,
+      "month_num": 3,
+      "streams": 377,
+      "hours": 14.7,
+      "skip_pct": 32.1,
+      "top_genre": "Classic Rock",
+      "genre_pct": {
+        "Other": 23.6,
+        "Alternative/Indie Rock": 11.3,
+        "Hip-Hop": 16.5,
+        "Indian Indie/Folk": 5.3,
+        "Pop": 7.0,
+        "Classic Rock": 28.8,
+        "Punjabi/Bhangra": 0.2,
+        "Jazz/Blues": 4.6,
+        "Folk/Acoustic": 2.7
+      }
+    }
+  ],
+  "avg_by_month": [
+    {
+      "month_num": 1,
+      "avg_hours": 8.6
+    },
+    {
+      "month_num": 2,
+      "avg_hours": 9.2
+    },
+    {
+      "month_num": 3,
+      "avg_hours": 10.2
+    },
+    {
+      "month_num": 4,
+      "avg_hours": 8.4
+    },
+    {
+      "month_num": 5,
+      "avg_hours": 9.0
+    },
+    {
+      "month_num": 6,
+      "avg_hours": 8.7
+    },
+    {
+      "month_num": 7,
+      "avg_hours": 9.6
+    },
+    {
+      "month_num": 8,
+      "avg_hours": 8.0
+    },
+    {
+      "month_num": 9,
+      "avg_hours": 7.5
+    },
+    {
+      "month_num": 10,
+      "avg_hours": 10.3
+    },
+    {
+      "month_num": 11,
+      "avg_hours": 9.7
+    },
+    {
+      "month_num": 12,
+      "avg_hours": 8.1
+    }
+  ],
+  "peak_month": "2021-10",
+  "peak_streams": 1099
+}

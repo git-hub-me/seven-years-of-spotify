@@ -1,21 +1,11 @@
 import React, { useState } from "react";
 import {
   AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip,
-  Legend, ResponsiveContainer
+  Legend, ResponsiveContainer, ReferenceLine
 } from "recharts";
 
-export const GENRE_COLORS = {
-  "Indian Indie/Folk": "#E8A838",
-  "Hip-Hop": "#E84855",
-  "Classic Rock": "#5865F2",
-  "Alternative/Indie Rock": "#9B59B6",
-  "Punjabi/Bhangra": "#1DB954",
-  "Pop": "#38B2E8",
-  "Electronic": "#00CEC9",
-  "Folk/Acoustic": "#FDCB6E",
-  "Jazz/Blues": "#6C5CE7",
-  "Other": "#333",
-};
+import { GENRE_COLORS } from "../constants/colors.js";
+export { GENRE_COLORS };
 
 const GENRE_DEFINITIONS = {
   "Indian Indie/Folk": "Hindi/Urdu indie, folk, and acoustic artists — Anuv Jain, Prateek Kuhad, The Local Train, A.R. Rahman. Identified via Spotify tags: 'indian indie', 'hindi pop', 'bollywood', 'desi pop'.",
@@ -75,7 +65,7 @@ export default function GenreEvolution({ data }) {
       <h2 className="section-title">The Shape of Seven Years</h2>
       <p className="section-sub">
         Genre share by year — not what Spotify showed you, but what you actually played.
-        <b style={{ color: "var(--text)" }}> Click a genre</b> in the legend to isolate it.
+        <b style={{ color: "var(--green)" }}> Click a genre</b> in the legend to isolate it.
       </p>
 
       {/* Genre definition box — shows on highlight */}
@@ -121,13 +111,19 @@ export default function GenreEvolution({ data }) {
               onClick={(e) => setHighlighted(prev => prev === e.value ? null : e.value)}
               formatter={(value) => (
                 <span style={{
-                  color: highlighted ? (highlighted === value ? GENRE_COLORS[value] || "#f0f0f0" : "#444") : "#aaa",
+                  color: highlighted ? (highlighted === value ? GENRE_COLORS[value] || "#f0f0f0" : "#666") : "#aaa",
                   fontWeight: highlighted === value ? 700 : 400,
                   transition: "color 0.15s",
                   cursor: "pointer",
                 }}>{value}</span>
               )}
             />
+            <ReferenceLine x="2022" stroke="#e8a83866" strokeDasharray="4 3"
+              label={{ value: "BLR →", position: "insideTopLeft", fontSize: 10, fill: "#e8a838", dy: -4 }} />
+            <ReferenceLine x="2023" stroke="#e8a83866" strokeDasharray="4 3"
+              label={{ value: "💍 engaged", position: "insideTopLeft", fontSize: 10, fill: "#e8a838", dy: -4 }} />
+            <ReferenceLine x="2024" stroke="#e8a83866" strokeDasharray="4 3"
+              label={{ value: "🥂 married", position: "insideTopLeft", fontSize: 10, fill: "#e8a838", dy: -4 }} />
             {buckets.map(b => (
               <Area
                 key={b}

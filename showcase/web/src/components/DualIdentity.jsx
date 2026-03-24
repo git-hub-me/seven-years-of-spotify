@@ -33,7 +33,7 @@ export default function DualIdentity({ data }) {
           <LineChart data={series} margin={{ top: 10, right: 20, left: 0, bottom: 0 }}>
             <CartesianGrid strokeDasharray="3 3" stroke="#1f1f1f" />
             <XAxis dataKey="year" stroke="#555" tick={{ fill: "#888", fontSize: 12 }} />
-            <YAxis stroke="#555" tick={{ fill: "#888", fontSize: 11 }} unit="%" domain={[0, 70]} />
+            <YAxis stroke="#555" tick={{ fill: "#888", fontSize: 11 }} unit="%" domain={[0, 'auto']} />
             <Tooltip
               content={({ active, payload, label }) => {
                 if (!active || !payload?.length) return null;

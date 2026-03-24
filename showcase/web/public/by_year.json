@@ -6,43 +6,63 @@
     "top_artists": [
       {
         "name": "The Beatles",
-        "plays": 450
+        "plays": 450,
+        "year_share": 20.1,
+        "intensity": 46.3
       },
       {
         "name": "The Local Train",
-        "plays": 77
+        "plays": 77,
+        "year_share": 3.4,
+        "intensity": 16.7
       },
       {
         "name": "Kendrick Lamar",
-        "plays": 75
+        "plays": 75,
+        "year_share": 3.3,
+        "intensity": 14.5
       },
       {
         "name": "Pink Floyd",
-        "plays": 74
+        "plays": 74,
+        "year_share": 3.3,
+        "intensity": 24.2
       },
       {
         "name": "The Rolling Stones",
-        "plays": 71
+        "plays": 71,
+        "year_share": 3.2,
+        "intensity": 43.3
       },
       {
         "name": "Eminem",
-        "plays": 64
+        "plays": 64,
+        "year_share": 2.9,
+        "intensity": 17.9
       },
       {
         "name": "Queen",
-        "plays": 51
+        "plays": 51,
+        "year_share": 2.3,
+        "intensity": 18.9
       },
       {
         "name": "Dub Sharma",
-        "plays": 48
+        "plays": 48,
+        "year_share": 2.1,
+        "intensity": 70.6
       },
       {
         "name": "David Bowie",
-        "plays": 47
+        "plays": 47,
+        "year_share": 2.1,
+        "intensity": 37.6
       },
       {
         "name": "Jimi Hendrix",
-        "plays": 32
+        "plays": 32,
+        "year_share": 1.4,
+        "intensity": 33.0
       }
     ],
     "top_tracks": [
@@ -117,43 +137,63 @@
     "top_artists": [
       {
         "name": "The Local Train",
-        "plays": 214
+        "plays": 214,
+        "year_share": 11.3,
+        "intensity": 46.3
       },
       {
         "name": "The Beatles",
-        "plays": 146
+        "plays": 146,
+        "year_share": 7.7,
+        "intensity": 15.0
       },
       {
         "name": "Kendrick Lamar",
-        "plays": 119
+        "plays": 119,
+        "year_share": 6.3,
+        "intensity": 23.0
       },
       {
         "name": "Red Hot Chili Peppers",
-        "plays": 47
+        "plays": 47,
+        "year_share": 2.5,
+        "intensity": 22.2
       },
       {
         "name": "Pink Floyd",
-        "plays": 39
+        "plays": 39,
+        "year_share": 2.1,
+        "intensity": 12.7
       },
       {
         "name": "Eminem",
-        "plays": 38
+        "plays": 38,
+        "year_share": 2.0,
+        "intensity": 10.6
       },
       {
         "name": "Pritam",
-        "plays": 38
+        "plays": 38,
+        "year_share": 2.0,
+        "intensity": 48.1
       },
       {
         "name": "Linkin Park",
-        "plays": 33
+        "plays": 33,
+        "year_share": 1.7,
+        "intensity": 23.4
       },
       {
         "name": "Queen",
-        "plays": 30
+        "plays": 30,
+        "year_share": 1.6,
+        "intensity": 11.1
       },
       {
         "name": "George Harrison",
-        "plays": 24
+        "plays": 24,
+        "year_share": 1.3,
+        "intensity": 27.0
       }
     ],
     "top_tracks": [
@@ -228,43 +268,63 @@
     "top_artists": [
       {
         "name": "The Beatles",
-        "plays": 162
+        "plays": 162,
+        "year_share": 6.1,
+        "intensity": 16.7
       },
       {
         "name": "Epr Iyer",
-        "plays": 124
+        "plays": 124,
+        "year_share": 4.7,
+        "intensity": 76.5
       },
       {
         "name": "Eminem",
-        "plays": 114
+        "plays": 114,
+        "year_share": 4.3,
+        "intensity": 31.8
       },
       {
         "name": "The Local Train",
-        "plays": 97
+        "plays": 97,
+        "year_share": 3.6,
+        "intensity": 21.0
       },
       {
         "name": "JAY-Z",
-        "plays": 92
+        "plays": 92,
+        "year_share": 3.5,
+        "intensity": 45.3
       },
       {
         "name": "Queen",
-        "plays": 69
+        "plays": 69,
+        "year_share": 2.6,
+        "intensity": 25.6
       },
       {
         "name": "Kendrick Lamar",
-        "plays": 65
+        "plays": 65,
+        "year_share": 2.4,
+        "intensity": 12.5
       },
       {
         "name": "MF DOOM",
-        "plays": 64
+        "plays": 64,
+        "year_share": 2.4,
+        "intensity": 26.0
       },
       {
         "name": "A Tribe Called Quest",
-        "plays": 56
+        "plays": 56,
+        "year_share": 2.1,
+        "intensity": 54.9
       },
       {
         "name": "Lil Nas X",
-        "plays": 43
+        "plays": 43,
+        "year_share": 1.6,
+        "intensity": 79.6
       }
     ],
     "top_tracks": [
@@ -339,43 +399,63 @@
     "top_artists": [
       {
         "name": "The Beatles",
-        "plays": 125
+        "plays": 125,
+        "year_share": 4.8,
+        "intensity": 12.9
       },
       {
         "name": "Pink Floyd",
-        "plays": 113
+        "plays": 113,
+        "year_share": 4.3,
+        "intensity": 36.9
       },
       {
         "name": "MF DOOM",
-        "plays": 108
+        "plays": 108,
+        "year_share": 4.1,
+        "intensity": 43.9
       },
       {
         "name": "Kendrick Lamar",
-        "plays": 91
+        "plays": 91,
+        "year_share": 3.5,
+        "intensity": 17.6
       },
       {
         "name": "Nirvana",
-        "plays": 70
+        "plays": 70,
+        "year_share": 2.7,
+        "intensity": 49.0
       },
       {
         "name": "Queen",
-        "plays": 56
+        "plays": 56,
+        "year_share": 2.1,
+        "intensity": 20.7
       },
       {
         "name": "Red Hot Chili Peppers",
-        "plays": 56
+        "plays": 56,
+        "year_share": 2.1,
+        "intensity": 26.4
       },
       {
         "name": "Dr. Dre",
-        "plays": 42
+        "plays": 42,
+        "year_share": 1.6,
+        "intensity": 23.2
       },
       {
         "name": "The Local Train",
-        "plays": 39
+        "plays": 39,
+        "year_share": 1.5,
+        "intensity": 8.4
       },
       {
         "name": "The Rolling Stones",
-        "plays": 39
+        "plays": 39,
+        "year_share": 1.5,
+        "intensity": 23.8
       }
     ],
     "top_tracks": [
@@ -450,43 +530,63 @@
     "top_artists": [
       {
         "name": "Kendrick Lamar",
-        "plays": 57
+        "plays": 57,
+        "year_share": 3.8,
+        "intensity": 11.0
       },
       {
         "name": "Queen",
-        "plays": 44
+        "plays": 44,
+        "year_share": 2.9,
+        "intensity": 16.3
       },
       {
         "name": "Anuv Jain",
-        "plays": 36
+        "plays": 36,
+        "year_share": 2.4,
+        "intensity": 13.3
       },
       {
         "name": "JAY-Z",
-        "plays": 34
+        "plays": 34,
+        "year_share": 2.3,
+        "intensity": 16.7
       },
       {
         "name": "The Beatles",
-        "plays": 34
+        "plays": 34,
+        "year_share": 2.3,
+        "intensity": 3.5
       },
       {
         "name": "MF DOOM",
-        "plays": 28
+        "plays": 28,
+        "year_share": 1.9,
+        "intensity": 11.4
       },
       {
         "name": "Prateek Kuhad",
-        "plays": 28
+        "plays": 28,
+        "year_share": 1.9,
+        "intensity": 25.9
       },
       {
         "name": "Bob Dylan",
-        "plays": 27
+        "plays": 27,
+        "year_share": 1.8,
+        "intensity": 22.0
       },
       {
         "name": "System Of A Down",
-        "plays": 26
+        "plays": 26,
+        "year_share": 1.7,
+        "intensity": 28.6
       },
       {
         "name": "Eminem",
-        "plays": 24
+        "plays": 24,
+        "year_share": 1.6,
+        "intensity": 6.7
       }
     ],
     "top_tracks": [
@@ -561,43 +661,63 @@
     "top_artists": [
       {
         "name": "Anuv Jain",
-        "plays": 63
+        "plays": 63,
+        "year_share": 13.3,
+        "intensity": 23.3
       },
       {
         "name": "The Beatles",
-        "plays": 14
+        "plays": 14,
+        "year_share": 3.0,
+        "intensity": 1.4
       },
       {
         "name": "Bob Dylan",
-        "plays": 12
+        "plays": 12,
+        "year_share": 2.5,
+        "intensity": 9.8
       },
       {
         "name": "Post Malone",
-        "plays": 12
+        "plays": 12,
+        "year_share": 2.5,
+        "intensity": 31.6
       },
       {
         "name": "Rage Against The Machine",
-        "plays": 12
+        "plays": 12,
+        "year_share": 2.5,
+        "intensity": 16.9
       },
       {
         "name": "Porcupine Tree",
-        "plays": 11
+        "plays": 11,
+        "year_share": 2.3,
+        "intensity": 26.2
       },
       {
         "name": "blink-182",
-        "plays": 11
+        "plays": 11,
+        "year_share": 2.3,
+        "intensity": 25.0
       },
       {
         "name": "Prateek Kuhad",
-        "plays": 10
+        "plays": 10,
+        "year_share": 2.1,
+        "intensity": 9.3
       },
       {
         "name": "Creedence Clearwater Revival",
-        "plays": 9
+        "plays": 9,
+        "year_share": 1.9,
+        "intensity": 26.5
       },
       {
         "name": "Kanye West",
-        "plays": 9
+        "plays": 9,
+        "year_share": 1.9,
+        "intensity": 11.2
       }
     ],
     "top_tracks": [
@@ -672,43 +792,63 @@
     "top_artists": [
       {
         "name": "Kendrick Lamar",
-        "plays": 85
+        "plays": 85,
+        "year_share": 6.4,
+        "intensity": 16.4
       },
       {
         "name": "Eminem",
-        "plays": 68
+        "plays": 68,
+        "year_share": 5.2,
+        "intensity": 19.0
       },
       {
         "name": "Anuv Jain",
-        "plays": 50
+        "plays": 50,
+        "year_share": 3.8,
+        "intensity": 18.5
       },
       {
         "name": "Dr. Dre",
-        "plays": 36
+        "plays": 36,
+        "year_share": 2.7,
+        "intensity": 19.9
       },
       {
         "name": "JAY-Z",
-        "plays": 31
+        "plays": 31,
+        "year_share": 2.4,
+        "intensity": 15.3
       },
       {
         "name": "Taylor Swift",
-        "plays": 28
+        "plays": 28,
+        "year_share": 2.1,
+        "intensity": 65.1
       },
       {
         "name": "Prateek Kuhad",
-        "plays": 23
+        "plays": 23,
+        "year_share": 1.7,
+        "intensity": 21.3
       },
       {
         "name": "CZARFACE",
-        "plays": 22
+        "plays": 22,
+        "year_share": 1.7,
+        "intensity": 27.5
       },
       {
         "name": "SAMBATA",
-        "plays": 22
+        "plays": 22,
+        "year_share": 1.7,
+        "intensity": 78.6
       },
       {
         "name": "The Notorious B.I.G.",
-        "plays": 22
+        "plays": 22,
+        "year_share": 1.7,
+        "intensity": 29.3
       }
     ],
     "top_tracks": [
@@ -783,43 +923,63 @@
     "top_artists": [
       {
         "name": "Anuv Jain",
-        "plays": 118
+        "plays": 118,
+        "year_share": 12.9,
+        "intensity": 43.7
       },
       {
         "name": "The Beatles",
-        "plays": 37
+        "plays": 37,
+        "year_share": 4.1,
+        "intensity": 3.8
       },
       {
         "name": "Prateek Kuhad",
-        "plays": 24
+        "plays": 24,
+        "year_share": 2.6,
+        "intensity": 22.2
       },
       {
         "name": "Kendrick Lamar",
-        "plays": 21
+        "plays": 21,
+        "year_share": 2.3,
+        "intensity": 4.1
       },
       {
         "name": "MF DOOM",
-        "plays": 21
+        "plays": 21,
+        "year_share": 2.3,
+        "intensity": 8.5
       },
       {
         "name": "Red Hot Chili Peppers",
-        "plays": 21
+        "plays": 21,
+        "year_share": 2.3,
+        "intensity": 9.9
       },
       {
         "name": "The Local Train",
-        "plays": 19
+        "plays": 19,
+        "year_share": 2.1,
+        "intensity": 4.1
       },
       {
         "name": "Nirvana",
-        "plays": 18
+        "plays": 18,
+        "year_share": 2.0,
+        "intensity": 12.6
       },
       {
         "name": "Tame Impala",
-        "plays": 18
+        "plays": 18,
+        "year_share": 2.0,
+        "intensity": 40.0
       },
       {
         "name": "Eminem",
-        "plays": 15
+        "plays": 15,
+        "year_share": 1.6,
+        "intensity": 4.2
       }
     ],
     "top_tracks": [

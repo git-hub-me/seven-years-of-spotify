@@ -76,6 +76,7 @@ const StackTooltip = ({ active, payload, label }) => {
 export default function SessionArchaeology({ data }) {
   const [selectedYear, setSelectedYear] = useState("all");
   const [sortCol, setSortCol] = useState("score");
+  const [showBestSessions, setShowBestSessions] = useState(false);
 
   if (!data?.sessions) return null;
 
@@ -137,7 +138,7 @@ export default function SessionArchaeology({ data }) {
       <div className="section-label">Chapter 4</div>
       <h2 className="section-title">Session Archaeology</h2>
       <p className="section-sub">
-        {total_sessions.toLocaleString()} listening sessions over 7 years — clustered by &lt;30 min gaps between tracks.
+        {total_sessions.toLocaleString()} listening sessions over 7 years, grouped by 30 min gaps between tracks.
         Avg {avg_session_tracks} tracks · {avg_session_duration_min} minutes each.
       </p>
 
@@ -258,7 +259,7 @@ export default function SessionArchaeology({ data }) {
       </div>
 
       {/* Best sessions table */}
-      <div>
+      <div style={{ borderTop: "1px solid var(--border)", paddingTop: 40 }}>
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", flexWrap: "wrap", gap: 8, marginBottom: 8 }}>
           <h3 style={{ fontSize: 16, fontWeight: 700 }}>
             Best Sessions {selectedYear !== "all" ? `· ${selectedYear}` : ""}
@@ -285,6 +286,17 @@ export default function SessionArchaeology({ data }) {
             ))}
           </div>
         </div>
+        <button
+          onClick={() => setShowBestSessions(p => !p)}
+          style={{
+            background: "transparent", border: "1px solid var(--border)",
+            color: "var(--muted)", borderRadius: 8, padding: "8px 16px",
+            fontSize: 12, cursor: "pointer", font: "inherit", marginBottom: 20,
+          }}
+        >
+          {showBestSessions ? "▲ Hide sessions" : "▼ Show best sessions"}
+        </button>
+        {showBestSessions && <>
         <p style={{ fontSize: 12, color: "#555", marginBottom: 20 }}>
           Engagement = duration × (1 – skip rate). Top 30 shown.
         </p>
@@ -336,6 +348,7 @@ export default function SessionArchaeology({ data }) {
             </tbody>
           </table>
         </div>
+        </>}
       </div>
     </div>
   );

@@ -122,7 +122,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 2,
       "session_type": "shuffle_explore",
-      "top_artist": "Bruce Springsteen",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -500,9 +500,9 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "George Harrison",
+      "top_artist": "Kutless",
       "top_artist_count": 1,
-      "headline": "George Harrison",
+      "headline": "Kutless",
       "headline_type": "artist"
     },
     {
@@ -518,9 +518,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Billy Joel",
+      "top_artist": "Mano",
       "top_artist_count": 1,
-      "headline": "Billy Joel",
+      "headline": "Mano",
       "headline_type": "artist"
     },
     {
@@ -572,7 +572,7 @@
       "top_genre": "Pop",
       "genre_diversity": 5,
       "session_type": "work_background",
-      "top_artist": "The Beach Boys",
+      "top_artist": "Badfinger",
       "top_artist_count": 2,
       "headline": "Pop",
       "headline_type": "genre"
@@ -698,7 +698,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 6,
       "session_type": "shuffle_explore",
-      "top_artist": "Eminem",
+      "top_artist": "Bon Jovi",
       "top_artist_count": 7,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -986,9 +986,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 2,
       "session_type": "focused",
-      "top_artist": "Aerosmith",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 2,
-      "headline": "Aerosmith",
+      "headline": "The Rolling Stones",
       "headline_type": "artist"
     },
     {
@@ -1004,7 +1004,7 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "shuffle_explore",
-      "top_artist": "Havok",
+      "top_artist": "Suicidal Tendencies",
       "top_artist_count": 2,
       "headline": "Other",
       "headline_type": "genre"
@@ -1094,7 +1094,7 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "shuffle_explore",
-      "top_artist": "Five For Fighting",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -1382,7 +1382,7 @@
       "top_genre": "Other",
       "genre_diversity": 8,
       "session_type": "shuffle_explore",
-      "top_artist": "Cody Simpson",
+      "top_artist": "AJR",
       "top_artist_count": 9,
       "headline": "Other",
       "headline_type": "genre"
@@ -1397,12 +1397,12 @@
       "unique_artists": 2,
       "duration_min": 1.0,
       "skip_rate": 50.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Kansas",
+      "top_artist": "Ranveer Singh",
       "top_artist_count": 1,
-      "headline": "Kansas",
+      "headline": "Ranveer Singh",
       "headline_type": "artist"
     },
     {
@@ -1454,7 +1454,7 @@
       "top_genre": "Other",
       "genre_diversity": 2,
       "session_type": "shuffle_explore",
-      "top_artist": "The Game",
+      "top_artist": "DJ Khaled",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -1562,7 +1562,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 8,
       "session_type": "work_background",
-      "top_artist": "The Police",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -1652,9 +1652,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 1,
       "session_type": "mixed",
-      "top_artist": "Wolfmother",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 1,
-      "headline": "Wolfmother",
+      "headline": "The Rolling Stones",
       "headline_type": "artist"
     },
     {
@@ -1976,9 +1976,9 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Jimmy Page",
+      "top_artist": "Letz Zep",
       "top_artist_count": 1,
-      "headline": "Jimmy Page",
+      "headline": "Letz Zep",
       "headline_type": "artist"
     },
     {
@@ -1991,7 +1991,7 @@
       "unique_artists": 1,
       "duration_min": 9.6,
       "skip_rate": 50.0,
-      "top_genre": "Classic Rock",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "Jimmy Page",
@@ -2282,7 +2282,7 @@
       "top_genre": "Other",
       "genre_diversity": 7,
       "session_type": "shuffle_explore",
-      "top_artist": "Mack 10",
+      "top_artist": "N.W.A.",
       "top_artist_count": 2,
       "headline": "Other",
       "headline_type": "genre"
@@ -2480,9 +2480,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 1,
       "session_type": "mixed",
-      "top_artist": "Queen",
+      "top_artist": "The Beatles",
       "top_artist_count": 3,
-      "headline": "Queen",
+      "headline": "The Beatles",
       "headline_type": "artist"
     },
     {
@@ -2606,7 +2606,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "Queen",
+      "top_artist": "Jimi Hendrix",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -2624,7 +2624,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 2,
       "session_type": "work_background",
-      "top_artist": "Lynyrd Skynyrd",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -2660,7 +2660,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "focused",
-      "top_artist": "Tom Petty",
+      "top_artist": "Black Sabbath",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -2696,7 +2696,7 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Flat Rascals",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -2768,7 +2768,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "focused",
-      "top_artist": "Lynyrd Skynyrd",
+      "top_artist": "Black Sabbath",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -2801,7 +2801,7 @@
       "unique_artists": 2,
       "duration_min": 23.0,
       "skip_rate": 0.0,
-      "top_genre": "Classic Rock",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "Jimi Hendrix",
@@ -2855,7 +2855,7 @@
       "unique_artists": 2,
       "duration_min": 0.0,
       "skip_rate": 50.0,
-      "top_genre": "Classic Rock",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "Jimi Hendrix",
@@ -2873,7 +2873,7 @@
       "unique_artists": 1,
       "duration_min": 6.5,
       "skip_rate": 0.0,
-      "top_genre": "Classic Rock",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "Jimi Hendrix",
@@ -2930,9 +2930,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Jimi Hendrix",
+      "top_artist": "The Doors",
       "top_artist_count": 1,
-      "headline": "Jimi Hendrix",
+      "headline": "The Doors",
       "headline_type": "artist"
     },
     {
@@ -3020,7 +3020,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Santana",
+      "top_artist": "Jimi Hendrix",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -3182,7 +3182,7 @@
       "top_genre": "Indian Indie/Folk",
       "genre_diversity": 7,
       "session_type": "mixed",
-      "top_artist": "Sachin-Jigar",
+      "top_artist": "Ritviz",
       "top_artist_count": 2,
       "headline": "Indian Indie/Folk",
       "headline_type": "genre"
@@ -3272,9 +3272,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 1,
       "session_type": "mixed",
-      "top_artist": "The Beatles",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 1,
-      "headline": "The Beatles",
+      "headline": "The Rolling Stones",
       "headline_type": "artist"
     },
     {
@@ -3380,7 +3380,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
-      "top_artist": "Adnan Sami",
+      "top_artist": "Jefferson Airplane",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -3398,7 +3398,7 @@
       "top_genre": "Indian Indie/Folk",
       "genre_diversity": 7,
       "session_type": "shuffle_explore",
-      "top_artist": "Sonu Nigam",
+      "top_artist": "Neeraj Shridhar",
       "top_artist_count": 1,
       "headline": "Indian Indie/Folk",
       "headline_type": "genre"
@@ -3416,9 +3416,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "focused",
-      "top_artist": "Paul McCartney",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 2,
-      "headline": "Paul McCartney",
+      "headline": "The Rolling Stones",
       "headline_type": "artist"
     },
     {
@@ -3488,9 +3488,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Jimi Hendrix",
+      "top_artist": "The Byrds",
       "top_artist_count": 2,
-      "headline": "Jimi Hendrix",
+      "headline": "The Byrds",
       "headline_type": "artist"
     },
     {
@@ -3560,9 +3560,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 2,
       "session_type": "focused",
-      "top_artist": "The Beatles",
+      "top_artist": "Pink Floyd",
       "top_artist_count": 4,
-      "headline": "The Beatles",
+      "headline": "Pink Floyd",
       "headline_type": "artist"
     },
     {
@@ -3611,12 +3611,12 @@
       "unique_artists": 21,
       "duration_min": 51.8,
       "skip_rate": 35.7,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 7,
       "session_type": "work_background",
       "top_artist": "Mavle Mob",
       "top_artist_count": 4,
-      "headline": "Pop",
+      "headline": "Indian Indie/Folk",
       "headline_type": "genre"
     },
     {
@@ -4064,7 +4064,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
-      "top_artist": "The Mamas & The Papas",
+      "top_artist": "The Kinks",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -4154,7 +4154,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 7,
       "session_type": "focused",
-      "top_artist": "Blind Melon",
+      "top_artist": "2Pac",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -4298,9 +4298,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Beach House",
+      "top_artist": "Cigarettes After Sex",
       "top_artist_count": 1,
-      "headline": "Beach House",
+      "headline": "Cigarettes After Sex",
       "headline_type": "artist"
     },
     {
@@ -4424,9 +4424,9 @@
       "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Mohit Chauhan",
+      "top_artist": "Anu Malik",
       "top_artist_count": 1,
-      "headline": "Mohit Chauhan",
+      "headline": "Anu Malik",
       "headline_type": "artist"
     },
     {
@@ -4478,9 +4478,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "shuffle_explore",
-      "top_artist": "The Mamas & The Papas",
+      "top_artist": "The Byrds",
       "top_artist_count": 2,
-      "headline": "The Mamas & The Papas",
+      "headline": "The Byrds",
       "headline_type": "artist"
     },
     {
@@ -4547,7 +4547,7 @@
       "unique_artists": 6,
       "duration_min": 25.1,
       "skip_rate": 55.6,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "Ajay Gogavale",
@@ -4730,7 +4730,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Lana Del Rey",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -4838,9 +4838,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Eminem",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 1,
-      "headline": "Eminem",
+      "headline": "The Rolling Stones",
       "headline_type": "artist"
     },
     {
@@ -4964,7 +4964,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "late_night",
-      "top_artist": "Queen",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -5036,9 +5036,9 @@
       "top_genre": "Indian Indie/Folk",
       "genre_diversity": 5,
       "session_type": "late_night",
-      "top_artist": "The Local Train",
+      "top_artist": "Pink Floyd",
       "top_artist_count": 7,
-      "headline": "The Local Train",
+      "headline": "Pink Floyd",
       "headline_type": "artist"
     },
     {
@@ -5252,9 +5252,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 1,
       "session_type": "mixed",
-      "top_artist": "The Beatles",
+      "top_artist": "Guns N' Roses",
       "top_artist_count": 1,
-      "headline": "The Beatles",
+      "headline": "Guns N' Roses",
       "headline_type": "artist"
     },
     {
@@ -5486,9 +5486,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Eminem",
+      "top_artist": "Roy Orbison",
       "top_artist_count": 1,
-      "headline": "Eminem",
+      "headline": "Roy Orbison",
       "headline_type": "artist"
     },
     {
@@ -5501,7 +5501,7 @@
       "unique_artists": 1,
       "duration_min": 0.0,
       "skip_rate": 50.0,
-      "top_genre": "Classic Rock",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "Jimi Hendrix",
@@ -5792,7 +5792,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "work_background",
-      "top_artist": "The Beatles",
+      "top_artist": "The Velvet Underground",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -5882,9 +5882,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Rahat Fateh Ali Khan",
+      "top_artist": "Dub Sharma",
       "top_artist_count": 1,
-      "headline": "Rahat Fateh Ali Khan",
+      "headline": "Dub Sharma",
       "headline_type": "artist"
     },
     {
@@ -5897,7 +5897,7 @@
       "unique_artists": 2,
       "duration_min": 35.2,
       "skip_rate": 22.2,
-      "top_genre": "Classic Rock",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 5,
       "session_type": "focused",
       "top_artist": "Jimi Hendrix",
@@ -5972,9 +5972,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 1,
       "session_type": "mixed",
-      "top_artist": "David Bowie",
+      "top_artist": "Porcupine Tree",
       "top_artist_count": 1,
-      "headline": "David Bowie",
+      "headline": "Porcupine Tree",
       "headline_type": "artist"
     },
     {
@@ -6203,7 +6203,7 @@
       "unique_artists": 2,
       "duration_min": 5.6,
       "skip_rate": 50.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "Milind Ingle",
@@ -6260,7 +6260,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 6,
       "session_type": "mixed",
-      "top_artist": "The Beatles",
+      "top_artist": "Jimi Hendrix",
       "top_artist_count": 3,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -6368,9 +6368,9 @@
       "top_genre": "Electronic",
       "genre_diversity": 6,
       "session_type": "work_background",
-      "top_artist": "The Game",
+      "top_artist": "Daft Punk",
       "top_artist_count": 2,
-      "headline": "The Game",
+      "headline": "Daft Punk",
       "headline_type": "artist"
     },
     {
@@ -6509,12 +6509,12 @@
       "unique_artists": 11,
       "duration_min": 51.8,
       "skip_rate": 17.6,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "late_night",
-      "top_artist": "Benny Dayal",
+      "top_artist": "Pritam",
       "top_artist_count": 3,
-      "headline": "Pop",
+      "headline": "Indian Indie/Folk",
       "headline_type": "genre"
     },
     {
@@ -6530,7 +6530,7 @@
       "top_genre": "Indian Indie/Folk",
       "genre_diversity": 6,
       "session_type": "mixed",
-      "top_artist": "The Harmony Group",
+      "top_artist": "Abhijeet",
       "top_artist_count": 3,
       "headline": "Indian Indie/Folk",
       "headline_type": "genre"
@@ -6833,7 +6833,7 @@
       "unique_artists": 5,
       "duration_min": 14.9,
       "skip_rate": 33.3,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "Pritam",
@@ -6944,9 +6944,9 @@
       "top_genre": "Other",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Plumtree",
+      "top_artist": "Sex Bob-Omb",
       "top_artist_count": 1,
-      "headline": "Plumtree",
+      "headline": "Sex Bob-Omb",
       "headline_type": "artist"
     },
     {
@@ -6998,7 +6998,7 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Odd Future",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -7016,7 +7016,7 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "late_night",
-      "top_artist": "Childish Gambino",
+      "top_artist": "Halsey",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -7067,7 +7067,7 @@
       "unique_artists": 3,
       "duration_min": 8.6,
       "skip_rate": 0.0,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 6,
       "session_type": "mixed",
       "top_artist": "A Tribe Called Quest",
@@ -7142,9 +7142,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "late_night",
-      "top_artist": "Jimi Hendrix",
+      "top_artist": "Bullet For My Valentine",
       "top_artist_count": 1,
-      "headline": "Jimi Hendrix",
+      "headline": "Bullet For My Valentine",
       "headline_type": "artist"
     },
     {
@@ -7196,7 +7196,7 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "Kasabian",
+      "top_artist": "Gorillaz",
       "top_artist_count": 1,
       "headline": "Alternative/Indie Rock",
       "headline_type": "genre"
@@ -7448,7 +7448,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 5,
       "session_type": "focused",
-      "top_artist": "Dr. Dre",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 2,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -7466,7 +7466,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "focused",
-      "top_artist": "Rise Against",
+      "top_artist": "blink-182",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -7736,9 +7736,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 3,
       "session_type": "late_night",
-      "top_artist": "Snoop Dogg",
+      "top_artist": "JAY-Z",
       "top_artist_count": 1,
-      "headline": "Snoop Dogg",
+      "headline": "JAY-Z",
       "headline_type": "artist"
     },
     {
@@ -7808,9 +7808,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "D-Cypher",
+      "top_artist": "Jasleen Royal",
       "top_artist_count": 1,
-      "headline": "D-Cypher",
+      "headline": "Jasleen Royal",
       "headline_type": "artist"
     },
     {
@@ -7967,12 +7967,12 @@
       "unique_artists": 2,
       "duration_min": 10.2,
       "skip_rate": 50.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Kendrick Lamar",
+      "top_artist": "Shashwat Singh",
       "top_artist_count": 1,
-      "headline": "Kendrick Lamar",
+      "headline": "Shashwat Singh",
       "headline_type": "artist"
     },
     {
@@ -8006,7 +8006,7 @@
       "top_genre": "Other",
       "genre_diversity": 4,
       "session_type": "shuffle_explore",
-      "top_artist": "Moneta",
+      "top_artist": "Hoodoo Gurus",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -8024,7 +8024,7 @@
       "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Pritam",
+      "top_artist": "The Local Train",
       "top_artist_count": 2,
       "headline": "Indian Indie/Folk",
       "headline_type": "genre"
@@ -8060,9 +8060,9 @@
       "top_genre": "Other",
       "genre_diversity": 4,
       "session_type": "late_night",
-      "top_artist": "The Local Train",
+      "top_artist": "Deepak Rathore Project",
       "top_artist_count": 2,
-      "headline": "The Local Train",
+      "headline": "Deepak Rathore Project",
       "headline_type": "artist"
     },
     {
@@ -8111,12 +8111,12 @@
       "unique_artists": 6,
       "duration_min": 8.0,
       "skip_rate": 72.7,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "shuffle_explore",
-      "top_artist": "Amit Trivedi",
+      "top_artist": "Rahat Fateh Ali Khan",
       "top_artist_count": 2,
-      "headline": "Pop",
+      "headline": "Indian Indie/Folk",
       "headline_type": "genre"
     },
     {
@@ -8258,7 +8258,7 @@
       "top_genre": "Other",
       "genre_diversity": 6,
       "session_type": "focused",
-      "top_artist": "Dr. Dre",
+      "top_artist": "Snoop Dogg",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -8330,9 +8330,9 @@
       "top_genre": "Other",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "Tyler, The Creator",
+      "top_artist": "Westside Gunn",
       "top_artist_count": 1,
-      "headline": "Tyler, The Creator",
+      "headline": "Westside Gunn",
       "headline_type": "artist"
     },
     {
@@ -8366,9 +8366,9 @@
       "top_genre": "Pop",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Alicia Keys",
+      "top_artist": "Lewis Capaldi",
       "top_artist_count": 2,
-      "headline": "Alicia Keys",
+      "headline": "Lewis Capaldi",
       "headline_type": "artist"
     },
     {
@@ -8438,9 +8438,9 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Tove Lo",
+      "top_artist": "Udit Narayan",
       "top_artist_count": 1,
-      "headline": "Tove Lo",
+      "headline": "Udit Narayan",
       "headline_type": "artist"
     },
     {
@@ -8543,12 +8543,12 @@
       "unique_artists": 4,
       "duration_min": 0.0,
       "skip_rate": 100.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 2,
       "session_type": "late_night",
-      "top_artist": "Yasser Desai",
+      "top_artist": "Armaan Malik",
       "top_artist_count": 2,
-      "headline": "Yasser Desai",
+      "headline": "Armaan Malik",
       "headline_type": "artist"
     },
     {
@@ -8582,9 +8582,9 @@
       "top_genre": "Other",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "SlowCheeta",
+      "top_artist": "Sayani Gupta",
       "top_artist_count": 2,
-      "headline": "SlowCheeta",
+      "headline": "Sayani Gupta",
       "headline_type": "artist"
     },
     {
@@ -8618,9 +8618,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Roy",
+      "top_artist": "RollsRoy's",
       "top_artist_count": 1,
-      "headline": "Roy",
+      "headline": "RollsRoy's",
       "headline_type": "artist"
     },
     {
@@ -8672,7 +8672,7 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "focused",
-      "top_artist": "Odd Future",
+      "top_artist": "Bullet For My Valentine",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -8852,7 +8852,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
-      "top_artist": "The Beatles",
+      "top_artist": "David Bowie",
       "top_artist_count": 5,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -8921,12 +8921,12 @@
       "unique_artists": 2,
       "duration_min": 9.1,
       "skip_rate": 0.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Queen",
+      "top_artist": "Suraj Jagan",
       "top_artist_count": 1,
-      "headline": "Queen",
+      "headline": "Suraj Jagan",
       "headline_type": "artist"
     },
     {
@@ -8960,7 +8960,7 @@
       "top_genre": "Other",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Guns N' Roses",
+      "top_artist": "Europe",
       "top_artist_count": 2,
       "headline": "Other",
       "headline_type": "genre"
@@ -9266,7 +9266,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 6,
       "session_type": "shuffle_explore",
-      "top_artist": "Pink Floyd",
+      "top_artist": "Tom Petty and the Heartbreakers",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -9374,9 +9374,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 6,
       "session_type": "focused",
-      "top_artist": "Jasleen Royal",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 2,
-      "headline": "Jasleen Royal",
+      "headline": "Kendrick Lamar",
       "headline_type": "artist"
     },
     {
@@ -9407,7 +9407,7 @@
       "unique_artists": 1,
       "duration_min": 10.6,
       "skip_rate": 50.0,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "A Tribe Called Quest",
@@ -9425,7 +9425,7 @@
       "unique_artists": 1,
       "duration_min": 25.8,
       "skip_rate": 45.5,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "deep_dive",
       "top_artist": "A Tribe Called Quest",
@@ -9644,9 +9644,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Soundgarden",
+      "top_artist": "The Local Train",
       "top_artist_count": 1,
-      "headline": "Soundgarden",
+      "headline": "The Local Train",
       "headline_type": "artist"
     },
     {
@@ -9662,7 +9662,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 6,
       "session_type": "shuffle_explore",
-      "top_artist": "The Strokes",
+      "top_artist": "Cage The Elephant",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -9734,7 +9734,7 @@
       "top_genre": "Indian Indie/Folk",
       "genre_diversity": 6,
       "session_type": "marathon",
-      "top_artist": "Prateek Kuhad",
+      "top_artist": "The Local Train",
       "top_artist_count": 9,
       "headline": "Indian Indie/Folk",
       "headline_type": "genre"
@@ -9806,7 +9806,7 @@
       "top_genre": "Other",
       "genre_diversity": 6,
       "session_type": "late_night",
-      "top_artist": "Benny Benassi",
+      "top_artist": "The Weeknd",
       "top_artist_count": 2,
       "headline": "Other",
       "headline_type": "genre"
@@ -10058,7 +10058,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 6,
       "session_type": "work_background",
-      "top_artist": "Rush",
+      "top_artist": "Black Sabbath",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -10184,9 +10184,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Limp Bizkit",
+      "top_artist": "Rise Against",
       "top_artist_count": 1,
-      "headline": "Limp Bizkit",
+      "headline": "Rise Against",
       "headline_type": "artist"
     },
     {
@@ -10238,9 +10238,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "3 Doors Down",
+      "top_artist": "Bon Jovi",
       "top_artist_count": 1,
-      "headline": "3 Doors Down",
+      "headline": "Bon Jovi",
       "headline_type": "artist"
     },
     {
@@ -10310,7 +10310,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
-      "top_artist": "Rihanna",
+      "top_artist": "David Bowie",
       "top_artist_count": 3,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -10760,7 +10760,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "work_background",
-      "top_artist": "Nas",
+      "top_artist": "Sublime",
       "top_artist_count": 4,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -10832,7 +10832,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 7,
       "session_type": "shuffle_explore",
-      "top_artist": "Dinosaur Jr.",
+      "top_artist": "my bloody valentine",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -10901,7 +10901,7 @@
       "unique_artists": 4,
       "duration_min": 15.3,
       "skip_rate": 40.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "Sukhwinder Singh",
@@ -10919,12 +10919,12 @@
       "unique_artists": 10,
       "duration_min": 44.7,
       "skip_rate": 57.1,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "work_background",
       "top_artist": "Lucky Ali",
       "top_artist_count": 5,
-      "headline": "Pop",
+      "headline": "Indian Indie/Folk",
       "headline_type": "genre"
     },
     {
@@ -11045,7 +11045,7 @@
       "unique_artists": 8,
       "duration_min": 73.4,
       "skip_rate": 41.7,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 2,
       "session_type": "work_background",
       "top_artist": "A.R. Rahman",
@@ -11156,9 +11156,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 6,
       "session_type": "mixed",
-      "top_artist": "The Lumineers",
+      "top_artist": "Mumford & Sons",
       "top_artist_count": 1,
-      "headline": "The Lumineers",
+      "headline": "Mumford & Sons",
       "headline_type": "artist"
     },
     {
@@ -11246,9 +11246,9 @@
       "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "focused",
-      "top_artist": "A.R. Rahman",
+      "top_artist": "Mohit Chauhan",
       "top_artist_count": 3,
-      "headline": "A.R. Rahman",
+      "headline": "Mohit Chauhan",
       "headline_type": "artist"
     },
     {
@@ -11318,9 +11318,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Cypress Hill",
+      "top_artist": "Eminem",
       "top_artist_count": 1,
-      "headline": "Cypress Hill",
+      "headline": "Eminem",
       "headline_type": "artist"
     },
     {
@@ -11390,9 +11390,9 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Adele",
+      "top_artist": "Rihanna",
       "top_artist_count": 1,
-      "headline": "Adele",
+      "headline": "Rihanna",
       "headline_type": "artist"
     },
     {
@@ -11462,7 +11462,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 3,
       "session_type": "shuffle_explore",
-      "top_artist": "Beastie Boys",
+      "top_artist": "N.W.A.",
       "top_artist_count": 3,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -11768,9 +11768,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "The Beatles",
+      "top_artist": "Lil Wayne",
       "top_artist_count": 1,
-      "headline": "The Beatles",
+      "headline": "Lil Wayne",
       "headline_type": "artist"
     },
     {
@@ -11819,7 +11819,7 @@
       "unique_artists": 1,
       "duration_min": 7.6,
       "skip_rate": 0.0,
-      "top_genre": "Classic Rock",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "Black Rebel Motorcycle Club",
@@ -11894,9 +11894,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Foo Fighters",
+      "top_artist": "Breaking Benjamin",
       "top_artist_count": 1,
-      "headline": "Foo Fighters",
+      "headline": "Breaking Benjamin",
       "headline_type": "artist"
     },
     {
@@ -11966,9 +11966,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Led Zeppelin",
+      "top_artist": "System Of A Down",
       "top_artist_count": 1,
-      "headline": "Led Zeppelin",
+      "headline": "System Of A Down",
       "headline_type": "artist"
     },
     {
@@ -12017,7 +12017,7 @@
       "unique_artists": 9,
       "duration_min": 42.1,
       "skip_rate": 50.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "work_background",
       "top_artist": "Asha Bhosle",
@@ -12200,9 +12200,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Queen",
+      "top_artist": "Guitarrista de Atena",
       "top_artist_count": 1,
-      "headline": "Queen",
+      "headline": "Guitarrista de Atena",
       "headline_type": "artist"
     },
     {
@@ -12236,9 +12236,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "focused",
-      "top_artist": "John Mayer",
+      "top_artist": "Pink Floyd",
       "top_artist_count": 2,
-      "headline": "John Mayer",
+      "headline": "Pink Floyd",
       "headline_type": "artist"
     },
     {
@@ -12254,7 +12254,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "focused",
-      "top_artist": "Queen",
+      "top_artist": "Led Zeppelin",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -12398,7 +12398,7 @@
       "top_genre": "Other",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "mgk",
+      "top_artist": "Eminem",
       "top_artist_count": 3,
       "headline": "Other",
       "headline_type": "genre"
@@ -12542,9 +12542,9 @@
       "top_genre": "Folk/Acoustic",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Elliott Smith",
+      "top_artist": "Gorillaz",
       "top_artist_count": 1,
-      "headline": "Elliott Smith",
+      "headline": "Gorillaz",
       "headline_type": "artist"
     },
     {
@@ -12650,9 +12650,9 @@
       "top_genre": "Other",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Rae Sremmurd",
+      "top_artist": "Thousand Foot Krutch",
       "top_artist_count": 1,
-      "headline": "Rae Sremmurd",
+      "headline": "Thousand Foot Krutch",
       "headline_type": "artist"
     },
     {
@@ -12830,9 +12830,9 @@
       "top_genre": "Jazz/Blues",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Otis Redding",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 1,
-      "headline": "Otis Redding",
+      "headline": "The Rolling Stones",
       "headline_type": "artist"
     },
     {
@@ -12884,7 +12884,7 @@
       "top_genre": "Other",
       "genre_diversity": 2,
       "session_type": "shuffle_explore",
-      "top_artist": "Geek Music",
+      "top_artist": "Miura Jam",
       "top_artist_count": 3,
       "headline": "Other",
       "headline_type": "genre"
@@ -13172,9 +13172,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Epr Iyer",
+      "top_artist": "Red Hot Chili Peppers",
       "top_artist_count": 1,
-      "headline": "Epr Iyer",
+      "headline": "Red Hot Chili Peppers",
       "headline_type": "artist"
     },
     {
@@ -13190,7 +13190,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "Queen",
+      "top_artist": "R.E.M.",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -13298,9 +13298,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "The Kinks",
+      "top_artist": "R.E.M.",
       "top_artist_count": 1,
-      "headline": "The Kinks",
+      "headline": "R.E.M.",
       "headline_type": "artist"
     },
     {
@@ -13406,9 +13406,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "JAY-Z",
+      "top_artist": "Guns N' Roses",
       "top_artist_count": 1,
-      "headline": "JAY-Z",
+      "headline": "Guns N' Roses",
       "headline_type": "artist"
     },
     {
@@ -13424,9 +13424,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Pharoahe Monch",
+      "top_artist": "MF DOOM",
       "top_artist_count": 1,
-      "headline": "Pharoahe Monch",
+      "headline": "MF DOOM",
       "headline_type": "artist"
     },
     {
@@ -13514,7 +13514,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Jeezy",
+      "top_artist": "Snoop Dogg",
       "top_artist_count": 1,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -13637,7 +13637,7 @@
       "unique_artists": 2,
       "duration_min": 5.5,
       "skip_rate": 50.0,
-      "top_genre": "Pop",
+      "top_genre": "Punjabi/Bhangra",
       "genre_diversity": 4,
       "session_type": "mixed",
       "top_artist": "BROCKHAMPTON",
@@ -13676,9 +13676,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Queen",
+      "top_artist": "Fiddlecraft",
       "top_artist_count": 1,
-      "headline": "Queen",
+      "headline": "Fiddlecraft",
       "headline_type": "artist"
     },
     {
@@ -13766,7 +13766,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 6,
       "session_type": "work_background",
-      "top_artist": "System Of A Down",
+      "top_artist": "Rage Against The Machine",
       "top_artist_count": 4,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -13874,7 +13874,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 4,
       "session_type": "late_night",
-      "top_artist": "Lil Nas X",
+      "top_artist": "MF DOOM",
       "top_artist_count": 2,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -13964,7 +13964,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
-      "top_artist": "The Beatles",
+      "top_artist": "David Bowie",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -13982,9 +13982,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "The Band",
+      "top_artist": "Otis Redding",
       "top_artist_count": 1,
-      "headline": "The Band",
+      "headline": "Otis Redding",
       "headline_type": "artist"
     },
     {
@@ -14105,7 +14105,7 @@
       "unique_artists": 2,
       "duration_min": 4.3,
       "skip_rate": 0.0,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "MF DOOM",
@@ -14123,7 +14123,7 @@
       "unique_artists": 2,
       "duration_min": 9.3,
       "skip_rate": 0.0,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "MF DOOM",
@@ -14162,7 +14162,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 8,
       "session_type": "late_night",
-      "top_artist": "Queen",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -14267,7 +14267,7 @@
       "unique_artists": 1,
       "duration_min": 7.9,
       "skip_rate": 0.0,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "MF DOOM",
@@ -14537,7 +14537,7 @@
       "unique_artists": 2,
       "duration_min": 12.4,
       "skip_rate": 33.3,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "late_night",
       "top_artist": "MF DOOM",
@@ -14591,7 +14591,7 @@
       "unique_artists": 2,
       "duration_min": 4.4,
       "skip_rate": 0.0,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "That 70s Hit Band",
@@ -14681,12 +14681,12 @@
       "unique_artists": 2,
       "duration_min": 12.3,
       "skip_rate": 0.0,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Elton John",
+      "top_artist": "A Tribe Called Quest",
       "top_artist_count": 1,
-      "headline": "Elton John",
+      "headline": "A Tribe Called Quest",
       "headline_type": "artist"
     },
     {
@@ -14792,7 +14792,7 @@
       "top_genre": "Other",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Pink Floyd",
+      "top_artist": "MF DOOM",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -14897,7 +14897,7 @@
       "unique_artists": 2,
       "duration_min": 7.9,
       "skip_rate": 0.0,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "MF DOOM",
@@ -14915,7 +14915,7 @@
       "unique_artists": 2,
       "duration_min": 10.3,
       "skip_rate": 0.0,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 4,
       "session_type": "mixed",
       "top_artist": "MF DOOM",
@@ -14990,7 +14990,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 2,
       "session_type": "shuffle_explore",
-      "top_artist": "Van Halen",
+      "top_artist": "Black Sabbath",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -15152,7 +15152,7 @@
       "top_genre": "Indian Indie/Folk",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
-      "top_artist": "Indian Ocean",
+      "top_artist": "Ankur Tewari",
       "top_artist_count": 3,
       "headline": "Indian Indie/Folk",
       "headline_type": "genre"
@@ -15170,7 +15170,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "The Beatles",
+      "top_artist": "Nas",
       "top_artist_count": 3,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -15368,9 +15368,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Queen",
+      "top_artist": "Death Cab for Cutie",
       "top_artist_count": 1,
-      "headline": "Queen",
+      "headline": "Death Cab for Cutie",
       "headline_type": "artist"
     },
     {
@@ -15419,7 +15419,7 @@
       "unique_artists": 5,
       "duration_min": 32.3,
       "skip_rate": 38.5,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 3,
       "session_type": "late_night",
       "top_artist": "MF DOOM",
@@ -15458,7 +15458,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 8,
       "session_type": "shuffle_explore",
-      "top_artist": "System Of A Down",
+      "top_artist": "Nirvana",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -15494,7 +15494,7 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "DVRST",
+      "top_artist": "L'Orchestra Numerique",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -15548,9 +15548,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Jimi Hendrix",
+      "top_artist": "The Who",
       "top_artist_count": 1,
-      "headline": "Jimi Hendrix",
+      "headline": "The Who",
       "headline_type": "artist"
     },
     {
@@ -15674,9 +15674,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Meek Mill",
+      "top_artist": "Eminem",
       "top_artist_count": 1,
-      "headline": "Meek Mill",
+      "headline": "Eminem",
       "headline_type": "artist"
     },
     {
@@ -15725,7 +15725,7 @@
       "unique_artists": 1,
       "duration_min": 1.1,
       "skip_rate": 50.0,
-      "top_genre": "Classic Rock",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "The Black Keys",
@@ -15782,7 +15782,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 7,
       "session_type": "work_background",
-      "top_artist": "Eddie Vedder",
+      "top_artist": "MF DOOM",
       "top_artist_count": 3,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -15836,9 +15836,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Aqua Timez",
+      "top_artist": "Black Rebel Motorcycle Club",
       "top_artist_count": 1,
-      "headline": "Aqua Timez",
+      "headline": "Black Rebel Motorcycle Club",
       "headline_type": "artist"
     },
     {
@@ -15908,9 +15908,9 @@
       "top_genre": "Pop",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Dua Lipa",
+      "top_artist": "BTS",
       "top_artist_count": 1,
-      "headline": "Dua Lipa",
+      "headline": "BTS",
       "headline_type": "artist"
     },
     {
@@ -15995,7 +15995,7 @@
       "unique_artists": 4,
       "duration_min": 15.7,
       "skip_rate": 20.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "mixed",
       "top_artist": "Avadhoot Gupte",
@@ -16016,7 +16016,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 6,
       "session_type": "shuffle_explore",
-      "top_artist": "Cream",
+      "top_artist": "Black Sabbath",
       "top_artist_count": 3,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -16034,7 +16034,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
-      "top_artist": "Dr. Dre",
+      "top_artist": "MF DOOM",
       "top_artist_count": 1,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -16283,7 +16283,7 @@
       "unique_artists": 4,
       "duration_min": 40.8,
       "skip_rate": 28.6,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "work_background",
       "top_artist": "Sudhir Phadke",
@@ -16301,12 +16301,12 @@
       "unique_artists": 2,
       "duration_min": 9.6,
       "skip_rate": 50.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Prashant Nakti",
+      "top_artist": "Harry Styles",
       "top_artist_count": 1,
-      "headline": "Prashant Nakti",
+      "headline": "Harry Styles",
       "headline_type": "artist"
     },
     {
@@ -16319,7 +16319,7 @@
       "unique_artists": 2,
       "duration_min": 0.3,
       "skip_rate": 100.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "Pankaj Udhas",
@@ -16409,7 +16409,7 @@
       "unique_artists": 2,
       "duration_min": 37.2,
       "skip_rate": 66.7,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "Aditya A",
@@ -16427,7 +16427,7 @@
       "unique_artists": 1,
       "duration_min": 13.2,
       "skip_rate": 33.3,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "Milind Shinde",
@@ -16499,12 +16499,12 @@
       "unique_artists": 14,
       "duration_min": 67.5,
       "skip_rate": 0.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "focused",
       "top_artist": "Prashant Nakti",
       "top_artist_count": 4,
-      "headline": "Pop",
+      "headline": "Indian Indie/Folk",
       "headline_type": "genre"
     },
     {
@@ -16517,7 +16517,7 @@
       "unique_artists": 2,
       "duration_min": 5.9,
       "skip_rate": 0.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "Asha Bhosle",
@@ -16571,12 +16571,12 @@
       "unique_artists": 3,
       "duration_min": 10.7,
       "skip_rate": 33.3,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Mugdha Vaishampayan",
+      "top_artist": "Suresh Wadkar",
       "top_artist_count": 1,
-      "headline": "Mugdha Vaishampayan",
+      "headline": "Suresh Wadkar",
       "headline_type": "artist"
     },
     {
@@ -16589,7 +16589,7 @@
       "unique_artists": 12,
       "duration_min": 80.2,
       "skip_rate": 37.5,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "work_background",
       "top_artist": "Anand Shinde",
@@ -16625,7 +16625,7 @@
       "unique_artists": 3,
       "duration_min": 67.7,
       "skip_rate": 0.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "focused",
       "top_artist": "Suman Kalyanpur",
@@ -16643,7 +16643,7 @@
       "unique_artists": 3,
       "duration_min": 56.7,
       "skip_rate": 26.7,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "Suman Kalyanpur",
@@ -16661,7 +16661,7 @@
       "unique_artists": 4,
       "duration_min": 5.0,
       "skip_rate": 20.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "Usha Mangeshkar",
@@ -16823,12 +16823,12 @@
       "unique_artists": 7,
       "duration_min": 61.5,
       "skip_rate": 0.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "focused",
-      "top_artist": "Suresh Wadkar",
+      "top_artist": "Chris Brown",
       "top_artist_count": 1,
-      "headline": "Pop",
+      "headline": "Indian Indie/Folk",
       "headline_type": "genre"
     },
     {
@@ -16877,12 +16877,12 @@
       "unique_artists": 14,
       "duration_min": 19.5,
       "skip_rate": 52.9,
-      "top_genre": "Pop",
+      "top_genre": "Punjabi/Bhangra",
       "genre_diversity": 8,
       "session_type": "mixed",
       "top_artist": "NseeB",
       "top_artist_count": 3,
-      "headline": "Pop",
+      "headline": "Punjabi/Bhangra",
       "headline_type": "genre"
     },
     {
@@ -16895,7 +16895,7 @@
       "unique_artists": 4,
       "duration_min": 33.3,
       "skip_rate": 0.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "focused",
       "top_artist": "Kishore Kumar",
@@ -16949,12 +16949,12 @@
       "unique_artists": 5,
       "duration_min": 39.0,
       "skip_rate": 14.3,
-      "top_genre": "Pop",
+      "top_genre": "Punjabi/Bhangra",
       "genre_diversity": 3,
       "session_type": "focused",
-      "top_artist": "Nikk",
+      "top_artist": "Harnoor",
       "top_artist_count": 2,
-      "headline": "Nikk",
+      "headline": "Harnoor",
       "headline_type": "artist"
     },
     {
@@ -17021,7 +17021,7 @@
       "unique_artists": 3,
       "duration_min": 13.2,
       "skip_rate": 0.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "Sonu Nigam",
@@ -17039,12 +17039,12 @@
       "unique_artists": 14,
       "duration_min": 138.3,
       "skip_rate": 3.3,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "marathon",
-      "top_artist": "Lata Mangeshkar",
+      "top_artist": "Sudhir Phadke",
       "top_artist_count": 5,
-      "headline": "Pop",
+      "headline": "Indian Indie/Folk",
       "headline_type": "genre"
     },
     {
@@ -17075,12 +17075,12 @@
       "unique_artists": 2,
       "duration_min": 0.0,
       "skip_rate": 100.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Atif Aslam",
+      "top_artist": "Vishal-Shekhar",
       "top_artist_count": 1,
-      "headline": "Atif Aslam",
+      "headline": "Vishal-Shekhar",
       "headline_type": "artist"
     },
     {
@@ -17114,7 +17114,7 @@
       "top_genre": "Pop",
       "genre_diversity": 4,
       "session_type": "late_night",
-      "top_artist": "The Notorious B.I.G.",
+      "top_artist": "Shae Gill",
       "top_artist_count": 1,
       "headline": "Pop",
       "headline_type": "genre"
@@ -17168,9 +17168,9 @@
       "top_genre": "Pop",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Anand Shinde",
+      "top_artist": "Prahlad Shinde",
       "top_artist_count": 1,
-      "headline": "Anand Shinde",
+      "headline": "Prahlad Shinde",
       "headline_type": "artist"
     },
     {
@@ -17201,7 +17201,7 @@
       "unique_artists": 1,
       "duration_min": 2.2,
       "skip_rate": 33.3,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "Ali Zafar",
@@ -17438,7 +17438,7 @@
       "top_genre": "Pop",
       "genre_diversity": 8,
       "session_type": "shuffle_explore",
-      "top_artist": "Maninder Buttar",
+      "top_artist": "That 70s Hit Band",
       "top_artist_count": 3,
       "headline": "Pop",
       "headline_type": "genre"
@@ -17870,7 +17870,7 @@
       "top_genre": "Electronic",
       "genre_diversity": 4,
       "session_type": "focused",
-      "top_artist": "STVW",
+      "top_artist": "Armin van Buuren",
       "top_artist_count": 1,
       "headline": "Electronic",
       "headline_type": "genre"
@@ -17921,7 +17921,7 @@
       "unique_artists": 7,
       "duration_min": 35.1,
       "skip_rate": 50.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "Atif Aslam",
@@ -18014,9 +18014,9 @@
       "top_genre": "Other",
       "genre_diversity": 1,
       "session_type": "mixed",
-      "top_artist": "Elton John",
+      "top_artist": "Imagine Dragons",
       "top_artist_count": 1,
-      "headline": "Elton John",
+      "headline": "Imagine Dragons",
       "headline_type": "artist"
     },
     {
@@ -18029,12 +18029,12 @@
       "unique_artists": 4,
       "duration_min": 15.2,
       "skip_rate": 0.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Adarsh Shinde",
+      "top_artist": "Shubhangii Kedar",
       "top_artist_count": 1,
-      "headline": "Adarsh Shinde",
+      "headline": "Shubhangii Kedar",
       "headline_type": "artist"
     },
     {
@@ -18047,7 +18047,7 @@
       "unique_artists": 1,
       "duration_min": 10.3,
       "skip_rate": 66.7,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "Raj Irmali",
@@ -18065,7 +18065,7 @@
       "unique_artists": 2,
       "duration_min": 2.0,
       "skip_rate": 100.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "Shubhangii Kedar",
@@ -18176,7 +18176,7 @@
       "top_genre": "Other",
       "genre_diversity": 5,
       "session_type": "focused",
-      "top_artist": "Kisswe Music",
+      "top_artist": "BollyKex",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -18245,7 +18245,7 @@
       "unique_artists": 3,
       "duration_min": 17.2,
       "skip_rate": 75.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "Akhil Sachdeva",
@@ -18626,7 +18626,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Nas",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 1,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -18680,7 +18680,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 7,
       "session_type": "work_background",
-      "top_artist": "Pink Floyd",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 3,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -18842,9 +18842,9 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "The Beatles",
+      "top_artist": "Adele",
       "top_artist_count": 1,
-      "headline": "The Beatles",
+      "headline": "Adele",
       "headline_type": "artist"
     },
     {
@@ -19130,7 +19130,7 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Five For Fighting",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -19253,7 +19253,7 @@
       "unique_artists": 5,
       "duration_min": 57.6,
       "skip_rate": 55.0,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 3,
       "session_type": "work_background",
       "top_artist": "MF DOOM",
@@ -19289,12 +19289,12 @@
       "unique_artists": 4,
       "duration_min": 9.0,
       "skip_rate": 0.0,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "The Alchemist",
+      "top_artist": "Damu The Fudgemunk",
       "top_artist_count": 1,
-      "headline": "The Alchemist",
+      "headline": "Damu The Fudgemunk",
       "headline_type": "artist"
     },
     {
@@ -19325,7 +19325,7 @@
       "unique_artists": 2,
       "duration_min": 12.2,
       "skip_rate": 62.5,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "late_night",
       "top_artist": "MF DOOM",
@@ -19400,9 +19400,9 @@
       "top_genre": "Other",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Cream",
+      "top_artist": "CZARFACE",
       "top_artist_count": 1,
-      "headline": "Cream",
+      "headline": "CZARFACE",
       "headline_type": "artist"
     },
     {
@@ -19454,9 +19454,9 @@
       "top_genre": "Other",
       "genre_diversity": 1,
       "session_type": "mixed",
-      "top_artist": "Michael Jackson",
+      "top_artist": "Mike Posner",
       "top_artist_count": 1,
-      "headline": "Michael Jackson",
+      "headline": "Mike Posner",
       "headline_type": "artist"
     },
     {
@@ -19526,7 +19526,7 @@
       "top_genre": "Other",
       "genre_diversity": 6,
       "session_type": "marathon",
-      "top_artist": "Ed Sheeran",
+      "top_artist": "Tom Odell",
       "top_artist_count": 3,
       "headline": "Other",
       "headline_type": "genre"
@@ -19562,7 +19562,7 @@
       "top_genre": "Other",
       "genre_diversity": 5,
       "session_type": "focused",
-      "top_artist": "Five For Fighting",
+      "top_artist": "The Animals",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -19652,9 +19652,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Meek Mill",
+      "top_artist": "Christina Perri",
       "top_artist_count": 1,
-      "headline": "Meek Mill",
+      "headline": "Christina Perri",
       "headline_type": "artist"
     },
     {
@@ -19922,7 +19922,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
-      "top_artist": "Pink Floyd",
+      "top_artist": "Red Hot Chili Peppers",
       "top_artist_count": 3,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -19958,7 +19958,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 7,
       "session_type": "late_night",
-      "top_artist": "Elton John",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -19994,7 +19994,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 6,
       "session_type": "work_background",
-      "top_artist": "Red Hot Chili Peppers",
+      "top_artist": "Linkin Park",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -20210,7 +20210,7 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "Queen",
+      "top_artist": "Prateek Kuhad",
       "top_artist_count": 2,
       "headline": "Alternative/Indie Rock",
       "headline_type": "genre"
@@ -20462,7 +20462,7 @@
       "top_genre": "Other",
       "genre_diversity": 8,
       "session_type": "late_night",
-      "top_artist": "The Beatles",
+      "top_artist": "Duster",
       "top_artist_count": 2,
       "headline": "Other",
       "headline_type": "genre"
@@ -20552,7 +20552,7 @@
       "top_genre": "Pop",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Ed Sheeran",
+      "top_artist": "Bruno Mars",
       "top_artist_count": 1,
       "headline": "Pop",
       "headline_type": "genre"
@@ -20660,9 +20660,9 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Alicia Keys",
+      "top_artist": "Beyonc\u00e9",
       "top_artist_count": 1,
-      "headline": "Alicia Keys",
+      "headline": "Beyonc\u00e9",
       "headline_type": "artist"
     },
     {
@@ -20696,7 +20696,7 @@
       "top_genre": "Other",
       "genre_diversity": 5,
       "session_type": "focused",
-      "top_artist": "David Guetta",
+      "top_artist": "Coldplay",
       "top_artist_count": 2,
       "headline": "Other",
       "headline_type": "genre"
@@ -20765,7 +20765,7 @@
       "unique_artists": 2,
       "duration_min": 36.9,
       "skip_rate": 25.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "mixed",
       "top_artist": "Anuv Jain",
@@ -20984,9 +20984,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "The Alchemist",
+      "top_artist": "Drake",
       "top_artist_count": 1,
-      "headline": "The Alchemist",
+      "headline": "Drake",
       "headline_type": "artist"
     },
     {
@@ -21017,12 +21017,12 @@
       "unique_artists": 22,
       "duration_min": 47.8,
       "skip_rate": 58.8,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 8,
       "session_type": "late_night",
       "top_artist": "DIVINE",
       "top_artist_count": 6,
-      "headline": "Pop",
+      "headline": "Indian Indie/Folk",
       "headline_type": "genre"
     },
     {
@@ -21038,9 +21038,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 6,
       "session_type": "mixed",
-      "top_artist": "The Siege",
+      "top_artist": "RollsRoy's",
       "top_artist_count": 1,
-      "headline": "The Siege",
+      "headline": "RollsRoy's",
       "headline_type": "artist"
     },
     {
@@ -21164,7 +21164,7 @@
       "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "focused",
-      "top_artist": "Prateek Kuhad",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 2,
       "headline": "Indian Indie/Folk",
       "headline_type": "genre"
@@ -21200,7 +21200,7 @@
       "top_genre": "Other",
       "genre_diversity": 6,
       "session_type": "shuffle_explore",
-      "top_artist": "Eminem",
+      "top_artist": "Bullet For My Valentine",
       "top_artist_count": 4,
       "headline": "Other",
       "headline_type": "genre"
@@ -21344,9 +21344,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Queen",
+      "top_artist": "Red Hot Chili Peppers",
       "top_artist_count": 1,
-      "headline": "Queen",
+      "headline": "Red Hot Chili Peppers",
       "headline_type": "artist"
     },
     {
@@ -21470,9 +21470,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Nirvana",
+      "top_artist": "Pink Floyd",
       "top_artist_count": 1,
-      "headline": "Nirvana",
+      "headline": "Pink Floyd",
       "headline_type": "artist"
     },
     {
@@ -21488,7 +21488,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "late_night",
-      "top_artist": "Scorpions",
+      "top_artist": "Simon & Garfunkel",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -21506,9 +21506,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Erato",
+      "top_artist": "Scorpions",
       "top_artist_count": 1,
-      "headline": "Erato",
+      "headline": "Scorpions",
       "headline_type": "artist"
     },
     {
@@ -21524,9 +21524,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Pink Floyd",
+      "top_artist": "Lewis Capaldi",
       "top_artist_count": 2,
-      "headline": "Pink Floyd",
+      "headline": "Lewis Capaldi",
       "headline_type": "artist"
     },
     {
@@ -21542,9 +21542,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Ice Cube",
+      "top_artist": "Eminem",
       "top_artist_count": 2,
-      "headline": "Ice Cube",
+      "headline": "Eminem",
       "headline_type": "artist"
     },
     {
@@ -21560,7 +21560,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Macklemore & Ryan Lewis",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 1,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -21578,7 +21578,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 3,
       "session_type": "focused",
-      "top_artist": "Dr. Dre",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 2,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -21596,7 +21596,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Freddie Gibbs",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 1,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -21647,7 +21647,7 @@
       "unique_artists": 3,
       "duration_min": 8.3,
       "skip_rate": 33.3,
-      "top_genre": "Classic Rock",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 6,
       "session_type": "mixed",
       "top_artist": "A Band Of Boys",
@@ -21722,9 +21722,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Logic",
+      "top_artist": "Eminem",
       "top_artist_count": 1,
-      "headline": "Logic",
+      "headline": "Eminem",
       "headline_type": "artist"
     },
     {
@@ -21866,9 +21866,9 @@
       "top_genre": "Other",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Coldplay",
+      "top_artist": "Lukas Graham",
       "top_artist_count": 1,
-      "headline": "Coldplay",
+      "headline": "Lukas Graham",
       "headline_type": "artist"
     },
     {
@@ -21902,9 +21902,9 @@
       "top_genre": "Other",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Led Zeppelin",
+      "top_artist": "Lupe Fiasco",
       "top_artist_count": 1,
-      "headline": "Led Zeppelin",
+      "headline": "Lupe Fiasco",
       "headline_type": "artist"
     },
     {
@@ -21974,9 +21974,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "focused",
-      "top_artist": "David Bowie",
+      "top_artist": "Bob Dylan",
       "top_artist_count": 2,
-      "headline": "David Bowie",
+      "headline": "Bob Dylan",
       "headline_type": "artist"
     },
     {
@@ -21992,7 +21992,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 7,
       "session_type": "late_night",
-      "top_artist": "Green Day",
+      "top_artist": "Foghat",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -22046,9 +22046,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Elton John",
+      "top_artist": "Eminem",
       "top_artist_count": 2,
-      "headline": "Elton John",
+      "headline": "Eminem",
       "headline_type": "artist"
     },
     {
@@ -22136,7 +22136,7 @@
       "top_genre": "Pop",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Gotye",
+      "top_artist": "Sam Smith",
       "top_artist_count": 1,
       "headline": "Pop",
       "headline_type": "genre"
@@ -22172,9 +22172,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "The Velvet Underground",
+      "top_artist": "The Doors",
       "top_artist_count": 1,
-      "headline": "The Velvet Underground",
+      "headline": "The Doors",
       "headline_type": "artist"
     },
     {
@@ -22226,9 +22226,9 @@
       "top_genre": "Other",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "The Beatles",
+      "top_artist": "Taylor Swift",
       "top_artist_count": 1,
-      "headline": "The Beatles",
+      "headline": "Taylor Swift",
       "headline_type": "artist"
     },
     {
@@ -22388,7 +22388,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 6,
       "session_type": "focused",
-      "top_artist": "Nirvana",
+      "top_artist": "Red Hot Chili Peppers",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -22478,7 +22478,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 2,
       "session_type": "shuffle_explore",
-      "top_artist": "The Notorious B.I.G.",
+      "top_artist": "Madvillain",
       "top_artist_count": 2,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -22496,9 +22496,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "MF DOOM",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
-      "headline": "MF DOOM",
+      "headline": "Anuv Jain",
       "headline_type": "artist"
     },
     {
@@ -22568,9 +22568,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 2,
       "session_type": "focused",
-      "top_artist": "Outkast",
+      "top_artist": "Kanye West",
       "top_artist_count": 2,
-      "headline": "Outkast",
+      "headline": "Kanye West",
       "headline_type": "artist"
     },
     {
@@ -22622,7 +22622,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "late_night",
-      "top_artist": "Queen",
+      "top_artist": "The Chainsmokers",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -22640,7 +22640,7 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "focused",
-      "top_artist": "Ben E. King",
+      "top_artist": "Bob Marley & The Wailers",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -22655,12 +22655,12 @@
       "unique_artists": 12,
       "duration_min": 34.2,
       "skip_rate": 50.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 7,
       "session_type": "mixed",
-      "top_artist": "Bee Gees",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
-      "headline": "Pop",
+      "headline": "Indian Indie/Folk",
       "headline_type": "genre"
     },
     {
@@ -22712,7 +22712,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 6,
       "session_type": "focused",
-      "top_artist": "Bee Gees",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -22856,9 +22856,9 @@
       "top_genre": "Other",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "TLC",
+      "top_artist": "Backstreet Boys",
       "top_artist_count": 1,
-      "headline": "TLC",
+      "headline": "Backstreet Boys",
       "headline_type": "artist"
     },
     {
@@ -22874,7 +22874,7 @@
       "top_genre": "Other",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Outkast",
+      "top_artist": "TLC",
       "top_artist_count": 2,
       "headline": "Other",
       "headline_type": "genre"
@@ -22961,7 +22961,7 @@
       "unique_artists": 20,
       "duration_min": 54.1,
       "skip_rate": 44.8,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 7,
       "session_type": "work_background",
       "top_artist": "Anuv Jain",
@@ -23018,7 +23018,7 @@
       "top_genre": "Other",
       "genre_diversity": 5,
       "session_type": "focused",
-      "top_artist": "Imagine Dragons",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -23126,7 +23126,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 4,
       "session_type": "shuffle_explore",
-      "top_artist": "The Notorious B.I.G.",
+      "top_artist": "MF DOOM",
       "top_artist_count": 2,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -23144,9 +23144,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 5,
       "session_type": "focused",
-      "top_artist": "Sharn",
+      "top_artist": "AP Dhillon",
       "top_artist_count": 2,
-      "headline": "Sharn",
+      "headline": "AP Dhillon",
       "headline_type": "artist"
     },
     {
@@ -23252,9 +23252,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "JAY-Z",
+      "top_artist": "Ol' Dirty Bastard",
       "top_artist_count": 1,
-      "headline": "JAY-Z",
+      "headline": "Ol' Dirty Bastard",
       "headline_type": "artist"
     },
     {
@@ -23270,7 +23270,7 @@
       "top_genre": "Indian Indie/Folk",
       "genre_diversity": 7,
       "session_type": "late_night",
-      "top_artist": "Hilight Tribe",
+      "top_artist": "King",
       "top_artist_count": 2,
       "headline": "Indian Indie/Folk",
       "headline_type": "genre"
@@ -23288,7 +23288,7 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
-      "top_artist": "Rabbi Shergill",
+      "top_artist": "MAGIC!",
       "top_artist_count": 1,
       "headline": "Alternative/Indie Rock",
       "headline_type": "genre"
@@ -23303,12 +23303,12 @@
       "unique_artists": 3,
       "duration_min": 8.7,
       "skip_rate": 33.3,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "TLC",
+      "top_artist": "Armaan Malik",
       "top_artist_count": 1,
-      "headline": "TLC",
+      "headline": "Armaan Malik",
       "headline_type": "artist"
     },
     {
@@ -23324,9 +23324,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "late_night",
-      "top_artist": "Deep Purple",
+      "top_artist": "Bill Withers",
       "top_artist_count": 2,
-      "headline": "Deep Purple",
+      "headline": "Bill Withers",
       "headline_type": "artist"
     },
     {
@@ -23360,9 +23360,9 @@
       "top_genre": "Pop",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Lana Del Rey",
+      "top_artist": "Green Day",
       "top_artist_count": 1,
-      "headline": "Lana Del Rey",
+      "headline": "Green Day",
       "headline_type": "artist"
     },
     {
@@ -23378,7 +23378,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Queen",
+      "top_artist": "The Velvet Underground",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -23414,7 +23414,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "focused",
-      "top_artist": "The Beatles",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -23468,9 +23468,9 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "d4vd",
+      "top_artist": "The Weeknd",
       "top_artist_count": 2,
-      "headline": "d4vd",
+      "headline": "The Weeknd",
       "headline_type": "artist"
     },
     {
@@ -23594,9 +23594,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Donovan",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 1,
-      "headline": "Donovan",
+      "headline": "The Rolling Stones",
       "headline_type": "artist"
     },
     {
@@ -23666,9 +23666,9 @@
       "top_genre": "Other",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "fun.",
+      "top_artist": "The Chainsmokers",
       "top_artist_count": 1,
-      "headline": "fun.",
+      "headline": "The Chainsmokers",
       "headline_type": "artist"
     },
     {
@@ -23702,7 +23702,7 @@
       "top_genre": "Other",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
-      "top_artist": "The Weeknd",
+      "top_artist": "Sia",
       "top_artist_count": 4,
       "headline": "Other",
       "headline_type": "genre"
@@ -23738,7 +23738,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "focused",
-      "top_artist": "Creedence Clearwater Revival",
+      "top_artist": "Black Sabbath",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -23918,7 +23918,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 7,
       "session_type": "work_background",
-      "top_artist": "Queen",
+      "top_artist": "Creedence Clearwater Revival",
       "top_artist_count": 4,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -23990,9 +23990,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Bob Dylan",
+      "top_artist": "The Doors",
       "top_artist_count": 1,
-      "headline": "Bob Dylan",
+      "headline": "The Doors",
       "headline_type": "artist"
     },
     {
@@ -24044,9 +24044,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Kanye West",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
-      "headline": "Kanye West",
+      "headline": "Anuv Jain",
       "headline_type": "artist"
     },
     {
@@ -24116,9 +24116,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Rage Against The Machine",
+      "top_artist": "Three Days Grace",
       "top_artist_count": 1,
-      "headline": "Rage Against The Machine",
+      "headline": "Three Days Grace",
       "headline_type": "artist"
     },
     {
@@ -24224,9 +24224,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 1,
       "session_type": "mixed",
-      "top_artist": "Sublime",
+      "top_artist": "Deep Purple",
       "top_artist_count": 1,
-      "headline": "Sublime",
+      "headline": "Deep Purple",
       "headline_type": "artist"
     },
     {
@@ -24296,7 +24296,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 7,
       "session_type": "shuffle_explore",
-      "top_artist": "Nirvana",
+      "top_artist": "Linkin Park",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -24350,9 +24350,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Passenger",
+      "top_artist": "Coolio",
       "top_artist_count": 1,
-      "headline": "Passenger",
+      "headline": "Coolio",
       "headline_type": "artist"
     },
     {
@@ -24368,9 +24368,9 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "The Beatles",
+      "top_artist": "Hozier",
       "top_artist_count": 1,
-      "headline": "The Beatles",
+      "headline": "Hozier",
       "headline_type": "artist"
     },
     {
@@ -24386,9 +24386,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 1,
       "session_type": "mixed",
-      "top_artist": "Bad Bunny",
+      "top_artist": "50 Cent",
       "top_artist_count": 1,
-      "headline": "Bad Bunny",
+      "headline": "50 Cent",
       "headline_type": "artist"
     },
     {
@@ -24440,7 +24440,7 @@
       "top_genre": "Other",
       "genre_diversity": 1,
       "session_type": "mixed",
-      "top_artist": "Lana Del Rey",
+      "top_artist": "Doja Cat",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -24548,7 +24548,7 @@
       "top_genre": "Pop",
       "genre_diversity": 4,
       "session_type": "shuffle_explore",
-      "top_artist": "Bee Gees",
+      "top_artist": "Tanishk Bagchi",
       "top_artist_count": 2,
       "headline": "Pop",
       "headline_type": "genre"
@@ -24602,7 +24602,7 @@
       "top_genre": "Indian Indie/Folk",
       "genre_diversity": 7,
       "session_type": "shuffle_explore",
-      "top_artist": "Aditya A",
+      "top_artist": "Aryan Katoch",
       "top_artist_count": 1,
       "headline": "Indian Indie/Folk",
       "headline_type": "genre"
@@ -24725,12 +24725,12 @@
       "unique_artists": 3,
       "duration_min": 2.0,
       "skip_rate": 100.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "Rashid Ali",
+      "top_artist": "Red Hot Chili Peppers",
       "top_artist_count": 1,
-      "headline": "Rashid Ali",
+      "headline": "Red Hot Chili Peppers",
       "headline_type": "artist"
     },
     {
@@ -24815,7 +24815,7 @@
       "unique_artists": 1,
       "duration_min": 5.3,
       "skip_rate": 0.0,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "MF DOOM",
@@ -24836,9 +24836,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "blink-182",
+      "top_artist": "Porcupine Tree",
       "top_artist_count": 1,
-      "headline": "blink-182",
+      "headline": "Porcupine Tree",
       "headline_type": "artist"
     },
     {
@@ -24872,9 +24872,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "Kanye West",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
-      "headline": "Kanye West",
+      "headline": "Anuv Jain",
       "headline_type": "artist"
     },
     {
@@ -24926,7 +24926,7 @@
       "top_genre": "Pop",
       "genre_diversity": 7,
       "session_type": "shuffle_explore",
-      "top_artist": "Future",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
       "headline": "Pop",
       "headline_type": "genre"
@@ -24980,7 +24980,7 @@
       "top_genre": "Pop",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Bee Gees",
+      "top_artist": "Tanishk Bagchi",
       "top_artist_count": 1,
       "headline": "Pop",
       "headline_type": "genre"
@@ -25034,7 +25034,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "late_night",
-      "top_artist": "Incubus",
+      "top_artist": "Radiohead",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -25049,7 +25049,7 @@
       "unique_artists": 6,
       "duration_min": 47.0,
       "skip_rate": 31.2,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 6,
       "session_type": "late_night",
       "top_artist": "MF DOOM",
@@ -25106,7 +25106,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 6,
       "session_type": "shuffle_explore",
-      "top_artist": "Green Day",
+      "top_artist": "Metallica",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -25139,7 +25139,7 @@
       "unique_artists": 2,
       "duration_min": 34.9,
       "skip_rate": 0.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 2,
       "session_type": "focused",
       "top_artist": "A.R. Rahman",
@@ -25175,12 +25175,12 @@
       "unique_artists": 6,
       "duration_min": 15.7,
       "skip_rate": 16.7,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "late_night",
       "top_artist": "Usha Mangeshkar",
       "top_artist_count": 1,
-      "headline": "Pop",
+      "headline": "Indian Indie/Folk",
       "headline_type": "genre"
     },
     {
@@ -25193,7 +25193,7 @@
       "unique_artists": 2,
       "duration_min": 0.2,
       "skip_rate": 100.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "Kanye West",
@@ -25268,9 +25268,9 @@
       "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Shaarib Toshi",
+      "top_artist": "The Local Train",
       "top_artist_count": 1,
-      "headline": "Shaarib Toshi",
+      "headline": "The Local Train",
       "headline_type": "artist"
     },
     {
@@ -25286,9 +25286,9 @@
       "top_genre": "Pop",
       "genre_diversity": 6,
       "session_type": "mixed",
-      "top_artist": "blink-182",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
-      "headline": "blink-182",
+      "headline": "Anuv Jain",
       "headline_type": "artist"
     },
     {
@@ -25304,9 +25304,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "The Lumineers",
+      "top_artist": "Kanye West",
       "top_artist_count": 1,
-      "headline": "The Lumineers",
+      "headline": "Kanye West",
       "headline_type": "artist"
     },
     {
@@ -25661,12 +25661,12 @@
       "unique_artists": 3,
       "duration_min": 6.2,
       "skip_rate": 80.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Sandeep Khare",
+      "top_artist": "Saleel Kulkarni",
       "top_artist_count": 2,
-      "headline": "Sandeep Khare",
+      "headline": "Saleel Kulkarni",
       "headline_type": "artist"
     },
     {
@@ -25790,9 +25790,9 @@
       "top_genre": "Other",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Shubh",
+      "top_artist": "The Rolling Stones",
       "top_artist_count": 1,
-      "headline": "Shubh",
+      "headline": "The Rolling Stones",
       "headline_type": "artist"
     },
     {
@@ -25862,7 +25862,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
-      "top_artist": "Bee Gees",
+      "top_artist": "Sneha Khanwalkar",
       "top_artist_count": 1,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -25898,7 +25898,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 8,
       "session_type": "mixed",
-      "top_artist": "Queen",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -26132,7 +26132,7 @@
       "top_genre": "Pop",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "Guns N' Roses",
+      "top_artist": "Bullet For My Valentine",
       "top_artist_count": 1,
       "headline": "Pop",
       "headline_type": "genre"
@@ -26183,7 +26183,7 @@
       "unique_artists": 7,
       "duration_min": 17.0,
       "skip_rate": 90.3,
-      "top_genre": "Pop",
+      "top_genre": "Punjabi/Bhangra",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
       "top_artist": "AP Dhillon",
@@ -26201,12 +26201,12 @@
       "unique_artists": 5,
       "duration_min": 14.0,
       "skip_rate": 42.9,
-      "top_genre": "Pop",
+      "top_genre": "Punjabi/Bhangra",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "Shubh",
+      "top_artist": "Sidhu Moose Wala",
       "top_artist_count": 2,
-      "headline": "Shubh",
+      "headline": "Sidhu Moose Wala",
       "headline_type": "artist"
     },
     {
@@ -26219,7 +26219,7 @@
       "unique_artists": 7,
       "duration_min": 10.2,
       "skip_rate": 50.0,
-      "top_genre": "Pop",
+      "top_genre": "Punjabi/Bhangra",
       "genre_diversity": 6,
       "session_type": "mixed",
       "top_artist": "Shubh",
@@ -26240,7 +26240,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 7,
       "session_type": "mixed",
-      "top_artist": "Shiro SAGISU",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -26330,7 +26330,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 8,
       "session_type": "work_background",
-      "top_artist": "Deep Purple",
+      "top_artist": "Bob Dylan",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -26654,7 +26654,7 @@
       "top_genre": "Other",
       "genre_diversity": 7,
       "session_type": "mixed",
-      "top_artist": "Blend Crafters",
+      "top_artist": "Nehruviandoom",
       "top_artist_count": 2,
       "headline": "Other",
       "headline_type": "genre"
@@ -26798,9 +26798,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Dr. Dre",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 1,
-      "headline": "Dr. Dre",
+      "headline": "Kendrick Lamar",
       "headline_type": "artist"
     },
     {
@@ -26852,7 +26852,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 8,
       "session_type": "shuffle_explore",
-      "top_artist": "Taylor Swift",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 3,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -26870,7 +26870,7 @@
       "top_genre": "Other",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Dr. Dre",
+      "top_artist": "Taylor Swift",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -26888,9 +26888,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "SAMBATA",
+      "top_artist": "Eminem",
       "top_artist_count": 1,
-      "headline": "SAMBATA",
+      "headline": "Eminem",
       "headline_type": "artist"
     },
     {
@@ -26903,7 +26903,7 @@
       "unique_artists": 2,
       "duration_min": 8.3,
       "skip_rate": 0.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "mixed",
       "top_artist": "SAMBATA",
@@ -26978,7 +26978,7 @@
       "top_genre": "Other",
       "genre_diversity": 6,
       "session_type": "shuffle_explore",
-      "top_artist": "Shiro SAGISU",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -27158,7 +27158,7 @@
       "top_genre": "Other",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Benson Boone",
+      "top_artist": "Radiohead",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -27194,9 +27194,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "TLC",
+      "top_artist": "Radiohead",
       "top_artist_count": 2,
-      "headline": "TLC",
+      "headline": "Radiohead",
       "headline_type": "artist"
     },
     {
@@ -27212,7 +27212,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "focused",
-      "top_artist": "System Of A Down",
+      "top_artist": "blink-182",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -27230,7 +27230,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
-      "top_artist": "Weezer",
+      "top_artist": "MF DOOM",
       "top_artist_count": 2,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -27248,7 +27248,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "shuffle_explore",
-      "top_artist": "System Of A Down",
+      "top_artist": "Radiohead",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -27392,9 +27392,9 @@
       "top_genre": "Other",
       "genre_diversity": 4,
       "session_type": "late_night",
-      "top_artist": "Hoobastank",
+      "top_artist": "Imagine Dragons",
       "top_artist_count": 2,
-      "headline": "Hoobastank",
+      "headline": "Imagine Dragons",
       "headline_type": "artist"
     },
     {
@@ -27569,7 +27569,7 @@
       "unique_artists": 6,
       "duration_min": 12.6,
       "skip_rate": 60.0,
-      "top_genre": "Pop",
+      "top_genre": "Punjabi/Bhangra",
       "genre_diversity": 5,
       "session_type": "mixed",
       "top_artist": "Shubh",
@@ -27587,12 +27587,12 @@
       "unique_artists": 8,
       "duration_min": 2.0,
       "skip_rate": 90.9,
-      "top_genre": "Pop",
+      "top_genre": "Punjabi/Bhangra",
       "genre_diversity": 6,
       "session_type": "shuffle_explore",
-      "top_artist": "Shubh",
+      "top_artist": "Sidhu Moose Wala",
       "top_artist_count": 2,
-      "headline": "Pop",
+      "headline": "Punjabi/Bhangra",
       "headline_type": "genre"
     },
     {
@@ -27626,9 +27626,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 1,
       "session_type": "mixed",
-      "top_artist": "Kendrick Lamar",
+      "top_artist": "Eminem",
       "top_artist_count": 1,
-      "headline": "Kendrick Lamar",
+      "headline": "Eminem",
       "headline_type": "artist"
     },
     {
@@ -27731,7 +27731,7 @@
       "unique_artists": 4,
       "duration_min": 23.0,
       "skip_rate": 57.1,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "mixed",
       "top_artist": "Anuv Jain",
@@ -27950,7 +27950,7 @@
       "top_genre": "Other",
       "genre_diversity": 7,
       "session_type": "mixed",
-      "top_artist": "Ashley Johnson",
+      "top_artist": "Eddie Vedder",
       "top_artist_count": 2,
       "headline": "Other",
       "headline_type": "genre"
@@ -27986,7 +27986,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 6,
       "session_type": "late_night",
-      "top_artist": "Vishal Dadlani",
+      "top_artist": "blink-182",
       "top_artist_count": 1,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -28004,9 +28004,9 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Future",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
-      "headline": "Future",
+      "headline": "Anuv Jain",
       "headline_type": "artist"
     },
     {
@@ -28022,7 +28022,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 5,
       "session_type": "focused",
-      "top_artist": "Eminem",
+      "top_artist": "Tame Impala",
       "top_artist_count": 2,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -28148,7 +28148,7 @@
       "top_genre": "Pop",
       "genre_diversity": 6,
       "session_type": "shuffle_explore",
-      "top_artist": "Dhanda Nyoliwala",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
       "headline": "Pop",
       "headline_type": "genre"
@@ -28310,7 +28310,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 5,
       "session_type": "work_background",
-      "top_artist": "Dr. Dre",
+      "top_artist": "Metallica",
       "top_artist_count": 2,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -28400,7 +28400,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "focused",
-      "top_artist": "Queen",
+      "top_artist": "The Verve",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -28526,7 +28526,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Prateek Kuhad",
+      "top_artist": "Kendrick Lamar",
       "top_artist_count": 1,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -28688,7 +28688,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 5,
       "session_type": "focused",
-      "top_artist": "Prateek Kuhad",
+      "top_artist": "Rakim",
       "top_artist_count": 2,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -28706,9 +28706,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 4,
       "session_type": "focused",
-      "top_artist": "Weezer",
+      "top_artist": "Nirvana",
       "top_artist_count": 2,
-      "headline": "Weezer",
+      "headline": "Nirvana",
       "headline_type": "artist"
     },
     {
@@ -28904,7 +28904,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Gilbert O'Sullivan",
+      "top_artist": "The Beatles",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -28955,7 +28955,7 @@
       "unique_artists": 3,
       "duration_min": 16.6,
       "skip_rate": 0.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "Anirudh Ravichander",
@@ -28976,7 +28976,7 @@
       "top_genre": "Pop",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "Benny Dayal",
+      "top_artist": "Jason Mraz",
       "top_artist_count": 1,
       "headline": "Pop",
       "headline_type": "genre"
@@ -29009,7 +29009,7 @@
       "unique_artists": 2,
       "duration_min": 23.4,
       "skip_rate": 25.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "Anuv Jain",
@@ -29045,7 +29045,7 @@
       "unique_artists": 7,
       "duration_min": 27.7,
       "skip_rate": 33.3,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 4,
       "session_type": "mixed",
       "top_artist": "Anuv Jain",
@@ -29192,7 +29192,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 7,
       "session_type": "work_background",
-      "top_artist": "The Beatles",
+      "top_artist": "The Local Train",
       "top_artist_count": 3,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -29210,9 +29210,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Red Hot Chili Peppers",
+      "top_artist": "The Doors",
       "top_artist_count": 1,
-      "headline": "Red Hot Chili Peppers",
+      "headline": "The Doors",
       "headline_type": "artist"
     },
     {
@@ -29300,9 +29300,9 @@
       "top_genre": "Alternative/Indie Rock",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "JAY-Z",
+      "top_artist": "Anuv Jain",
       "top_artist_count": 1,
-      "headline": "JAY-Z",
+      "headline": "Anuv Jain",
       "headline_type": "artist"
     },
     {
@@ -29354,7 +29354,7 @@
       "top_genre": "Hip-Hop",
       "genre_diversity": 2,
       "session_type": "mixed",
-      "top_artist": "Ice Cube",
+      "top_artist": "Eminem",
       "top_artist_count": 4,
       "headline": "Hip-Hop",
       "headline_type": "genre"
@@ -29462,7 +29462,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "work_background",
-      "top_artist": "Oasis",
+      "top_artist": "Red Hot Chili Peppers",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -29516,7 +29516,7 @@
       "top_genre": "Other",
       "genre_diversity": 6,
       "session_type": "late_night",
-      "top_artist": "The Beatles",
+      "top_artist": "Djo",
       "top_artist_count": 2,
       "headline": "Other",
       "headline_type": "genre"
@@ -29534,7 +29534,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "shuffle_explore",
-      "top_artist": "Queen",
+      "top_artist": "Gorillaz",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -29606,7 +29606,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "mixed",
-      "top_artist": "Lynyrd Skynyrd",
+      "top_artist": "The Animals",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -29642,7 +29642,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "focused",
-      "top_artist": "Guns N' Roses",
+      "top_artist": "Radiohead",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -29678,7 +29678,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "focused",
-      "top_artist": "The Mamas & The Papas",
+      "top_artist": "Radiohead",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -29732,7 +29732,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 4,
       "session_type": "mixed",
-      "top_artist": "Queen",
+      "top_artist": "Radiohead",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -29768,7 +29768,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "focused",
-      "top_artist": "Guns N' Roses",
+      "top_artist": "Red Hot Chili Peppers",
       "top_artist_count": 2,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -29840,7 +29840,7 @@
       "top_genre": "Other",
       "genre_diversity": 8,
       "session_type": "late_night",
-      "top_artist": "Djo",
+      "top_artist": "Madvillain",
       "top_artist_count": 3,
       "headline": "Other",
       "headline_type": "genre"
@@ -29876,9 +29876,9 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 3,
       "session_type": "mixed",
-      "top_artist": "Kendrick Lamar",
+      "top_artist": "Sublime",
       "top_artist_count": 1,
-      "headline": "Kendrick Lamar",
+      "headline": "Sublime",
       "headline_type": "artist"
     },
     {
@@ -29894,7 +29894,7 @@
       "top_genre": "Classic Rock",
       "genre_diversity": 5,
       "session_type": "focused",
-      "top_artist": "Queen",
+      "top_artist": "Bee Gees",
       "top_artist_count": 1,
       "headline": "Classic Rock",
       "headline_type": "genre"
@@ -30092,7 +30092,7 @@
       "top_genre": "Other",
       "genre_diversity": 7,
       "session_type": "focused",
-      "top_artist": "Owl City",
+      "top_artist": "MF DOOM",
       "top_artist_count": 1,
       "headline": "Other",
       "headline_type": "genre"
@@ -30107,7 +30107,7 @@
       "unique_artists": 15,
       "duration_min": 92.5,
       "skip_rate": 13.8,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 7,
       "session_type": "marathon",
       "top_artist": "MF DOOM",
@@ -30269,7 +30269,7 @@
       "unique_artists": 1,
       "duration_min": 0.0,
       "skip_rate": 50.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 2,
       "session_type": "mixed",
       "top_artist": "Sachin-Jigar",
@@ -30305,7 +30305,7 @@
       "unique_artists": 3,
       "duration_min": 16.9,
       "skip_rate": 0.0,
-      "top_genre": "Pop",
+      "top_genre": "Indian Indie/Folk",
       "genre_diversity": 3,
       "session_type": "mixed",
       "top_artist": "A.R. Rahman",
@@ -30680,7 +30680,7 @@
       "unique_artists": 1,
       "duration_min": 25.8,
       "skip_rate": 45.5,
-      "top_genre": "Hip-Hop",
+      "top_genre": "Jazz/Blues",
       "genre_diversity": 2,
       "session_type": "deep_dive",
       "top_artist": "A Tribe Called Quest",

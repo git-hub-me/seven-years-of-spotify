@@ -9,7 +9,6 @@
   --green-dim: #17a348;
   --text: #f0f0f0;
   --muted: #888;
-  --accent1: #1DB954;
   --accent2: #E8A838;
   --accent3: #E84855;
   --accent4: #5865F2;
@@ -35,6 +34,7 @@ a:hover { text-decoration: underline; }
   max-width: 1100px;
   margin: 0 auto;
   padding: 80px 24px;
+  scroll-margin-top: 64px;
 }
 
 .section-label {
@@ -109,3 +109,56 @@ a:hover { text-decoration: underline; }
 ::-webkit-scrollbar { width: 6px; height: 6px; }
 ::-webkit-scrollbar-track { background: var(--surface); }
 ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+/* Hide scrollbar on nav links row */
+.nav-links::-webkit-scrollbar { display: none; }
+
+/* Insight callout — key finding in each chapter */
+.insight {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text);
+  border-left: 2px solid var(--green);
+  padding-left: 14px;
+  margin-bottom: 40px;
+  line-height: 1.6;
+  max-width: 560px;
+}
+
+/* Two-column responsive grid */
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+/* Loading spinner */
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .section {
+    padding: 48px 16px;
+  }
+
+  .section-title {
+    font-size: clamp(22px, 7vw, 48px);
+  }
+
+  .section-sub {
+    margin-bottom: 32px;
+  }
+
+  .section table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .grid-2 {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+}

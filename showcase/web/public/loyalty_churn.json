@@ -1,0 +1,579 @@
+{
+  "by_year": [
+    {
+      "year": 2019,
+      "new": 846,
+      "retained": 0,
+      "dropped": 0,
+      "total_active": 846,
+      "retention_pct": 100,
+      "top_new": [
+        {
+          "artist": "The Beatles",
+          "plays": 688
+        },
+        {
+          "artist": "The Local Train",
+          "plays": 150
+        },
+        {
+          "artist": "Kendrick Lamar",
+          "plays": 140
+        },
+        {
+          "artist": "Pink Floyd",
+          "plays": 120
+        },
+        {
+          "artist": "Ranveer Singh",
+          "plays": 117
+        },
+        {
+          "artist": "Eminem",
+          "plays": 108
+        },
+        {
+          "artist": "The Rolling Stones",
+          "plays": 100
+        },
+        {
+          "artist": "Queen",
+          "plays": 90
+        }
+      ],
+      "top_dropped": []
+    },
+    {
+      "year": 2020,
+      "new": 368,
+      "retained": 251,
+      "dropped": 595,
+      "total_active": 619,
+      "retention_pct": 29.7,
+      "top_new": [
+        {
+          "artist": "Linkin Park",
+          "plays": 52
+        },
+        {
+          "artist": "Led Zeppelin",
+          "plays": 27
+        },
+        {
+          "artist": "Odd Future",
+          "plays": 15
+        },
+        {
+          "artist": "Joy Division",
+          "plays": 13
+        },
+        {
+          "artist": "John Mayer",
+          "plays": 13
+        },
+        {
+          "artist": "Taba Chake",
+          "plays": 12
+        },
+        {
+          "artist": "The Smiths",
+          "plays": 12
+        },
+        {
+          "artist": "Kanye West",
+          "plays": 12
+        }
+      ],
+      "top_dropped": [
+        {
+          "artist": "DIVINE",
+          "plays": 47
+        },
+        {
+          "artist": "Dead by April",
+          "plays": 26
+        },
+        {
+          "artist": "Adele",
+          "plays": 19
+        },
+        {
+          "artist": "Santana",
+          "plays": 19
+        },
+        {
+          "artist": "Gaurav Raina",
+          "plays": 13
+        },
+        {
+          "artist": "The Isley Brothers",
+          "plays": 13
+        },
+        {
+          "artist": "Mike WiLL Made-It",
+          "plays": 12
+        },
+        {
+          "artist": "Mack 10",
+          "plays": 12
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "new": 503,
+      "retained": 347,
+      "dropped": 272,
+      "total_active": 982,
+      "retention_pct": 56.1,
+      "top_new": [
+        {
+          "artist": "Epr Iyer",
+          "plays": 204
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 69
+        },
+        {
+          "artist": "CZARFACE",
+          "plays": 35
+        },
+        {
+          "artist": "David Guetta",
+          "plays": 22
+        },
+        {
+          "artist": "Flo Rida",
+          "plays": 22
+        },
+        {
+          "artist": "Madara",
+          "plays": 20
+        },
+        {
+          "artist": "That 70s Hit Band",
+          "plays": 18
+        },
+        {
+          "artist": "Jibbs",
+          "plays": 18
+        }
+      ],
+      "top_dropped": [
+        {
+          "artist": "Snoop Lion",
+          "plays": 11
+        },
+        {
+          "artist": "Lizzo",
+          "plays": 10
+        },
+        {
+          "artist": "Noname",
+          "plays": 8
+        },
+        {
+          "artist": "Westside Gunn",
+          "plays": 8
+        },
+        {
+          "artist": "Gilbert O'Sullivan",
+          "plays": 7
+        },
+        {
+          "artist": "Pusha T",
+          "plays": 6
+        },
+        {
+          "artist": "Tove Lo",
+          "plays": 6
+        },
+        {
+          "artist": "Chet Faker",
+          "plays": 5
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "new": 390,
+      "retained": 365,
+      "dropped": 617,
+      "total_active": 828,
+      "retention_pct": 37.2,
+      "top_new": [
+        {
+          "artist": "Suman Kalyanpur",
+          "plays": 32
+        },
+        {
+          "artist": "Sanam",
+          "plays": 26
+        },
+        {
+          "artist": "Charles Manson",
+          "plays": 19
+        },
+        {
+          "artist": "OAFF",
+          "plays": 19
+        },
+        {
+          "artist": "DANGERDOOM",
+          "plays": 17
+        },
+        {
+          "artist": "Museek",
+          "plays": 16
+        },
+        {
+          "artist": "Enrique Iglesias",
+          "plays": 15
+        },
+        {
+          "artist": "Twenty One Pilots",
+          "plays": 13
+        }
+      ],
+      "top_dropped": [
+        {
+          "artist": "Emiway Bantai",
+          "plays": 17
+        },
+        {
+          "artist": "Stevie Wonder",
+          "plays": 17
+        },
+        {
+          "artist": "Rihanna",
+          "plays": 16
+        },
+        {
+          "artist": "mgk",
+          "plays": 12
+        },
+        {
+          "artist": "Daft Punk",
+          "plays": 11
+        },
+        {
+          "artist": "Bela Shende",
+          "plays": 11
+        },
+        {
+          "artist": "Migos",
+          "plays": 10
+        },
+        {
+          "artist": "King",
+          "plays": 9
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "new": 183,
+      "retained": 285,
+      "dropped": 543,
+      "total_active": 548,
+      "retention_pct": 34.4,
+      "top_new": [
+        {
+          "artist": "TLC",
+          "plays": 10
+        },
+        {
+          "artist": "John Legend",
+          "plays": 9
+        },
+        {
+          "artist": "The Highwaymen",
+          "plays": 6
+        },
+        {
+          "artist": "Gary Jules",
+          "plays": 5
+        },
+        {
+          "artist": "Dido",
+          "plays": 4
+        },
+        {
+          "artist": "Lost Frequencies",
+          "plays": 4
+        },
+        {
+          "artist": "Chani Nattan",
+          "plays": 3
+        },
+        {
+          "artist": "Rito Riba",
+          "plays": 3
+        }
+      ],
+      "top_dropped": [
+        {
+          "artist": "John Lennon",
+          "plays": 34
+        },
+        {
+          "artist": "Suman Kalyanpur",
+          "plays": 32
+        },
+        {
+          "artist": "Sanam",
+          "plays": 26
+        },
+        {
+          "artist": "Nikhil D'Souza",
+          "plays": 24
+        },
+        {
+          "artist": "Roy",
+          "plays": 22
+        },
+        {
+          "artist": "Charles Manson",
+          "plays": 19
+        },
+        {
+          "artist": "DANGERDOOM",
+          "plays": 17
+        },
+        {
+          "artist": "Indian Ocean",
+          "plays": 16
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "new": 25,
+      "retained": 156,
+      "dropped": 392,
+      "total_active": 212,
+      "retention_pct": 28.5,
+      "top_new": [
+        {
+          "artist": "Kratex",
+          "plays": 8
+        },
+        {
+          "artist": "Shreyas",
+          "plays": 6
+        },
+        {
+          "artist": "Suman Sridhar",
+          "plays": 2
+        },
+        {
+          "artist": "Ashu Shukla",
+          "plays": 2
+        },
+        {
+          "artist": "Powfu",
+          "plays": 2
+        },
+        {
+          "artist": "Aryan Katoch",
+          "plays": 1
+        },
+        {
+          "artist": "Alistair Alvin",
+          "plays": 1
+        },
+        {
+          "artist": "TV Girl",
+          "plays": 1
+        }
+      ],
+      "top_dropped": [
+        {
+          "artist": "Bullet For My Valentine",
+          "plays": 27
+        },
+        {
+          "artist": "Logic",
+          "plays": 21
+        },
+        {
+          "artist": "Kaam Bhaari",
+          "plays": 16
+        },
+        {
+          "artist": "Scorpions",
+          "plays": 10
+        },
+        {
+          "artist": "Macklemore & Ryan Lewis",
+          "plays": 10
+        },
+        {
+          "artist": "Death Cab for Cutie",
+          "plays": 10
+        },
+        {
+          "artist": "Evanescence",
+          "plays": 9
+        },
+        {
+          "artist": "The Alchemist",
+          "plays": 9
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "new": 198,
+      "retained": 144,
+      "dropped": 68,
+      "total_active": 565,
+      "retention_pct": 67.9,
+      "top_new": [
+        {
+          "artist": "SAMBATA",
+          "plays": 37
+        },
+        {
+          "artist": "MC THC",
+          "plays": 9
+        },
+        {
+          "artist": "YUNG DSA",
+          "plays": 7
+        },
+        {
+          "artist": "Rocksun",
+          "plays": 6
+        },
+        {
+          "artist": "Kushagra",
+          "plays": 5
+        },
+        {
+          "artist": "Gauntlet.",
+          "plays": 5
+        },
+        {
+          "artist": "Happy Birthday Songs",
+          "plays": 5
+        },
+        {
+          "artist": "Lewis Hanton",
+          "plays": 4
+        }
+      ],
+      "top_dropped": [
+        {
+          "artist": "Aditya A",
+          "plays": 14
+        },
+        {
+          "artist": "Twin Strings",
+          "plays": 9
+        },
+        {
+          "artist": "Anirudh Ravichander",
+          "plays": 6
+        },
+        {
+          "artist": "benny blanco",
+          "plays": 6
+        },
+        {
+          "artist": "Shreyas",
+          "plays": 6
+        },
+        {
+          "artist": "Sanam",
+          "plays": 4
+        },
+        {
+          "artist": "Iron Maiden",
+          "plays": 4
+        },
+        {
+          "artist": "Billie Eilish",
+          "plays": 3
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "new": 42,
+      "retained": 201,
+      "dropped": 364,
+      "total_active": 306,
+      "retention_pct": 35.6,
+      "top_new": [
+        {
+          "artist": "JA\u0178-Z",
+          "plays": 7
+        },
+        {
+          "artist": "Justh",
+          "plays": 4
+        },
+        {
+          "artist": "Alex Warren",
+          "plays": 4
+        },
+        {
+          "artist": "Justice",
+          "plays": 3
+        },
+        {
+          "artist": "Anil pareek",
+          "plays": 3
+        },
+        {
+          "artist": "W.i.S.H.",
+          "plays": 3
+        },
+        {
+          "artist": "Akshath",
+          "plays": 2
+        },
+        {
+          "artist": "Neyhal",
+          "plays": 2
+        }
+      ],
+      "top_dropped": [
+        {
+          "artist": "Madara",
+          "plays": 12
+        },
+        {
+          "artist": "Snoop Dogg",
+          "plays": 10
+        },
+        {
+          "artist": "Travis Scott",
+          "plays": 10
+        },
+        {
+          "artist": "Mohammed Rafi",
+          "plays": 9
+        },
+        {
+          "artist": "MC THC",
+          "plays": 9
+        },
+        {
+          "artist": "Eazy-E",
+          "plays": 8
+        },
+        {
+          "artist": "Britney Spears",
+          "plays": 7
+        },
+        {
+          "artist": "Dead by April",
+          "plays": 7
+        }
+      ]
+    }
+  ]
+}

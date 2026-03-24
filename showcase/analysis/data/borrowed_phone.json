@@ -1,0 +1,496 @@
+{
+  "suspicious": [
+    {
+      "date": "2025-06-20",
+      "ist_hour": 22,
+      "dow": 4,
+      "duration_min": 237.4,
+      "tracks_played": 66,
+      "unique_artists": 24,
+      "skip_rate": 10.6,
+      "avg_completion": 92.6,
+      "avg_artist_skip": 52.8,
+      "anomaly_score": 2.6772,
+      "top_artist": "Dr. Dre",
+      "artists_preview": [
+        "Dr. Dre",
+        "Akon",
+        "Coolio",
+        "SoulChef"
+      ],
+      "anomaly_pct": 100.0
+    },
+    {
+      "date": "2020-05-21",
+      "ist_hour": 12,
+      "dow": 3,
+      "duration_min": 114.5,
+      "tracks_played": 49,
+      "unique_artists": 27,
+      "skip_rate": 53.1,
+      "avg_completion": 84.9,
+      "avg_artist_skip": 60.1,
+      "anomaly_score": 2.4205,
+      "top_artist": "Kendrick Lamar",
+      "artists_preview": [
+        "B.o.B",
+        "Kendrick Lamar",
+        "A$AP Rocky",
+        "J. Cole"
+      ],
+      "anomaly_pct": 90.4
+    },
+    {
+      "date": "2020-07-01",
+      "ist_hour": 15,
+      "dow": 2,
+      "duration_min": 156.5,
+      "tracks_played": 40,
+      "unique_artists": 24,
+      "skip_rate": 5.0,
+      "avg_completion": 96.0,
+      "avg_artist_skip": 49.6,
+      "anomaly_score": 2.411,
+      "top_artist": "Pritam",
+      "artists_preview": [
+        "Nick Drake",
+        "George Harrison",
+        "Don McLean",
+        "The Beatles"
+      ],
+      "anomaly_pct": 90.1
+    },
+    {
+      "date": "2023-12-16",
+      "ist_hour": 20,
+      "dow": 5,
+      "duration_min": 67.5,
+      "tracks_played": 13,
+      "unique_artists": 12,
+      "skip_rate": 7.7,
+      "avg_completion": 100.0,
+      "avg_artist_skip": 55.1,
+      "anomaly_score": 2.3287,
+      "top_artist": "Prateek Kuhad",
+      "artists_preview": [
+        "Prateek Kuhad",
+        "Miley Cyrus",
+        "SZA",
+        "Taylor Swift"
+      ],
+      "anomaly_pct": 87.0
+    },
+    {
+      "date": "2020-05-19",
+      "ist_hour": 14,
+      "dow": 1,
+      "duration_min": 42.4,
+      "tracks_played": 18,
+      "unique_artists": 13,
+      "skip_rate": 66.7,
+      "avg_completion": 100.0,
+      "avg_artist_skip": 61.0,
+      "anomaly_score": 2.2987,
+      "top_artist": "Bad Meets Evil",
+      "artists_preview": [
+        "The Rolling Stones",
+        "Lil Wayne",
+        "Wale",
+        "Pusha T"
+      ],
+      "anomaly_pct": 85.9
+    },
+    {
+      "date": "2019-03-28",
+      "ist_hour": 17,
+      "dow": 3,
+      "duration_min": 99.0,
+      "tracks_played": 38,
+      "unique_artists": 18,
+      "skip_rate": 78.9,
+      "avg_completion": 79.9,
+      "avg_artist_skip": 62.1,
+      "anomaly_score": 2.2865,
+      "top_artist": "Dr. Dre",
+      "artists_preview": [
+        "Juicy J",
+        "Afroman",
+        "E-40",
+        "Mack 10"
+      ],
+      "anomaly_pct": 85.4
+    },
+    {
+      "date": "2022-07-25",
+      "ist_hour": 7,
+      "dow": 0,
+      "duration_min": 135.1,
+      "tracks_played": 41,
+      "unique_artists": 25,
+      "skip_rate": 26.8,
+      "avg_completion": 98.0,
+      "avg_artist_skip": 47.5,
+      "anomaly_score": 2.286,
+      "top_artist": "Green Day",
+      "artists_preview": [
+        "Mayday Parade",
+        "My Chemical Romance",
+        "Plain White T's",
+        "Twenty One Pilots"
+      ],
+      "anomaly_pct": 85.4
+    },
+    {
+      "date": "2022-09-13",
+      "ist_hour": 0,
+      "dow": 1,
+      "duration_min": 183.4,
+      "tracks_played": 51,
+      "unique_artists": 25,
+      "skip_rate": 0.0,
+      "avg_completion": 98.7,
+      "avg_artist_skip": 44.1,
+      "anomaly_score": 2.2723,
+      "top_artist": "Pink Floyd",
+      "artists_preview": [
+        "Pink Floyd",
+        "The Who",
+        "Kansas",
+        "The Doors"
+      ],
+      "anomaly_pct": 84.9
+    },
+    {
+      "date": "2023-06-25",
+      "ist_hour": 18,
+      "dow": 6,
+      "duration_min": 118.3,
+      "tracks_played": 17,
+      "unique_artists": 16,
+      "skip_rate": 5.9,
+      "avg_completion": 88.3,
+      "avg_artist_skip": 53.5,
+      "anomaly_score": 2.2565,
+      "top_artist": "Eminem",
+      "artists_preview": [
+        "Maroon 5",
+        "Coolio",
+        "The White Stripes",
+        "Eminem"
+      ],
+      "anomaly_pct": 84.3
+    },
+    {
+      "date": "2020-08-11",
+      "ist_hour": 16,
+      "dow": 1,
+      "duration_min": 65.6,
+      "tracks_played": 16,
+      "unique_artists": 14,
+      "skip_rate": 0.0,
+      "avg_completion": 100.0,
+      "avg_artist_skip": 53.5,
+      "anomaly_score": 2.2476,
+      "top_artist": "Eminem",
+      "artists_preview": [
+        "Jonas Brothers",
+        "Kendrick Lamar",
+        "Eminem",
+        "Khalid"
+      ],
+      "anomaly_pct": 84.0
+    },
+    {
+      "date": "2022-12-13",
+      "ist_hour": 10,
+      "dow": 1,
+      "duration_min": 38.8,
+      "tracks_played": 11,
+      "unique_artists": 2,
+      "skip_rate": 36.4,
+      "avg_completion": 100.0,
+      "avg_artist_skip": 60.0,
+      "anomaly_score": 2.2117,
+      "top_artist": "Linkin Park",
+      "artists_preview": [
+        "Disturbed",
+        "Linkin Park"
+      ],
+      "anomaly_pct": 82.6
+    },
+    {
+      "date": "2021-06-25",
+      "ist_hour": 11,
+      "dow": 4,
+      "duration_min": 59.2,
+      "tracks_played": 11,
+      "unique_artists": 7,
+      "skip_rate": 9.1,
+      "avg_completion": 99.8,
+      "avg_artist_skip": 54.0,
+      "anomaly_score": 2.2102,
+      "top_artist": "Mohit Chauhan",
+      "artists_preview": [
+        "Demi Lovato",
+        "A.R. Rahman",
+        "Mohit Chauhan",
+        "Ranbir Kapoor"
+      ],
+      "anomaly_pct": 82.6
+    },
+    {
+      "date": "2020-07-21",
+      "ist_hour": 21,
+      "dow": 1,
+      "duration_min": 63.0,
+      "tracks_played": 9,
+      "unique_artists": 9,
+      "skip_rate": 0.0,
+      "avg_completion": 100.0,
+      "avg_artist_skip": 53.0,
+      "anomaly_score": 2.2047,
+      "top_artist": "Oasis",
+      "artists_preview": [
+        "Nothing But Thieves",
+        "Foo Fighters",
+        "blink-182",
+        "Pearl Jam"
+      ],
+      "anomaly_pct": 82.4
+    },
+    {
+      "date": "2020-12-17",
+      "ist_hour": 22,
+      "dow": 3,
+      "duration_min": 71.3,
+      "tracks_played": 18,
+      "unique_artists": 12,
+      "skip_rate": 5.6,
+      "avg_completion": 95.4,
+      "avg_artist_skip": 54.0,
+      "anomaly_score": 2.2043,
+      "top_artist": "Linkin Park",
+      "artists_preview": [
+        "Billy Joel",
+        "Linkin Park",
+        "Red Hot Chili Peppers",
+        "The Offspring"
+      ],
+      "anomaly_pct": 82.3
+    },
+    {
+      "date": "2021-05-25",
+      "ist_hour": 20,
+      "dow": 1,
+      "duration_min": 74.8,
+      "tracks_played": 19,
+      "unique_artists": 7,
+      "skip_rate": 5.3,
+      "avg_completion": 96.8,
+      "avg_artist_skip": 52.5,
+      "anomaly_score": 2.2011,
+      "top_artist": "Eminem",
+      "artists_preview": [
+        "Clinton Cerejo",
+        "Epic Rap Battles of History",
+        "Eminem",
+        "Dr. Dre"
+      ],
+      "anomaly_pct": 82.2
+    },
+    {
+      "date": "2024-02-28",
+      "ist_hour": 23,
+      "dow": 2,
+      "duration_min": 77.9,
+      "tracks_played": 17,
+      "unique_artists": 15,
+      "skip_rate": 0.0,
+      "avg_completion": 95.6,
+      "avg_artist_skip": 52.1,
+      "anomaly_score": 2.1779,
+      "top_artist": "Deep Purple",
+      "artists_preview": [
+        "Anuv Jain",
+        "Kanye West",
+        "Post Malone",
+        "The Lumineers"
+      ],
+      "anomaly_pct": 81.3
+    },
+    {
+      "date": "2026-03-09",
+      "ist_hour": 21,
+      "dow": 0,
+      "duration_min": 247.1,
+      "tracks_played": 130,
+      "unique_artists": 64,
+      "skip_rate": 47.7,
+      "avg_completion": 79.7,
+      "avg_artist_skip": 49.5,
+      "anomaly_score": 2.1744,
+      "top_artist": "Lana Del Rey",
+      "artists_preview": [
+        "Anuv Jain",
+        "Prateek Kuhad",
+        "AP Dhillon",
+        "Shubh"
+      ],
+      "anomaly_pct": 81.2
+    },
+    {
+      "date": "2019-04-23",
+      "ist_hour": 11,
+      "dow": 1,
+      "duration_min": 72.2,
+      "tracks_played": 71,
+      "unique_artists": 31,
+      "skip_rate": 85.9,
+      "avg_completion": 69.1,
+      "avg_artist_skip": 73.1,
+      "anomaly_score": 2.1699,
+      "top_artist": "Cody Simpson",
+      "artists_preview": [
+        "The Beatles",
+        "Oasis",
+        "B.o.B",
+        "Sara Bareilles"
+      ],
+      "anomaly_pct": 81.1
+    },
+    {
+      "date": "2021-08-03",
+      "ist_hour": 8,
+      "dow": 1,
+      "duration_min": 42.4,
+      "tracks_played": 13,
+      "unique_artists": 10,
+      "skip_rate": 7.7,
+      "avg_completion": 100.0,
+      "avg_artist_skip": 57.3,
+      "anomaly_score": 2.1622,
+      "top_artist": "Steve Lacy",
+      "artists_preview": [
+        "Silk Route",
+        "Eminem",
+        "Kanye West",
+        "Kendrick Lamar"
+      ],
+      "anomaly_pct": 80.8
+    },
+    {
+      "date": "2021-06-30",
+      "ist_hour": 16,
+      "dow": 2,
+      "duration_min": 43.9,
+      "tracks_played": 7,
+      "unique_artists": 3,
+      "skip_rate": 28.6,
+      "avg_completion": 100.0,
+      "avg_artist_skip": 56.6,
+      "anomaly_score": 2.1549,
+      "top_artist": "Linkin Park",
+      "artists_preview": [
+        "Lorde",
+        "Linkin Park",
+        "JAY-Z"
+      ],
+      "anomaly_pct": 80.5
+    }
+  ],
+  "normal_high_completion": [
+    {
+      "date": "2021-02-22",
+      "ist_hour": 16,
+      "dow": 0,
+      "duration_min": 10.6,
+      "tracks_played": 4,
+      "unique_artists": 1,
+      "skip_rate": 50.0,
+      "avg_completion": 100.0,
+      "avg_artist_skip": 33.3,
+      "anomaly_score": 0.8162,
+      "top_artist": "A Tribe Called Quest",
+      "artists_preview": [
+        "A Tribe Called Quest"
+      ],
+      "anomaly_pct": 30.5
+    },
+    {
+      "date": "2019-09-13",
+      "ist_hour": 8,
+      "dow": 4,
+      "duration_min": 9.7,
+      "tracks_played": 4,
+      "unique_artists": 1,
+      "skip_rate": 0.0,
+      "avg_completion": 100.0,
+      "avg_artist_skip": 33.3,
+      "anomaly_score": 0.7893,
+      "top_artist": "Khalid",
+      "artists_preview": [
+        "Khalid"
+      ],
+      "anomaly_pct": 29.5
+    },
+    {
+      "date": "2022-03-08",
+      "ist_hour": 19,
+      "dow": 1,
+      "duration_min": 36.1,
+      "tracks_played": 17,
+      "unique_artists": 4,
+      "skip_rate": 29.4,
+      "avg_completion": 96.2,
+      "avg_artist_skip": 29.2,
+      "anomaly_score": 1.0164,
+      "top_artist": "Checka Fred",
+      "artists_preview": [
+        "N.W.A.",
+        "Checka Fred",
+        "Ras Matthew",
+        "Manudigital"
+      ],
+      "anomaly_pct": 38.0
+    },
+    {
+      "date": "2026-02-18",
+      "ist_hour": 18,
+      "dow": 2,
+      "duration_min": 43.1,
+      "tracks_played": 4,
+      "unique_artists": 4,
+      "skip_rate": 0.0,
+      "avg_completion": 93.6,
+      "avg_artist_skip": 31.0,
+      "anomaly_score": 1.0986,
+      "top_artist": "The Cranberries",
+      "artists_preview": [
+        "Eagles",
+        "Radiohead",
+        "The Cranberries",
+        "Lynyrd Skynyrd"
+      ],
+      "anomaly_pct": 41.0
+    },
+    {
+      "date": "2019-06-06",
+      "ist_hour": 9,
+      "dow": 3,
+      "duration_min": 10.6,
+      "tracks_played": 7,
+      "unique_artists": 1,
+      "skip_rate": 0.0,
+      "avg_completion": 90.6,
+      "avg_artist_skip": 27.3,
+      "anomaly_score": 0.606,
+      "top_artist": "BEAT CRUSADERS",
+      "artists_preview": [
+        "BEAT CRUSADERS"
+      ],
+      "anomaly_pct": 22.6
+    }
+  ],
+  "total_sessions": 1366,
+  "avg_completion_all": 56.3
+}

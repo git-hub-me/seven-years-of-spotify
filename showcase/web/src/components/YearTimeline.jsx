@@ -1,18 +1,35 @@
 import React, { useState } from "react";
 
 const YEAR_NOTES = {
-  "2019": "The beginning. Classic rock and Beatles domination — 122 hours.",
-  "2020": "The pandemic year. Quieter but deeper. 116 hours.",
-  "2021": "Peak listening. 154 hours. The year everything clicked.",
-  "2022": "Second-highest year. Hip-hop starts to dominate. 147 hours.",
-  "2023": "A shift. Listening drops but quality over quantity. 78 hours.",
-  "2024": "The quiet year. Only 25 hours — life got loud in other ways.",
-  "2025": "The return. Indian indie resurfaces. 75 hours and climbing.",
+  "2019": "The beginning. Beatles and classic rock, wall to wall. 122 hours.",
+  "2020": "The pandemic year. Slower, a lot more time at home. 116 hours.",
+  "2021": "Peak listening. 154 hours. Came back to Mumbai in October.",
+  "2022": "Moved to Bangalore in February, new job and back to Mumbai by June. Hip-hop started taking over. 147 hours.",
+  "2023": "New job and got engaged in November. Listening dropped to 78 hours but the picks were good.",
+  "2024": "Got married in June. Bali in November. Only 25 hours on Spotify, life was louder.",
+  "2025": "Indian indie came back. 75 hours and still going.",
   "2026": "Still going. 52 hours and not done yet.",
+};
+
+const LIFE_EVENTS = {
+  "2021": [{ label: "Back to Mumbai", icon: "🏠", month: "Oct" }],
+  "2022": [
+    { label: "Moved to Bangalore", icon: "✈️", month: "Feb" },
+    { label: "New job · Back to Mumbai", icon: "💼", month: "Jun" },
+  ],
+  "2023": [
+    { label: "New job", icon: "💼", month: "Nov" },
+    { label: "Got engaged", icon: "💍", month: "Nov" },
+  ],
+  "2024": [
+    { label: "Got married", icon: "🥂", month: "Jun" },
+    { label: "Bali trip", icon: "🌴", month: "Nov" },
+  ],
 };
 
 export default function YearTimeline({ byYear }) {
   const [selectedYear, setSelectedYear] = useState("2021");
+  const [hoveredYear, setHoveredYear] = useState(null);
 
   if (!byYear) return null;
 
@@ -35,10 +52,13 @@ export default function YearTimeline({ byYear }) {
           const h = byYear[y].hours;
           const pct = h / maxHours;
           const isSelected = y === selectedYear;
+          const hasEvents = !!LIFE_EVENTS[y];
           return (
             <div
               key={y}
               onClick={() => setSelectedYear(y)}
+              onMouseEnter={() => setHoveredYear(y)}
+              onMouseLeave={() => setHoveredYear(null)}
               style={{ flex: 1, display: "flex", flexDirection: "column", alignItems: "center", cursor: "pointer", gap: 4 }}
             >
               <div style={{
@@ -46,23 +66,37 @@ export default function YearTimeline({ byYear }) {
                 color: isSelected ? "var(--green)" : "var(--muted)",
                 fontWeight: isSelected ? 700 : 400,
               }}>{Math.round(h)}h</div>
-              <div style={{
-                width: "100%",
-                height: Math.max(6, pct * 70),
-                background: isSelected ? "var(--green)" : "#2a2a2a",
-                borderRadius: "3px 3px 0 0",
-                border: isSelected ? "1px solid var(--green)" : "1px solid transparent",
-                transition: "all 0.2s",
-              }} />
+              <div style={{ position: "relative", width: "100%", height: Math.max(6, pct * 70) }}>
+                <div style={{
+                  width: "100%",
+                  height: "100%",
+                  background: isSelected ? "var(--green)" : hoveredYear === y ? "#3a3a3a" : "#2a2a2a",
+                  borderRadius: "3px 3px 0 0",
+                  border: isSelected ? "1px solid var(--green)" : hasEvents ? "1px solid #555" : "1px solid transparent",
+                  transition: "all 0.2s",
+                }} />
+                {hasEvents && (
+                  <div style={{
+                    position: "absolute", top: -6, right: -2,
+                    width: 8, height: 8, borderRadius: "50%",
+                    background: "#e8a838",
+                    boxShadow: "0 0 4px #e8a83888",
+                  }} />
+                )}
+              </div>
               <div style={{
                 fontSize: 12,
-                color: isSelected ? "var(--green)" : "#555",
+                color: isSelected ? "var(--green)" : hoveredYear === y ? "var(--muted)" : "#555",
                 fontWeight: isSelected ? 700 : 400,
                 transition: "color 0.2s",
               }}>{y}</div>
             </div>
           );
         })}
+      </div>
+      <div style={{ fontSize: 11, color: "#444", marginBottom: 24 }}>
+        <span style={{ display: "inline-block", width: 8, height: 8, borderRadius: "50%", background: "#e8a838", marginRight: 6 }} />
+        years with life events
       </div>
 
       {/* Year detail panel */}
@@ -88,6 +122,23 @@ export default function YearTimeline({ byYear }) {
               ))}
             </div>
           </div>
+
+          {/* Life events for this year */}
+          {LIFE_EVENTS[selectedYear] && (
+            <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginTop: 20 }}>
+              {LIFE_EVENTS[selectedYear].map((ev, i) => (
+                <div key={i} style={{
+                  display: "flex", alignItems: "center", gap: 6,
+                  background: "#e8a83814", border: "1px solid #e8a83844",
+                  borderRadius: 20, padding: "4px 12px", fontSize: 12,
+                  color: "#e8a838",
+                }}>
+                  <span>{ev.icon}</span>
+                  <span>{ev.month} · {ev.label}</span>
+                </div>
+              ))}
+            </div>
+          )}
 
           <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 32, marginTop: 32 }}>
             {/* Top artists */}

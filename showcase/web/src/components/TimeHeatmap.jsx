@@ -144,7 +144,7 @@ export default function TimeHeatmap({ data }) {
                 display: "flex", alignItems: "center",
                 justifyContent: "flex-end", paddingRight: 8,
               }}>
-                {utcHour % 6 === 0 ? IST_HOUR_LABELS[utcHour] : ""}
+                {utcHour % 3 === 0 ? IST_HOUR_LABELS[utcHour] : ""}
               </div>
               {Array.from({ length: 7 }, (_, dow) => {
                 const cell = matrix[utcHour][dow];

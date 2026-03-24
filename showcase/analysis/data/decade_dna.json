@@ -1,0 +1,734 @@
+{
+  "decades": [
+    {
+      "decade": 1960,
+      "label": "1960s",
+      "plays": 1038,
+      "pct": 11.1,
+      "top_artists": [
+        {
+          "artist": "The Beatles",
+          "plays": 533
+        },
+        {
+          "artist": "The Rolling Stones",
+          "plays": 114
+        },
+        {
+          "artist": "Jimi Hendrix",
+          "plays": 91
+        },
+        {
+          "artist": "Bob Dylan",
+          "plays": 75
+        },
+        {
+          "artist": "Simon & Garfunkel",
+          "plays": 56
+        },
+        {
+          "artist": "The Doors",
+          "plays": 39
+        }
+      ],
+      "top_tracks": [
+        {
+          "track": "Paint It, Black",
+          "artist": "The Rolling Stones",
+          "plays": 52
+        },
+        {
+          "track": "Yesterday - Remastered 2009",
+          "artist": "The Beatles",
+          "plays": 48
+        },
+        {
+          "track": "All Along the Watchtower",
+          "artist": "Jimi Hendrix",
+          "plays": 46
+        },
+        {
+          "track": "Blackbird - Remastered 2009",
+          "artist": "The Beatles",
+          "plays": 43
+        },
+        {
+          "track": "Octopus's Garden - Remastered 2009",
+          "artist": "The Beatles",
+          "plays": 34
+        }
+      ],
+      "genre_breakdown": {
+        "Classic Rock": 896,
+        "Folk/Acoustic": 78,
+        "Jazz/Blues": 60,
+        "Pop": 4
+      }
+    },
+    {
+      "decade": 1970,
+      "label": "1970s",
+      "plays": 1208,
+      "pct": 13.0,
+      "top_artists": [
+        {
+          "artist": "Pink Floyd",
+          "plays": 243
+        },
+        {
+          "artist": "Queen",
+          "plays": 121
+        },
+        {
+          "artist": "Elton John",
+          "plays": 73
+        },
+        {
+          "artist": "The Who",
+          "plays": 64
+        },
+        {
+          "artist": "Black Sabbath",
+          "plays": 62
+        },
+        {
+          "artist": "The Beatles",
+          "plays": 54
+        }
+      ],
+      "top_tracks": [
+        {
+          "track": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+          "artist": "Elton John",
+          "plays": 46
+        },
+        {
+          "track": "Wish You Were Here",
+          "artist": "Pink Floyd",
+          "plays": 37
+        },
+        {
+          "track": "My Sweet Lord - Remastered 2014",
+          "artist": "George Harrison",
+          "plays": 35
+        },
+        {
+          "track": "Don't Stop Me Now - Remastered 2011",
+          "artist": "Queen",
+          "plays": 32
+        },
+        {
+          "track": "Behind Blue Eyes",
+          "artist": "The Who",
+          "plays": 29
+        }
+      ],
+      "genre_breakdown": {
+        "Classic Rock": 932,
+        "Other": 221,
+        "Folk/Acoustic": 28,
+        "Jazz/Blues": 21,
+        "Pop": 6
+      }
+    },
+    {
+      "decade": 1980,
+      "label": "1980s",
+      "plays": 377,
+      "pct": 4.0,
+      "top_artists": [
+        {
+          "artist": "Queen",
+          "plays": 86
+        },
+        {
+          "artist": "Guns N' Roses",
+          "plays": 42
+        },
+        {
+          "artist": "Pixies",
+          "plays": 38
+        },
+        {
+          "artist": "The Animals",
+          "plays": 30
+        },
+        {
+          "artist": "The Clash",
+          "plays": 28
+        },
+        {
+          "artist": "Dire Straits",
+          "plays": 26
+        }
+      ],
+      "top_tracks": [
+        {
+          "track": "Under Pressure - Remastered 2011",
+          "artist": "Queen",
+          "plays": 40
+        },
+        {
+          "track": "House of the Rising Sun",
+          "artist": "The Animals",
+          "plays": 30
+        },
+        {
+          "track": "Where Is My Mind? - 2007 Remaster",
+          "artist": "Pixies",
+          "plays": 28
+        },
+        {
+          "track": "Should I Stay or Should I Go - Remastered",
+          "artist": "The Clash",
+          "plays": 28
+        },
+        {
+          "track": "Sweet Child O' Mine",
+          "artist": "Guns N' Roses",
+          "plays": 18
+        }
+      ],
+      "genre_breakdown": {
+        "Classic Rock": 274,
+        "Other": 57,
+        "Alternative/Indie Rock": 24,
+        "Hip-Hop": 22,
+        "Indian Indie/Folk": 0,
+        "Pop": 0
+      }
+    },
+    {
+      "decade": 1990,
+      "label": "1990s",
+      "plays": 1345,
+      "pct": 14.4,
+      "top_artists": [
+        {
+          "artist": "Dr. Dre",
+          "plays": 172
+        },
+        {
+          "artist": "Eminem",
+          "plays": 103
+        },
+        {
+          "artist": "Red Hot Chili Peppers",
+          "plays": 97
+        },
+        {
+          "artist": "Nirvana",
+          "plays": 96
+        },
+        {
+          "artist": "A Tribe Called Quest",
+          "plays": 87
+        },
+        {
+          "artist": "Radiohead",
+          "plays": 71
+        }
+      ],
+      "top_tracks": [
+        {
+          "track": "Forgot About Dre",
+          "artist": "Dr. Dre",
+          "plays": 65
+        },
+        {
+          "track": "What's The Difference",
+          "artist": "Dr. Dre",
+          "plays": 48
+        },
+        {
+          "track": "Electric Relaxation",
+          "artist": "A Tribe Called Quest",
+          "plays": 45
+        },
+        {
+          "track": "Come As You Are",
+          "artist": "Nirvana",
+          "plays": 45
+        },
+        {
+          "track": "Killing In The Name",
+          "artist": "Rage Against The Machine",
+          "plays": 41
+        }
+      ],
+      "genre_breakdown": {
+        "Hip-Hop": 548,
+        "Classic Rock": 352,
+        "Alternative/Indie Rock": 167,
+        "Other": 98,
+        "Jazz/Blues": 87,
+        "Pop": 79
+      }
+    },
+    {
+      "decade": 2000,
+      "label": "2000s",
+      "plays": 1832,
+      "pct": 19.7,
+      "top_artists": [
+        {
+          "artist": "The Beatles",
+          "plays": 171
+        },
+        {
+          "artist": "MF DOOM",
+          "plays": 154
+        },
+        {
+          "artist": "JA\u0178-Z",
+          "plays": 100
+        },
+        {
+          "artist": "Linkin Park",
+          "plays": 100
+        },
+        {
+          "artist": "Red Hot Chili Peppers",
+          "plays": 87
+        },
+        {
+          "artist": "System Of A Down",
+          "plays": 78
+        }
+      ],
+      "top_tracks": [
+        {
+          "track": "THAT'S THAT",
+          "artist": "MF DOOM",
+          "plays": 72
+        },
+        {
+          "track": "Rapp Snitch Knishes",
+          "artist": "MF DOOM",
+          "plays": 68
+        },
+        {
+          "track": "Lonely Day",
+          "artist": "System Of A Down",
+          "plays": 31
+        },
+        {
+          "track": "Numb / Encore",
+          "artist": "JA\u0178-Z",
+          "plays": 30
+        },
+        {
+          "track": "Seven Nation Army",
+          "artist": "The White Stripes",
+          "plays": 28
+        }
+      ],
+      "genre_breakdown": {
+        "Hip-Hop": 544,
+        "Classic Rock": 471,
+        "Other": 375,
+        "Pop": 138,
+        "Jazz/Blues": 124,
+        "Alternative/Indie Rock": 103
+      }
+    },
+    {
+      "decade": 2010,
+      "label": "2010s",
+      "plays": 2553,
+      "pct": 27.4,
+      "top_artists": [
+        {
+          "artist": "The Local Train",
+          "plays": 458
+        },
+        {
+          "artist": "Kendrick Lamar",
+          "plays": 419
+        },
+        {
+          "artist": "Eminem",
+          "plays": 111
+        },
+        {
+          "artist": "Dub Sharma",
+          "plays": 72
+        },
+        {
+          "artist": "Naezy",
+          "plays": 49
+        },
+        {
+          "artist": "Anuv Jain",
+          "plays": 46
+        }
+      ],
+      "top_tracks": [
+        {
+          "track": "Khudi",
+          "artist": "The Local Train",
+          "plays": 47
+        },
+        {
+          "track": "Choo Lo",
+          "artist": "The Local Train",
+          "plays": 44
+        },
+        {
+          "track": "Azadi",
+          "artist": "Dub Sharma",
+          "plays": 43
+        },
+        {
+          "track": "The Art of Peer Pressure",
+          "artist": "Kendrick Lamar",
+          "plays": 42
+        },
+        {
+          "track": "Love Game",
+          "artist": "Eminem",
+          "plays": 41
+        }
+      ],
+      "genre_breakdown": {
+        "Hip-Hop": 918,
+        "Other": 501,
+        "Indian Indie/Folk": 376,
+        "Alternative/Indie Rock": 350,
+        "Pop": 221,
+        "Electronic": 78
+      }
+    },
+    {
+      "decade": 2020,
+      "label": "2020s",
+      "plays": 968,
+      "pct": 10.4,
+      "top_artists": [
+        {
+          "artist": "Anuv Jain",
+          "plays": 211
+        },
+        {
+          "artist": "Epr Iyer",
+          "plays": 150
+        },
+        {
+          "artist": "CZARFACE",
+          "plays": 70
+        },
+        {
+          "artist": "Prateek Kuhad",
+          "plays": 66
+        },
+        {
+          "artist": "Dua Lipa",
+          "plays": 37
+        },
+        {
+          "artist": "SAMBATA",
+          "plays": 23
+        }
+      ],
+      "top_tracks": [
+        {
+          "track": "Husn",
+          "artist": "Anuv Jain",
+          "plays": 77
+        },
+        {
+          "track": "Mando Calrissian",
+          "artist": "CZARFACE",
+          "plays": 44
+        },
+        {
+          "track": "Gul",
+          "artist": "Anuv Jain",
+          "plays": 43
+        },
+        {
+          "track": "Love Again",
+          "artist": "Dua Lipa",
+          "plays": 26
+        },
+        {
+          "track": "Raastamahn",
+          "artist": "Epr Iyer",
+          "plays": 25
+        }
+      ],
+      "genre_breakdown": {
+        "Hip-Hop": 239,
+        "Other": 234,
+        "Pop": 154,
+        "Indian Indie/Folk": 146,
+        "Alternative/Indie Rock": 135,
+        "Classic Rock": 29
+      }
+    }
+  ],
+  "year_dist": [
+    {
+      "year": 1962,
+      "plays": 8
+    },
+    {
+      "year": 1963,
+      "plays": 11
+    },
+    {
+      "year": 1964,
+      "plays": 84
+    },
+    {
+      "year": 1965,
+      "plays": 206
+    },
+    {
+      "year": 1966,
+      "plays": 76
+    },
+    {
+      "year": 1967,
+      "plays": 252
+    },
+    {
+      "year": 1968,
+      "plays": 210
+    },
+    {
+      "year": 1969,
+      "plays": 191
+    },
+    {
+      "year": 1970,
+      "plays": 238
+    },
+    {
+      "year": 1971,
+      "plays": 226
+    },
+    {
+      "year": 1972,
+      "plays": 114
+    },
+    {
+      "year": 1973,
+      "plays": 201
+    },
+    {
+      "year": 1974,
+      "plays": 42
+    },
+    {
+      "year": 1975,
+      "plays": 112
+    },
+    {
+      "year": 1976,
+      "plays": 50
+    },
+    {
+      "year": 1977,
+      "plays": 62
+    },
+    {
+      "year": 1978,
+      "plays": 86
+    },
+    {
+      "year": 1979,
+      "plays": 77
+    },
+    {
+      "year": 1980,
+      "plays": 42
+    },
+    {
+      "year": 1981,
+      "plays": 12
+    },
+    {
+      "year": 1982,
+      "plays": 76
+    },
+    {
+      "year": 1983,
+      "plays": 13
+    },
+    {
+      "year": 1984,
+      "plays": 49
+    },
+    {
+      "year": 1985,
+      "plays": 14
+    },
+    {
+      "year": 1986,
+      "plays": 4
+    },
+    {
+      "year": 1987,
+      "plays": 87
+    },
+    {
+      "year": 1988,
+      "plays": 64
+    },
+    {
+      "year": 1989,
+      "plays": 16
+    },
+    {
+      "year": 1990,
+      "plays": 67
+    },
+    {
+      "year": 1991,
+      "plays": 153
+    },
+    {
+      "year": 1992,
+      "plays": 123
+    },
+    {
+      "year": 1993,
+      "plays": 66
+    },
+    {
+      "year": 1994,
+      "plays": 101
+    },
+    {
+      "year": 1995,
+      "plays": 46
+    },
+    {
+      "year": 1996,
+      "plays": 66
+    },
+    {
+      "year": 1997,
+      "plays": 125
+    },
+    {
+      "year": 1998,
+      "plays": 62
+    },
+    {
+      "year": 1999,
+      "plays": 536
+    },
+    {
+      "year": 2000,
+      "plays": 196
+    },
+    {
+      "year": 2001,
+      "plays": 153
+    },
+    {
+      "year": 2002,
+      "plays": 186
+    },
+    {
+      "year": 2003,
+      "plays": 195
+    },
+    {
+      "year": 2004,
+      "plays": 279
+    },
+    {
+      "year": 2005,
+      "plays": 163
+    },
+    {
+      "year": 2006,
+      "plays": 268
+    },
+    {
+      "year": 2007,
+      "plays": 127
+    },
+    {
+      "year": 2008,
+      "plays": 107
+    },
+    {
+      "year": 2009,
+      "plays": 158
+    },
+    {
+      "year": 2010,
+      "plays": 115
+    },
+    {
+      "year": 2011,
+      "plays": 193
+    },
+    {
+      "year": 2012,
+      "plays": 264
+    },
+    {
+      "year": 2013,
+      "plays": 174
+    },
+    {
+      "year": 2014,
+      "plays": 65
+    },
+    {
+      "year": 2015,
+      "plays": 376
+    },
+    {
+      "year": 2016,
+      "plays": 220
+    },
+    {
+      "year": 2017,
+      "plays": 340
+    },
+    {
+      "year": 2018,
+      "plays": 499
+    },
+    {
+      "year": 2019,
+      "plays": 307
+    },
+    {
+      "year": 2020,
+      "plays": 361
+    },
+    {
+      "year": 2021,
+      "plays": 203
+    },
+    {
+      "year": 2022,
+      "plays": 124
+    },
+    {
+      "year": 2023,
+      "plays": 134
+    },
+    {
+      "year": 2024,
+      "plays": 81
+    },
+    {
+      "year": 2025,
+      "plays": 64
+    },
+    {
+      "year": 2026,
+      "plays": 1
+    }
+  ],
+  "median_release_year": 2003,
+  "total_with_year": 9321
+}
